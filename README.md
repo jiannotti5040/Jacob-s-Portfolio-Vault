@@ -44,7 +44,7 @@ Written and implemented for a family members business. Converted ~100 individual
 ### **Prior Dev Works**
 *September 2025 – November 2025*
 
-Serves as a demonstration of learning curve and correcting to equalization of ignorance. Ontological and applied projects within are all internally consistent regardless of whether they are externally flawed.
+Serves as a demonstration of learning curve and correcting to equalization of ignorance. Narration, extragavation, and unverified claims run rampanant due to scale attempted without process hygeine and rigorous cross examiniation. Ontological and applied projects within are all internally consistent regardless of whether they are externally flawed. 
 
 ---
 
