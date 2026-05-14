@@ -18,7 +18,7 @@ An attempt to informally contribute to mathematics and physics as a non-credenti
 
 UMA’s development challenges were due to having only a $20 Claude subscription for tool efficiency and token limits—it probably could have been completed in forty hours rather than three weeks. The development challenges were juggling, cleaning, preserving, and making sure my own tool didn’t remove information—the battle was the tool not the goal. The fundamental question of this project is where does ignorance transition to knowledge? LLM's development the past year has been cresting and not plateaued and has gotten significanlty better at decoupling machine markers being present in human intended output but liberty is asked on markers or language inconsisitencies within. 
 
-The overall goal was to see if you can let logic and fleet both fly the right mathmatical peice migh already be realized just in need of different vocation with or wihtout bespoke development. Departitionlize mathmatical orders and rigitations and then- Let merit be math and physics, numbers the check. If the claim's are wrong I'd love to here about how the math is right. 
+The overall goal was to see if you can let logic and fleet fly the right mathmatical peice might already be realized and just in need of bespoke vocation. Departitionlize mathematical orders and conventions and then- Let merit be math and physics, numbers the check. 
 
 ---
 
