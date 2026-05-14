@@ -18,7 +18,7 @@ An attempt to informally contribute to mathematics and physics as a non-credenti
 
 UMA’s development challenges were due to having only a $20 Claude subscription for tool efficiency and token limits—it probably could have been completed in forty hours rather than three weeks. The development challenges were juggling, cleaning, preserving, and making sure my own tool didn’t remove information—the battle was the tool not the goal. The fundamental question of this project is where does ignorance transition to knowledge? LLM's development the past year has gotten significantly better at decoupling machine markers being present in human intended output but liberty is asked on markers or language inconsistencies within. 
 
-The overall goal was to use intellect, logical, and fleet catlyze unifying disparate mathmatics rather than classical conventions and instituional necessaties- right mathematical artifact might already be realized and just in need of bespoke vocational placement. It's accuracy I hope but make no claims to. Let merit be math and physics, numbers the check. 
+The overall goal was to unify disparate mathematics — where the right artifact might already exist and simply need a different placement. So identify what’s arbitrary and reimagine. In plain terms: we have the computation, so try it. Flip it. Inverse it. Do whatever you can imagine. If a piece of the puzzle fits, it is such. Let merit be math and physics, numbers the check.
 
 ---
 
