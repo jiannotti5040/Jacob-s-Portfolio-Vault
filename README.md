@@ -37,7 +37,7 @@ Composed in a remote Pennsylvania cabin in isolation and are two works of very d
 ### **Video Transciption Program** 
 *January 2026*
 
-Written and implemented for a family members business. Converted ~100 individual hour long meeting minutes into single meeting minutes, speakered, transcriptions. Slight corrections to output were needed but did fully automate the process. This demonstrates my progress of theoretical language learning to applicable. This was all catered around myself being everpresent as a man in the middle which inversly when optimized- optimzied the inteded outcome. 
+Written and implemented for a family members business. Converted ~100 individual hour long meeting minutes into single meeting minutes, speakered, transcriptions. Slight corrections to output were needed but did fully automate the process. This demonstrates my progress of theoretical language learning to application. This was all engineered around myself being everpresent as a man in the middle to balance compute and size limits which inversly when optimized- optimzied the intended outcome. I just had to download the files and structure the folders. 
 
 ---
 
