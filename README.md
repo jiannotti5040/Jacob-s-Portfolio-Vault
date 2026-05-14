@@ -44,19 +44,19 @@ Written and implemented for a family members business. Converted ~100 individual
 ### **Prior Dev Works**
 *September 2025 – November 2025*
 
-Serves as a demonstration of learning curve and correcting to equalization of ignorance. Narration, extragavation, and unverified claims run rampanant due to scale attempted without process hygeine and rigorous cross examiniation. Ontological and applied projects within are all internally consistent regardless of whether they are externally flawed. 
+Serves as a demonstration of learning curve and correcting to equalization of ignorance. Narration, extragavation, and unverified claims run rampanant due to scale attempted without process hygeine and rigorous cross examiniation. Ontological and applied projects within are all internally consistent regardless of whether they are externally flawed. At the time it was just fun-
 
 ---
 
 ### **On Semantics & AI**
-Semantics is meaning is feeling is emotion, is a vibe. Artificial intelligence will hallucinate but that is not the danger in consideration of individual responsibility for inferring meaning and discerning truth but the true danger is machine patronization, non communication and information loss or drop.
+Semantics is meaning is feeling and to me is emotion. So what's a vibe? Artificial intelligence will hallucinate but that is not the danger in consideration of individual responsibility for inferring meaning and discerning truth but the true danger is machine patronization, non communication and information loss or drop all while accoutnabilty is minimimul and self referenetial is uncontextualized. 
 
-Deployed systems architecture shouldn’t ever be machine vibe coded or sustained. For theirs is just a non contextual vibe too. A human architectural envisioning must accompany rigorous human auditing and leashed automation pushes for deployable architecture.
+Deployed systems architecture shouldn’t ever be vibe coded by a machine or adminstered by a machine. For theirs is just a non contextual vibe as well. A human architectural envisioning must accompany rigorous human auditing and leashed automation pushes for deployable architecture.
 
-Non deployable problem solving however just needs a human to vibe until true—if they can see mistruths or inconsistencies. This opens the door for scientific machine language vibe coding to aid in STEM because so long as the human isn’t hallucinating and can comprehend and articulate—and the math holds then academic and institutional gatekeeping decays.
+Non deployable problem solving however just needs a human to vibe until true— if they arent under disillusion or delusion. This opens the door for scientific machine language vibe coding to aid in STEM or the arts because so long as the human can comprehend and articulate- *and the math holds then academic and institutional gatekeeping decays while human innovation gains traction. 
 
 ### **Closing**
-Conventions, standards, nomenclature, structure, or expectations for code or novel works presentation is unknown to myself especially for UMA but if the answer isn’t where appropriate—it could likely be found elsewhere in the nest.
+Conventions, standards, nomenclature, structure, or expectations for code or novel works presentation is unknown to myself especially for UMA but if the answer isn’t where appropriate—it could likely be found elsewhere in the nest- or else thanks for pointing out and I'll make haste to corret. 
 
 In closing if you measure a fish by its ability to climb a tree it will never sum. Put a fish on a drone in the night sky though—and maybe Pisces is more than two.
 
