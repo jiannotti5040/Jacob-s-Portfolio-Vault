@@ -7,7 +7,7 @@ The portfolio showcased within is composed of **UMA**, **LexGuard**,**Video Tran
 ### The Evolution
 UMA is my current project which was developed in a period of three weeks. Prior developmental projects, however misguided, were my learning modules and were written over the course of the last year. Prior to that I had zero coding knowledge, was not proficient in anything computational and had not passed college calculus.
 
-This is all with the aim of demonstrating artificial intelligences ability to facility human potential conductive gaps in classical world systems for individuals primed but restricted by certain cognitions enabling unorthodox or previously unable individuals to contribute creative and unconditioned inputs to previously worldly and scientific endeavors.
+This is all with the aim of demonstrating artificial intelligences ability to facility human potential conductive gaps in classical world systems for individuals primed but restricted by certain cognitions enabling unorthodox or previously unable individuals to contribute creative and unconditioned inputs to previously failed scientific endeavors.
 
 ---
 
