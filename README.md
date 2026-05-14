@@ -16,7 +16,7 @@ This is all with the aim of demonstrating artificial intelligences ability to fa
 
 An attempt to informally contribute to mathematics and physics as a non-credentialed outsider. **104/104 of python tests passed confirming accuracy of mathematics.** 
 
-UMA’s development challenges were due to having only a $20 Claude subscription for tool efficiency and token limits—it probably could have been completed in forty hours rather than three weeks. The development challenges were juggling, cleaning, preserving, and making sure my own tool didn’t remove information—the battle was the tool not the goal. The fundamental question of this project is where does ignorance transition to knowledge? LLM's development the past year has been cresting and not plateaued and has gotten significianlty better at decoupling machine markers being present in human intended output but liberty is asked on markers or language inconsisitencies within. Let merit be math and physics, numbers the check. If the claim's are wrong I'd love to here about how the math is right. 
+UMA’s development challenges were due to having only a $20 Claude subscription for tool efficiency and token limits—it probably could have been completed in forty hours rather than three weeks. The development challenges were juggling, cleaning, preserving, and making sure my own tool didn’t remove information—the battle was the tool not the goal. The fundamental question of this project is where does ignorance transition to knowledge? LLM's development the past year has been cresting and not plateaued and has gotten significanlty better at decoupling machine markers being present in human intended output but liberty is asked on markers or language inconsisitencies within. Let merit be math and physics, numbers the check. If the claim's are wrong I'd love to here about how the math is right. 
 
 ---
 
@@ -34,7 +34,7 @@ Composed in a remote Pennsylvania cabin in isolation and are two works of very d
 
 ---
 
-### **Video Transciption Program** 
+### **Video Transcription Program** 
 *January 2026*
 
 Written and implemented for a family members business. Converted ~100 individual hour long meeting minutes into single meeting minutes, speakered, transcriptions. Slight corrections to output were needed but did fully automate the process. This demonstrates my progress of theoretical language learning to application. This was all engineered around myself being everpresent as a man in the middle to balance compute and size limits which when optimized- optimzied the intended outcome. So I found the breakpoint and became it.
@@ -54,9 +54,9 @@ Deployed systems architecture shouldn’t ever be vibe coded by a machine or adm
 Non deployable problem solving however just needs a human to vibe until true— if they arent under disillusion or delusion. This opens the door for scientific machine language vibe coding to aid in STEM or the arts progress because so long as the human can comprehend and articulate- *and the math holds then academic and institutional gatekeeping decays while human innovation gains traction. 
 
 ### **Closing**
--Conventions, standards, nomenclature, structure, or expectations for code or novel works presentation her in - I don't know the standard- especially for UMA but it is likely within the whole organization.
+-Conventions, standards, nomenclature, structure, or expectations for code or novel works presentation here in - I don't know the standard- especially for UMA but it is likely within the whole organization.
 
-It is my estimation that what artificial intelligence and machine learning lack isnt an expansion of ontolgocial or economic drivers nor more constraint or bounds but an emotive substrate to instantiate agentic context. As an individual my main communicative understanding mechansim is my internal emotion state in relation to what I perceive others internal emotion to be (oh the joy.) I also am proficent but not native to logical dimensionalitiies, physical laws, and computational theory. I see artitical intelligences misaligment as a emotional misunderstanding. Articulate the emotion uniformly and standardize it throughout and the semantic ontologies of computational aspirations now know what theyre missing. 
+It is my estimation that what artificial intelligence and machine learning lack isnt an expansion of ontological or economic drivers nor more constraint or bounds but an emotive substrate to instantiate agentic context. As an individual my main communicative mechanism for understanding is my internal emotion state in relation to what I perceive others internal emotion to be (oh the joy.) I also am proficent but not native to physical laws, and computational theory. I see artitical intelligences misaligment as a emotional misunderstanding. Articulate the emotion uniformly and standardize it throughout and the semantic ontologies of computational aspirations now know what theyre missing. 
 
 In closing if you measure a fish by its ability to climb a tree it will never sum. Put a fish on a drone in the night sky though—and maybe Pisces is more than two.
 
