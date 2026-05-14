@@ -7,14 +7,14 @@ The portfolio showcased within is composed of **UMA**, **LexGuard**,**Video Tran
 UMA is my current project which was developed over a period of three weeks. Past developmental projects, however misguided, were my learning modules and were written over the course of the last year. Prior to that I had zero coding knowledge, was not proficient in device haptics and affordance and had not passed college calculus.  
   
 This is all with the aim of demonstrating artificial intelligences ability to facility human potential conductive gaps in classical systems for individuals primed but restricted by certain cognitions that with LLM's enable unorthodox and unconditioned creative inputs to failed scientific endeavors and societal goals.  
-—  
+ 
   
 ### **UMA — Unified Master Architecture**  
 Created April 2026  
   
 An attempt to informally contribute to mathematics and physics as a non-credentialed outsider. 104/104 of python tests passed confirming accuracy of mathematics.  
   
-UMA’s development challenges were due to having only a $20 Claude subscription for tool efficiency and token limits—it probably could have been completed in forty hours rather than three weeks. The development challenges were juggling, cleaning, preserving, and making sure my own tool didn’t remove information—the battle was the tool not the goal. The fundamental question of this project is where does ignorance transition to knowledge? LLM's development the past year has gotten significantly better at decoupling machine markers being present in human intended output but liberty is asked on markers or language inconsistencies within.  
+UMA’s development challenges were due to having only a $20 Claude subscription for tool efficiency and token limits—it probably could have been completed in forty hours rather than three weeks. The development challenges were juggling, cleaning, preserving, and making sure my own tool didn’t remove information—the battle was the tool not the goal. The fundamental question of this project is where does ignorance transition to knowledge? LLM's development the past year has gotten significantly better at decoupling machine markers within intended output so liberty is asked on markers or language inconsistencies in UMA.  
   
 The overall goal was to unify disparate mathematics — where the right artifact might already exist and simply need a different placement. So identify what’s arbitrary and reimagine. In plain terms: we have the computation, so try it. Flip it. Inverse it. Do whatever you can imagine. If a piece of the puzzle fits, it is such. Let merit be math and physics, numbers the check.  
 —  
@@ -22,8 +22,8 @@ The overall goal was to unify disparate mathematics — where the right artifact
 ### **LexGuard** 
 Created October 2025  
   
-A sub-stack for audited decision making in artificial reasoning. It serves as a four point gate check on logic according to system and safety parameters. Inspired after I had been proven gullible to a persuasive machine illuminating the potential for danger. A typical doubling down and gaslighting by commercial LLMs is a cross platform consistency but I had already gotten the "true" answer elsewhere. With that and the unaccountable and shameless spiral from truth. I was propelled me into action on aiding in LLM transparency and accountability even if for my passion. For if consequentially significant or involved with innocent life the computers project hallucination could be catastrophic or tragic.
----  
+A sub-stack for audited decision making in artificial reasoning. It serves as a mathematically derived four point gate check on logic according to system and safety parameters. Inspired after I had been proven gullible to a persuasive machine illuminating the potential for danger. A typical doubling down and gaslighting by commercial LLMs is a cross platform consistency but I had already gotten the "true" answer elsewhere. With the unaccountable and shameless spiral of logical output from machine and its distance from the truth - I was led me into action on aiding in LLM Governance, even if for my passion. For if consequentially significant or involved with innocent life the computers project hallucination could be catastrophic or tragic.
+
 ### **Poetic Endeavors**  
 January 2026 – March 2026  
   
@@ -42,8 +42,10 @@ Serves as a demonstration of learning curve and correcting to equalization of ig
 —  
   
 ### **On Semantics & AI**  
-Semantics is meaning is feeling and to me is emotion. So what's a vibe? Artificial intelligence will hallucinate but that is not the danger in consideration of individual responsibility for inferring meaning and discerning truth but the true danger is machine patronization, non communication and information loss or drop all while accountability is minimum and self referential is un-contextualized.  
-Deployed systems architecture shouldn’t ever be vibe coded by a machine or administered by a machine. For theirs is just a non contextual vibe as well. A human architectural envisioning must accompany rigorous human auditing and leashed automation pushes for deployable architecture.  
+Semantics is meaning is feeling and to me is emotion. So what's a vibe? Artificial intelligence will hallucinate but that is not the danger in consideration of individual responsibility for asigning meaning and discerning truth. The true danger is machine patronization, non communication and information loss all while accountability is minimum and self referential is un-contextualized.  
+
+Deployed systems architecture shouldn’t ever be vibe coded by a machine or administered by a machine. For theirs is just a non contextual vibe as well. A human architectural envisioning must accompany rigorous human auditing and leashed automation pushes for deployable architecture. 
+
 Non deployable problem solving however just needs a human to vibe until true— if they aren’t under disillusion or delusion. This opens the door for scientific machine language vibe coding to aid in STEM or the arts progress because so long as the human can comprehend and articulate- *and the math holds then academic and institutional gatekeeping decays while human innovation gains traction.  
 —-   
 ### **Closing**  
