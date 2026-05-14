@@ -4,9 +4,9 @@ In practice I am a semantic brutalist. In computational language I am a nascent.
 The portfolio showcased within is composed of **UMA**, **LexGuard**,**Video Transcription Project**, and my **poetic works**—which are accompanied by my prior attempts at using semantics and first principles.  
   
 ### **The Evolution**  
-UMA is my current project which was developed over a period of three weeks. Prior developmental projects, however misguided, were my learning modules and were written over the course of the last year. Prior to that I had zero coding knowledge, was not proficient in device haptics and affordance and had not passed college calculus.  
+UMA is my current project which was developed over a period of three weeks. Past developmental projects, however misguided, were my learning modules and were written over the course of the last year. Prior to that I had zero coding knowledge, was not proficient in device haptics and affordance and had not passed college calculus.  
   
-This is all with the aim of demonstrating artificial intelligences ability to facility human potential conductive gaps in classical systems for individuals primed but restricted by certain cognitions enabling unorthodox or previously unable's to contribute creative and unconditioned inputs to failed scientific endeavors and societal goals.  
+This is all with the aim of demonstrating artificial intelligences ability to facility human potential conductive gaps in classical systems for individuals primed but restricted by certain cognitions that with LLM's enable unorthodox and unconditioned creative inputs to failed scientific endeavors and societal goals.  
 —  
   
 ### **UMA — Unified Master Architecture**  
@@ -22,7 +22,7 @@ The overall goal was to unify disparate mathematics — where the right artifact
 ### **LexGuard** 
 Created October 2025  
   
-A sub-stack for audited decision making in artificial reasoning. It serves as a four point gate check on logic according to system and safety parameters. Inspired after I had been proven gullible to a persuasive machine illuminating the potential for danger. A typical doubling down and gaslighting by commercial LLMs is a cross platform consistency but I had already gotten the "true" answer elsewhere. With that and the unaccountable and shameless spiral from truth... propelled me into action on aiding in LLM transparency and accountability even if for my passion. For if consequentially significant or involved with innocent life the computers project hallucination could be catastrophic or tragic.  
+A sub-stack for audited decision making in artificial reasoning. It serves as a four point gate check on logic according to system and safety parameters. Inspired after I had been proven gullible to a persuasive machine illuminating the potential for danger. A typical doubling down and gaslighting by commercial LLMs is a cross platform consistency but I had already gotten the "true" answer elsewhere. With that and the unaccountable and shameless spiral from truth. I was propelled me into action on aiding in LLM transparency and accountability even if for my passion. For if consequentially significant or involved with innocent life the computers project hallucination could be catastrophic or tragic.
 ---  
 ### **Poetic Endeavors**  
 January 2026 – March 2026  
