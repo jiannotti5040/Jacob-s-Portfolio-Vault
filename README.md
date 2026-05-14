@@ -14,7 +14,7 @@ This is all with the aim of demonstrating artificial intelligences ability to fa
 ### **UMA — Unified Master Architecture**
 *Created April 2026*
 
-An attempt to informally contribute to mathematics and physics as a non-credentialed outsider. **One hundred and four/One hundred and four of python tests passed confirming accuracy of mathematics.** 
+An attempt to informally contribute to mathematics and physics as a non-credentialed outsider. **104/104 of python tests passed confirming accuracy of mathematics.** 
 
 UMA’s development challenges were due to having only a $20 Claude subscription for tool efficiency and token limits—it probably could have been completed in two–three long sessions rather than three weeks. The development challenges were juggling, cleaning, preserving, and making sure my own tool didn’t remove information—the battle was the tool not the goal. The fundamental question of this project is where does ignorance transition to knowledge? Upon review liberty is asked on stated claims of grandiosity as vision couldn’t be decoupled from generation with current resources. Let merit be math and physics, numbers the check.
 
