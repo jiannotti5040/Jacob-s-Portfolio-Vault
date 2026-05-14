@@ -2,7 +2,7 @@
 
 In practice I am a semantic brutalist. In computational language I am a nascent. In discovery I am unrelenting. In inner song I am a son, an intimate, and a countryman.
 
-The portfolio showcased within is composed of **UMA**, **LexGuard**, **Video Transcription Project**, and my **poetic works**—which are accompanied by my prior attempts at using semantics and first person narratives.
+The portfolio showcased within is composed of **UMA**, **LexGuard**, **Video Transcription Project**, and my **poetic works**—which are all accompanied by my prior attempts at using semantics and first person narratives.
 
 ### The Evolution
 UMA is my current project which was developed over a period of three weeks. Prior developmental projects, however misguided, were my learning modules and were written over the course of the last year.
