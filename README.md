@@ -5,7 +5,7 @@ In practice I am a semantic brutalist. In computational language I am a nascent.
 The portfolio showcased within is composed of **UMA**, **LexGuard**,**Video Transcription Project**, and my **poetic works**—which are accompanied by my prior attempts at using semantics and first principles. 
 
 ### The Evolution
-UMA is my current project which was developed in a period of three weeks. Prior developmental projects, however misguided, were my learning modules and were written over the course of the last year. Prior to that I had zero coding knowledge, was not proficient in anything computational and had not passed college calculus.
+UMA is my current project which was developed over a period of three weeks. Prior developmental projects, however misguided, were my learning modules and were written over the course of the last year. Prior to that I had zero coding knowledge, was not proficient in device haptics and affordance and had not passed college calculus.
 
 This is all with the aim of demonstrating artificial intelligences ability to facility human potential conductive gaps in classical systems for individuals primed but restricted by certain cognitions enabling unorthodox or previously unable's to contribute creative and unconditioned inputs to failed scientific endeavors and societal goals. 
 
