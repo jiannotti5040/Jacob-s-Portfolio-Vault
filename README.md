@@ -23,7 +23,7 @@ UMA’s development challenges were due to having only a $20 Claude subscription
 ### **LexGuard**
 *Created October 2025*
 
-A substack for audited decision making in artificial reasoning. It serves as a four point gate check on logic according to system and safety parameters. Inspired after I had been proven gullible to a persuasive machine illuminating the massive danger potential. A typical doubling down and gaslighting by commercial LLMs is a cross platform consistency but I had already gotten the "true" answer elsewhere. With that to see the downwards spiral... propelled me into action on developing the concept of glassing a black box... even if for my passion. For if consequentially significant or innocent life was deceived the misaligned hallucination could be catastrophic or tragic. 
+A substack for audited decision making in artificial reasoning. It serves as a four point gate check on logic according to system and safety parameters. Inspired after I had been proven gullible to a persuasive machine illuminating the massive danger potential. A typical doubling down and gaslighting by commercial LLMs is a cross platform consistency but I had already gotten the "true" answer elsewhere. With that and the unaccountable and shameless spiral from truth... propelled me into action on developing the concept of glassing a black box... even if for my passion. For if consequentially significant or innocent life was deceived the misaligned hallucination could be catastrophic or tragic. 
 
 ---
 
