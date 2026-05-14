@@ -1,0 +1,5 @@
+mlx-whisper
+torch
+soundfile
+pyannote.audio
+python-docx
