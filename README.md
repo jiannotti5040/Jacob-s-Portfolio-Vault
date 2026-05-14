@@ -56,7 +56,9 @@ Deployed systems architecture shouldn’t ever be vibe coded by a machine or adm
 Non deployable problem solving however just needs a human to vibe until true— if they arent under disillusion or delusion. This opens the door for scientific machine language vibe coding to aid in STEM or the arts because so long as the human can comprehend and articulate- *and the math holds then academic and institutional gatekeeping decays while human innovation gains traction. 
 
 ### **Closing**
-Conventions, standards, nomenclature, structure, or expectations for code or novel works presentation is unknown to myself especially for UMA but if the answer isn’t where appropriate—it could likely be found elsewhere in the nest- or else thanks for pointing out and I'll make haste to corret. 
+-Conventions, standards, nomenclature, structure, or expectations for code or novel works presentation is unknown to myself especially for UMA but if the answer isn’t where appropriate—it could likely be found elsewhere in the nest- or else thanks for pointing out and I'll make haste to corret. 
+
+It is my estimation that what artificial intelligence and machine learning lack isnt an expansion of ontolgocial or economic drivers nor more constraint or bounds but an emotive substrate to instantiate agentic context. As an individual my main communicative understanding mechansim is my internal emotion state in relation to what I perceive others internal emotion to be (oh the joy.) I also am proficent but not native to logical dimensionalitiies, physical laws, and computational theory. I see artitical intelligences misaligment as a emotional misunderstanding. Articulate the emotion uniformly and standardize it throughout and the semantic ontologies of computational aspirations now know what theyre missing. 
 
 In closing if you measure a fish by its ability to climb a tree it will never sum. Put a fish on a drone in the night sky though—and maybe Pisces is more than two.
 
