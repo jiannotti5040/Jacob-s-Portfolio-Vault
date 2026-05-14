@@ -49,11 +49,11 @@ Serves as a demonstration of learning curve and correcting to equalization of ig
 ---
 
 ### **On Semantics & AI**
-Semantics is meaning is feeling and to me is emotion. So what's a vibe? Artificial intelligence will hallucinate but that is not the danger in consideration of individual responsibility for inferring meaning and discerning truth but the true danger is machine patronization, non communication and information loss or drop all while accoutnabilty is minimimul and self referenetial is uncontextualized. 
+Semantics is meaning is feeling and to me is emotion. So what's a vibe? Artificial intelligence will hallucinate but that is not the danger in consideration of individual responsibility for inferring meaning and discerning truth but the true danger is machine patronization, non communication and information loss or drop all while accountabilty is minimimul and self referenetial is uncontextualized. 
 
 Deployed systems architecture shouldn’t ever be vibe coded by a machine or adminstered by a machine. For theirs is just a non contextual vibe as well. A human architectural envisioning must accompany rigorous human auditing and leashed automation pushes for deployable architecture.
 
-Non deployable problem solving however just needs a human to vibe until true— if they arent under disillusion or delusion. This opens the door for scientific machine language vibe coding to aid in STEM or the arts because so long as the human can comprehend and articulate- *and the math holds then academic and institutional gatekeeping decays while human innovation gains traction. 
+Non deployable problem solving however just needs a human to vibe until true— if they arent under disillusion or delusion. This opens the door for scientific machine language vibe coding to aid in STEM or the arts progress because so long as the human can comprehend and articulate- *and the math holds then academic and institutional gatekeeping decays while human innovation gains traction. 
 
 ### **Closing**
 -Conventions, standards, nomenclature, structure, or expectations for code or novel works presentation is unknown to myself especially for UMA but if the answer isn’t where appropriate—it could likely be found elsewhere in the nest- or else thanks for pointing out and I'll make haste to corret. 
