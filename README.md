@@ -6,13 +6,13 @@ The portfolio showcased within is composed of **UMA**, **LexGuard**,**Video Tran
 ### **The Evolution**  
 UMA is my current project which was developed over a period of three weeks. Past developmental projects, however misguided, were my learning modules and were written over the course of the last year. Prior to that I had zero coding knowledge, was not proficient in device haptics and affordance and had not passed college calculus.  
   
-This is all with the aim of demonstrating artificial intelligences ability to facility human potential conductive gaps in classical systems for individuals primed but restricted by certain cognitions that with LLM's enable unorthodox and unconditioned creative inputs to failed scientific endeavors and societal goals.  
+This is all with the aim of demonstrating artificial intelligence's ability to facilitate human potential conductive gaps in classical systems for individuals primed but restricted by certain cognitions that with LLMs enable unorthodox and unconditioned creative inputs to failed scientific endeavors and societal goals.  
  
   
 ### **UMA — Unified Master Architecture**  
 Created April 2026  
   
-An attempt to informally contribute to mathematics and physics as a non-credentialed outsider. 104/104 of python tests passed confirming accuracy of mathematics.  
+An attempt to informally contribute to mathematics and physics as a non-credentialed outsider. 104/104 of Python tests passed confirming accuracy of mathematics.  
   
 UMA’s development challenges were due to having only a $20 Claude subscription for tool efficiency and token limits—it probably could have been completed in forty hours rather than three weeks. The development challenges were juggling, cleaning, preserving, and making sure my own tool didn’t remove information—the battle was the tool not the goal. The fundamental question of this project is where does ignorance transition to knowledge? LLM's development the past year has gotten significantly better at decoupling machine markers within intended output so liberty is asked on markers or language inconsistencies in UMA.  
   
