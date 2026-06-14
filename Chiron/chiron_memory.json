@@ -1,23 +1,2742 @@
 {
 "author": "ARCHITECT AND SOLE OWNER: Jacob Iannotti",
-"authors": {},
+"authors": {
+"law": "Wikipedia contributors"
+},
 "bank": {
-"capital": {},
-"ledger": [],
-"ownerships": []
+"capital": {
+"Infectatrum": 56.0,
+"JDICert": 109.0
+},
+"ledger": [
+{
+"artifact": "e54899d79047af5b",
+"engine": "JDICert",
+"kind": "credit",
+"role": "leader",
+"sig": "4a295ea9c6f32680",
+"weight": 1.0
+},
+{
+"artifact": "bc9658f7039b128d",
+"engine": "JDICert",
+"kind": "credit",
+"role": "leader",
+"sig": "06b0eafb5d343929",
+"weight": 1.0
+},
+{
+"artifact": "effa680f862f2490",
+"engine": "JDICert",
+"kind": "credit",
+"role": "leader",
+"sig": "a716e70d31a97735",
+"weight": 1.0
+},
+{
+"artifact": "6564cc4030299eb8",
+"engine": "JDICert",
+"kind": "credit",
+"role": "leader",
+"sig": "544dc44ca7b2ce64",
+"weight": 2.0
+},
+{
+"artifact": "bac46c31d627e920",
+"engine": "JDICert",
+"kind": "credit",
+"role": "leader",
+"sig": "16c522464e67440a",
+"weight": 1.0
+},
+{
+"artifact": "844f9914d3af3976",
+"engine": "JDICert",
+"kind": "credit",
+"role": "leader",
+"sig": "876c99f3d53e6696",
+"weight": 1.0
+},
+{
+"artifact": "24a2779be039eeab",
+"engine": "JDICert",
+"kind": "credit",
+"role": "leader",
+"sig": "d94aee1817a0c712",
+"weight": 1.0
+},
+{
+"artifact": "3f8ceaa3138df438",
+"engine": "Infectatrum",
+"kind": "credit",
+"role": "teacher",
+"sig": "1558c773c43b6e67",
+"weight": 1.0
+},
+{
+"artifact": "383a5a4d11a34452",
+"engine": "JDICert",
+"kind": "credit",
+"role": "leader",
+"sig": "65e8579e19bedfd6",
+"weight": 2.0
+},
+{
+"artifact": "76b306a9ec4a5cbe",
+"engine": "JDICert",
+"kind": "credit",
+"role": "leader",
+"sig": "06cdc36717456ef3",
+"weight": 1.0
+},
+{
+"artifact": "ff90ca9bd11563c6",
+"engine": "JDICert",
+"kind": "credit",
+"role": "leader",
+"sig": "2156386de3da783e",
+"weight": 1.0
+},
+{
+"artifact": "195a748b4b953bb0",
+"engine": "JDICert",
+"kind": "credit",
+"role": "leader",
+"sig": "3a9d6b05adda7f11",
+"weight": 1.0
+},
+{
+"artifact": "b14d37bff597312f",
+"engine": "Infectatrum",
+"kind": "credit",
+"role": "teacher",
+"sig": "26347f4667fe1e37",
+"weight": 1.0
+},
+{
+"artifact": "447400c95753db8f",
+"engine": "JDICert",
+"kind": "credit",
+"role": "leader",
+"sig": "33e84d92af54c428",
+"weight": 2.0
+},
+{
+"artifact": "01e203978a5a6fb7",
+"engine": "JDICert",
+"kind": "credit",
+"role": "leader",
+"sig": "e3e7b392770553bc",
+"weight": 1.0
+},
+{
+"artifact": "4e527f33f67acbb2",
+"engine": "JDICert",
+"kind": "credit",
+"role": "leader",
+"sig": "b2f4ab0d431cf06d",
+"weight": 1.0
+},
+{
+"artifact": "76f7bee9bfa90404",
+"engine": "JDICert",
+"kind": "credit",
+"role": "leader",
+"sig": "4c118a4f544251a8",
+"weight": 1.0
+},
+{
+"artifact": "7c216cab2f8eb17a",
+"engine": "Infectatrum",
+"kind": "credit",
+"role": "teacher",
+"sig": "9d2e932b750708e4",
+"weight": 1.0
+},
+{
+"artifact": "c9787265ea8845ae",
+"engine": "JDICert",
+"kind": "credit",
+"role": "leader",
+"sig": "7e1912b9b5f5989f",
+"weight": 2.0
+},
+{
+"artifact": "90efad0da539033a",
+"engine": "JDICert",
+"kind": "credit",
+"role": "leader",
+"sig": "2f38283bd2d242a1",
+"weight": 1.0
+},
+{
+"artifact": "96123d6b8291d964",
+"engine": "JDICert",
+"kind": "credit",
+"role": "leader",
+"sig": "657960327725f2f4",
+"weight": 1.0
+},
+{
+"artifact": "2fe2409b5892ec02",
+"engine": "JDICert",
+"kind": "credit",
+"role": "leader",
+"sig": "386f351e3271aadb",
+"weight": 1.0
+},
+{
+"artifact": "4f7decefdf502f0e",
+"engine": "Infectatrum",
+"kind": "credit",
+"role": "teacher",
+"sig": "8e34a950b48f7bfe",
+"weight": 1.0
+},
+{
+"artifact": "ae0a62d4c9d434ba",
+"engine": "JDICert",
+"kind": "credit",
+"role": "leader",
+"sig": "e70636aa88fc3f87",
+"weight": 2.0
+},
+{
+"artifact": "ac8e0f12a46210b6",
+"engine": "JDICert",
+"kind": "credit",
+"role": "leader",
+"sig": "1372acdc8e468708",
+"weight": 1.0
+},
+{
+"artifact": "ef9cbe632726974d",
+"engine": "JDICert",
+"kind": "credit",
+"role": "leader",
+"sig": "f49eb0d750c4fd92",
+"weight": 1.0
+},
+{
+"artifact": "b7df4cd7f9127323",
+"engine": "JDICert",
+"kind": "credit",
+"role": "leader",
+"sig": "6dce55367e6b4489",
+"weight": 1.0
+},
+{
+"artifact": "ba3519cd93c20746",
+"engine": "Infectatrum",
+"kind": "credit",
+"role": "teacher",
+"sig": "5e6a818fd0fcd349",
+"weight": 1.0
+},
+{
+"artifact": "c7676d4421ea5317",
+"engine": "JDICert",
+"kind": "credit",
+"role": "leader",
+"sig": "a79ab7f838fb4950",
+"weight": 2.0
+},
+{
+"artifact": "f80e490d9234073b",
+"engine": "JDICert",
+"kind": "credit",
+"role": "leader",
+"sig": "a7daf52acd053429",
+"weight": 1.0
+},
+{
+"artifact": "7faab055810b0081",
+"engine": "JDICert",
+"kind": "credit",
+"role": "leader",
+"sig": "4b6255124d86fc2e",
+"weight": 1.0
+},
+{
+"artifact": "8447a2b9cd0e379a",
+"engine": "JDICert",
+"kind": "credit",
+"role": "leader",
+"sig": "3278275350b912f3",
+"weight": 1.0
+},
+{
+"artifact": "62a63382cce3f740",
+"engine": "Infectatrum",
+"kind": "credit",
+"role": "teacher",
+"sig": "7805b88f95c67b2f",
+"weight": 1.0
+},
+{
+"artifact": "e3b653bdd87da4c0",
+"engine": "JDICert",
+"kind": "credit",
+"role": "leader",
+"sig": "f34b83f0d4bfbec8",
+"weight": 2.0
+},
+{
+"artifact": "f1cf6ffcfa3cb8ad",
+"engine": "JDICert",
+"kind": "credit",
+"role": "leader",
+"sig": "a0e66ff86048ed43",
+"weight": 1.0
+},
+{
+"artifact": "5111f169830c88a1",
+"engine": "JDICert",
+"kind": "credit",
+"role": "leader",
+"sig": "a211111e8fc0a11f",
+"weight": 1.0
+},
+{
+"artifact": "72b9fcaa3c4613ec",
+"engine": "JDICert",
+"kind": "credit",
+"role": "leader",
+"sig": "a51d960ff3e02857",
+"weight": 1.0
+},
+{
+"artifact": "366730a11f7ec143",
+"engine": "Infectatrum",
+"kind": "credit",
+"role": "teacher",
+"sig": "5c1bee3be116b912",
+"weight": 1.0
+},
+{
+"artifact": "4fc469f3529e7eba",
+"engine": "JDICert",
+"kind": "credit",
+"role": "leader",
+"sig": "760e925e917017d1",
+"weight": 2.0
+},
+{
+"artifact": "54112501105702be",
+"engine": "JDICert",
+"kind": "credit",
+"role": "leader",
+"sig": "2d54236435fe39de",
+"weight": 1.0
+},
+{
+"artifact": "f756c112504021c6",
+"engine": "JDICert",
+"kind": "credit",
+"role": "leader",
+"sig": "6c5965796c085e66",
+"weight": 1.0
+},
+{
+"artifact": "1e438afe929a990b",
+"engine": "JDICert",
+"kind": "credit",
+"role": "leader",
+"sig": "01e980da675c460e",
+"weight": 1.0
+},
+{
+"artifact": "2f10f80940a2ddca",
+"engine": "Infectatrum",
+"kind": "credit",
+"role": "teacher",
+"sig": "168a97015cc12edf",
+"weight": 1.0
+},
+{
+"artifact": "8bbe30017cabb57b",
+"engine": "JDICert",
+"kind": "credit",
+"role": "leader",
+"sig": "3bb40c86ad76a1a2",
+"weight": 2.0
+},
+{
+"artifact": "bba812e7a916921f",
+"engine": "JDICert",
+"kind": "credit",
+"role": "leader",
+"sig": "6c900e9f41021d97",
+"weight": 1.0
+},
+{
+"artifact": "164e6504179fa478",
+"engine": "JDICert",
+"kind": "credit",
+"role": "leader",
+"sig": "34d1210867b33c23",
+"weight": 1.0
+},
+{
+"artifact": "77292a1b2bb8e5ce",
+"engine": "JDICert",
+"kind": "credit",
+"role": "leader",
+"sig": "8a64d6d938de1bf6",
+"weight": 1.0
+},
+{
+"artifact": "2442b1912dbe8f5b",
+"engine": "Infectatrum",
+"kind": "credit",
+"role": "teacher",
+"sig": "230167378c2bcee9",
+"weight": 1.0
+},
+{
+"artifact": "d049a525a764e47b",
+"engine": "JDICert",
+"kind": "credit",
+"role": "leader",
+"sig": "0773b9e877a5c823",
+"weight": 2.0
+},
+{
+"artifact": "c53b1445c202844f",
+"engine": "JDICert",
+"kind": "credit",
+"role": "leader",
+"sig": "2331648213fe281d",
+"weight": 1.0
+},
+{
+"artifact": "1f3b5a264371f445",
+"engine": "JDICert",
+"kind": "credit",
+"role": "leader",
+"sig": "024402f4e5935c97",
+"weight": 1.0
+},
+{
+"artifact": "05e5b5b8eeb17513",
+"engine": "JDICert",
+"kind": "credit",
+"role": "leader",
+"sig": "593eb250aba6ce7b",
+"weight": 1.0
+},
+{
+"artifact": "cdf1e9c2b5d3646a",
+"engine": "Infectatrum",
+"kind": "credit",
+"role": "teacher",
+"sig": "96f06013569dbf9e",
+"weight": 1.0
+},
+{
+"artifact": "7f7d12ee5890c984",
+"engine": "JDICert",
+"kind": "credit",
+"role": "leader",
+"sig": "74dba618615dcc2e",
+"weight": 2.0
+},
+{
+"artifact": "5de7f69ccbc5e037",
+"engine": "JDICert",
+"kind": "credit",
+"role": "leader",
+"sig": "02e1416a56103ada",
+"weight": 1.0
+},
+{
+"artifact": "297fb5e02d27f07b",
+"engine": "JDICert",
+"kind": "credit",
+"role": "leader",
+"sig": "020ef56f988175d3",
+"weight": 1.0
+},
+{
+"artifact": "c85c52dbbdc45d88",
+"engine": "JDICert",
+"kind": "credit",
+"role": "leader",
+"sig": "5f5b59e304cb472e",
+"weight": 1.0
+},
+{
+"artifact": "b4a383a68e77ae32",
+"engine": "Infectatrum",
+"kind": "credit",
+"role": "teacher",
+"sig": "5ff50b528fc28936",
+"weight": 1.0
+},
+{
+"artifact": "423dfdb68d82d329",
+"engine": "JDICert",
+"kind": "credit",
+"role": "leader",
+"sig": "068ce06f82cca3e1",
+"weight": 2.0
+},
+{
+"artifact": "9c49c35b47841eb9",
+"engine": "JDICert",
+"kind": "credit",
+"role": "leader",
+"sig": "be4bca8f32f31629",
+"weight": 1.0
+},
+{
+"artifact": "508096e51b7d19c0",
+"engine": "JDICert",
+"kind": "credit",
+"role": "leader",
+"sig": "419bbbdfe9a2328e",
+"weight": 1.0
+},
+{
+"artifact": "d0fcb35221f76980",
+"engine": "JDICert",
+"kind": "credit",
+"role": "leader",
+"sig": "5587303f38c5ed42",
+"weight": 1.0
+},
+{
+"artifact": "b145cbcb98612a21",
+"engine": "Infectatrum",
+"kind": "credit",
+"role": "teacher",
+"sig": "c9bc89f58ee89fc1",
+"weight": 1.0
+},
+{
+"artifact": "5f87561bb35b940c",
+"engine": "JDICert",
+"kind": "credit",
+"role": "leader",
+"sig": "226f6810ef9f0d0a",
+"weight": 2.0
+},
+{
+"artifact": "fbe207ce3ccc4a09",
+"engine": "JDICert",
+"kind": "credit",
+"role": "leader",
+"sig": "778624722e505484",
+"weight": 1.0
+},
+{
+"artifact": "190be0a41e94637f",
+"engine": "JDICert",
+"kind": "credit",
+"role": "leader",
+"sig": "dc8bb3ac22ad97f8",
+"weight": 1.0
+},
+{
+"artifact": "1dd6b37461f408a9",
+"engine": "JDICert",
+"kind": "credit",
+"role": "leader",
+"sig": "f5626861d2090c93",
+"weight": 1.0
+},
+{
+"artifact": "51c98c4a816be735",
+"engine": "Infectatrum",
+"kind": "credit",
+"role": "teacher",
+"sig": "053b1bd3f4574f8c",
+"weight": 1.0
+},
+{
+"artifact": "02ee5f02f60c1b24",
+"engine": "JDICert",
+"kind": "credit",
+"role": "leader",
+"sig": "311e5b08ff18cb9e",
+"weight": 2.0
+},
+{
+"artifact": "064a42efc4933351",
+"engine": "Infectatrum",
+"kind": "credit",
+"role": "leader",
+"sig": "e0ae1422dc981346",
+"weight": 1.0
+},
+{
+"artifact": "c0d953154679e58b",
+"engine": "Infectatrum",
+"kind": "credit",
+"role": "leader",
+"sig": "0e2951d5d5271b42",
+"weight": 1.0
+},
+{
+"artifact": "abcb5e4c69865724",
+"engine": "JDICert",
+"kind": "credit",
+"role": "enforcer",
+"sig": "162fb86002c2dfe3",
+"weight": 1.0
+},
+{
+"artifact": "064a42efc4933351",
+"engine": "Infectatrum",
+"kind": "credit",
+"role": "leader",
+"sig": "e0ae1422dc981346",
+"weight": 1.0
+},
+{
+"artifact": "c0d953154679e58b",
+"engine": "Infectatrum",
+"kind": "credit",
+"role": "leader",
+"sig": "0e2951d5d5271b42",
+"weight": 1.0
+},
+{
+"artifact": "abcb5e4c69865724",
+"engine": "JDICert",
+"kind": "credit",
+"role": "enforcer",
+"sig": "162fb86002c2dfe3",
+"weight": 1.0
+},
+{
+"artifact": "064a42efc4933351",
+"engine": "Infectatrum",
+"kind": "credit",
+"role": "leader",
+"sig": "e0ae1422dc981346",
+"weight": 1.0
+},
+{
+"artifact": "c0d953154679e58b",
+"engine": "Infectatrum",
+"kind": "credit",
+"role": "leader",
+"sig": "0e2951d5d5271b42",
+"weight": 1.0
+},
+{
+"artifact": "abcb5e4c69865724",
+"engine": "JDICert",
+"kind": "credit",
+"role": "enforcer",
+"sig": "162fb86002c2dfe3",
+"weight": 1.0
+},
+{
+"artifact": "064a42efc4933351",
+"engine": "Infectatrum",
+"kind": "credit",
+"role": "leader",
+"sig": "e0ae1422dc981346",
+"weight": 1.0
+},
+{
+"artifact": "c0d953154679e58b",
+"engine": "Infectatrum",
+"kind": "credit",
+"role": "leader",
+"sig": "0e2951d5d5271b42",
+"weight": 1.0
+},
+{
+"artifact": "abcb5e4c69865724",
+"engine": "JDICert",
+"kind": "credit",
+"role": "enforcer",
+"sig": "162fb86002c2dfe3",
+"weight": 1.0
+},
+{
+"artifact": "064a42efc4933351",
+"engine": "Infectatrum",
+"kind": "credit",
+"role": "leader",
+"sig": "e0ae1422dc981346",
+"weight": 1.0
+},
+{
+"artifact": "c0d953154679e58b",
+"engine": "Infectatrum",
+"kind": "credit",
+"role": "leader",
+"sig": "0e2951d5d5271b42",
+"weight": 1.0
+},
+{
+"artifact": "abcb5e4c69865724",
+"engine": "JDICert",
+"kind": "credit",
+"role": "enforcer",
+"sig": "162fb86002c2dfe3",
+"weight": 1.0
+},
+{
+"artifact": "064a42efc4933351",
+"engine": "Infectatrum",
+"kind": "credit",
+"role": "leader",
+"sig": "e0ae1422dc981346",
+"weight": 1.0
+},
+{
+"artifact": "c0d953154679e58b",
+"engine": "Infectatrum",
+"kind": "credit",
+"role": "leader",
+"sig": "0e2951d5d5271b42",
+"weight": 1.0
+},
+{
+"artifact": "abcb5e4c69865724",
+"engine": "JDICert",
+"kind": "credit",
+"role": "enforcer",
+"sig": "162fb86002c2dfe3",
+"weight": 1.0
+},
+{
+"artifact": "064a42efc4933351",
+"engine": "Infectatrum",
+"kind": "credit",
+"role": "leader",
+"sig": "e0ae1422dc981346",
+"weight": 1.0
+},
+{
+"artifact": "c0d953154679e58b",
+"engine": "Infectatrum",
+"kind": "credit",
+"role": "leader",
+"sig": "0e2951d5d5271b42",
+"weight": 1.0
+},
+{
+"artifact": "abcb5e4c69865724",
+"engine": "JDICert",
+"kind": "credit",
+"role": "enforcer",
+"sig": "162fb86002c2dfe3",
+"weight": 1.0
+},
+{
+"artifact": "064a42efc4933351",
+"engine": "Infectatrum",
+"kind": "credit",
+"role": "leader",
+"sig": "e0ae1422dc981346",
+"weight": 1.0
+},
+{
+"artifact": "c0d953154679e58b",
+"engine": "Infectatrum",
+"kind": "credit",
+"role": "leader",
+"sig": "0e2951d5d5271b42",
+"weight": 1.0
+},
+{
+"artifact": "abcb5e4c69865724",
+"engine": "JDICert",
+"kind": "credit",
+"role": "enforcer",
+"sig": "162fb86002c2dfe3",
+"weight": 1.0
+},
+{
+"artifact": "064a42efc4933351",
+"engine": "Infectatrum",
+"kind": "credit",
+"role": "leader",
+"sig": "e0ae1422dc981346",
+"weight": 1.0
+},
+{
+"artifact": "c0d953154679e58b",
+"engine": "Infectatrum",
+"kind": "credit",
+"role": "leader",
+"sig": "0e2951d5d5271b42",
+"weight": 1.0
+},
+{
+"artifact": "abcb5e4c69865724",
+"engine": "JDICert",
+"kind": "credit",
+"role": "enforcer",
+"sig": "162fb86002c2dfe3",
+"weight": 1.0
+},
+{
+"artifact": "064a42efc4933351",
+"engine": "Infectatrum",
+"kind": "credit",
+"role": "leader",
+"sig": "e0ae1422dc981346",
+"weight": 1.0
+},
+{
+"artifact": "c0d953154679e58b",
+"engine": "Infectatrum",
+"kind": "credit",
+"role": "leader",
+"sig": "0e2951d5d5271b42",
+"weight": 1.0
+},
+{
+"artifact": "abcb5e4c69865724",
+"engine": "JDICert",
+"kind": "credit",
+"role": "enforcer",
+"sig": "162fb86002c2dfe3",
+"weight": 1.0
+},
+{
+"artifact": "41c7faeb4cc691a4",
+"engine": "JDICert",
+"kind": "credit",
+"role": "leader",
+"sig": "8d449a4806db7d73",
+"weight": 2.0
+},
+{
+"artifact": "af74ffbec664d97e",
+"engine": "Infectatrum",
+"kind": "credit",
+"role": "leader",
+"sig": "ddf906eef1822910",
+"weight": 1.0
+},
+{
+"artifact": "3a0a041763c24c24",
+"engine": "Infectatrum",
+"kind": "credit",
+"role": "leader",
+"sig": "ff2705535660b066",
+"weight": 1.0
+},
+{
+"artifact": "3817a0aaedb7237a",
+"engine": "JDICert",
+"kind": "credit",
+"role": "enforcer",
+"sig": "e93ee6fb39cf5479",
+"weight": 1.0
+},
+{
+"artifact": "af74ffbec664d97e",
+"engine": "Infectatrum",
+"kind": "credit",
+"role": "leader",
+"sig": "ddf906eef1822910",
+"weight": 1.0
+},
+{
+"artifact": "3a0a041763c24c24",
+"engine": "Infectatrum",
+"kind": "credit",
+"role": "leader",
+"sig": "ff2705535660b066",
+"weight": 1.0
+},
+{
+"artifact": "3817a0aaedb7237a",
+"engine": "JDICert",
+"kind": "credit",
+"role": "enforcer",
+"sig": "e93ee6fb39cf5479",
+"weight": 1.0
+},
+{
+"artifact": "af74ffbec664d97e",
+"engine": "Infectatrum",
+"kind": "credit",
+"role": "leader",
+"sig": "ddf906eef1822910",
+"weight": 1.0
+},
+{
+"artifact": "3a0a041763c24c24",
+"engine": "Infectatrum",
+"kind": "credit",
+"role": "leader",
+"sig": "ff2705535660b066",
+"weight": 1.0
+},
+{
+"artifact": "3817a0aaedb7237a",
+"engine": "JDICert",
+"kind": "credit",
+"role": "enforcer",
+"sig": "e93ee6fb39cf5479",
+"weight": 1.0
+},
+{
+"artifact": "af74ffbec664d97e",
+"engine": "Infectatrum",
+"kind": "credit",
+"role": "leader",
+"sig": "ddf906eef1822910",
+"weight": 1.0
+},
+{
+"artifact": "3a0a041763c24c24",
+"engine": "Infectatrum",
+"kind": "credit",
+"role": "leader",
+"sig": "ff2705535660b066",
+"weight": 1.0
+},
+{
+"artifact": "3817a0aaedb7237a",
+"engine": "JDICert",
+"kind": "credit",
+"role": "enforcer",
+"sig": "e93ee6fb39cf5479",
+"weight": 1.0
+},
+{
+"artifact": "af74ffbec664d97e",
+"engine": "Infectatrum",
+"kind": "credit",
+"role": "leader",
+"sig": "ddf906eef1822910",
+"weight": 1.0
+},
+{
+"artifact": "3a0a041763c24c24",
+"engine": "Infectatrum",
+"kind": "credit",
+"role": "leader",
+"sig": "ff2705535660b066",
+"weight": 1.0
+},
+{
+"artifact": "3817a0aaedb7237a",
+"engine": "JDICert",
+"kind": "credit",
+"role": "enforcer",
+"sig": "e93ee6fb39cf5479",
+"weight": 1.0
+},
+{
+"artifact": "af74ffbec664d97e",
+"engine": "Infectatrum",
+"kind": "credit",
+"role": "leader",
+"sig": "ddf906eef1822910",
+"weight": 1.0
+},
+{
+"artifact": "3a0a041763c24c24",
+"engine": "Infectatrum",
+"kind": "credit",
+"role": "leader",
+"sig": "ff2705535660b066",
+"weight": 1.0
+},
+{
+"artifact": "3817a0aaedb7237a",
+"engine": "JDICert",
+"kind": "credit",
+"role": "enforcer",
+"sig": "e93ee6fb39cf5479",
+"weight": 1.0
+},
+{
+"artifact": "af74ffbec664d97e",
+"engine": "Infectatrum",
+"kind": "credit",
+"role": "leader",
+"sig": "ddf906eef1822910",
+"weight": 1.0
+},
+{
+"artifact": "3a0a041763c24c24",
+"engine": "Infectatrum",
+"kind": "credit",
+"role": "leader",
+"sig": "ff2705535660b066",
+"weight": 1.0
+},
+{
+"artifact": "3817a0aaedb7237a",
+"engine": "JDICert",
+"kind": "credit",
+"role": "enforcer",
+"sig": "e93ee6fb39cf5479",
+"weight": 1.0
+},
+{
+"artifact": "af74ffbec664d97e",
+"engine": "Infectatrum",
+"kind": "credit",
+"role": "leader",
+"sig": "ddf906eef1822910",
+"weight": 1.0
+},
+{
+"artifact": "3a0a041763c24c24",
+"engine": "Infectatrum",
+"kind": "credit",
+"role": "leader",
+"sig": "ff2705535660b066",
+"weight": 1.0
+},
+{
+"artifact": "3817a0aaedb7237a",
+"engine": "JDICert",
+"kind": "credit",
+"role": "enforcer",
+"sig": "e93ee6fb39cf5479",
+"weight": 1.0
+},
+{
+"artifact": "af74ffbec664d97e",
+"engine": "Infectatrum",
+"kind": "credit",
+"role": "leader",
+"sig": "ddf906eef1822910",
+"weight": 1.0
+},
+{
+"artifact": "3a0a041763c24c24",
+"engine": "Infectatrum",
+"kind": "credit",
+"role": "leader",
+"sig": "ff2705535660b066",
+"weight": 1.0
+},
+{
+"artifact": "3817a0aaedb7237a",
+"engine": "JDICert",
+"kind": "credit",
+"role": "enforcer",
+"sig": "e93ee6fb39cf5479",
+"weight": 1.0
+},
+{
+"artifact": "af74ffbec664d97e",
+"engine": "Infectatrum",
+"kind": "credit",
+"role": "leader",
+"sig": "ddf906eef1822910",
+"weight": 1.0
+},
+{
+"artifact": "3a0a041763c24c24",
+"engine": "Infectatrum",
+"kind": "credit",
+"role": "leader",
+"sig": "ff2705535660b066",
+"weight": 1.0
+},
+{
+"artifact": "3817a0aaedb7237a",
+"engine": "JDICert",
+"kind": "credit",
+"role": "enforcer",
+"sig": "e93ee6fb39cf5479",
+"weight": 1.0
+},
+{
+"artifact": "ba4508ee9cb56ba5",
+"engine": "JDICert",
+"kind": "credit",
+"role": "leader",
+"sig": "ec938832d1f42128",
+"weight": 2.0
+},
+{
+"artifact": "efc59433606d2d53",
+"engine": "JDICert",
+"kind": "credit",
+"role": "leader",
+"sig": "b2d45bdba7e37a1b",
+"weight": 1.0
+},
+{
+"artifact": "74b6df2dd7dabd6e",
+"engine": "JDICert",
+"kind": "credit",
+"role": "leader",
+"sig": "cdc8772bd74d6b5a",
+"weight": 1.0
+},
+{
+"artifact": "7f7b1789746b0578",
+"engine": "JDICert",
+"kind": "credit",
+"role": "leader",
+"sig": "2874645872979608",
+"weight": 1.0
+},
+{
+"artifact": "a2d13a6cf199e2fc",
+"engine": "Infectatrum",
+"kind": "credit",
+"role": "teacher",
+"sig": "dafec85a2b9ab884",
+"weight": 1.0
+},
+{
+"artifact": "8f5ccefa8a5f2505",
+"engine": "JDICert",
+"kind": "credit",
+"role": "leader",
+"sig": "5be465936587f1b2",
+"weight": 2.0
+},
+{
+"artifact": "d512295ff3b0344e",
+"engine": "JDICert",
+"kind": "credit",
+"role": "leader",
+"sig": "9ec1ab5cec5d1241",
+"weight": 1.0
+},
+{
+"artifact": "124dd339d3d410a9",
+"engine": "JDICert",
+"kind": "credit",
+"role": "leader",
+"sig": "f485b3cbd523757e",
+"weight": 1.0
+},
+{
+"artifact": "1dcb9cff6d6b51c8",
+"engine": "JDICert",
+"kind": "credit",
+"role": "leader",
+"sig": "b1fa75cc3b2a4da4",
+"weight": 1.0
+},
+{
+"artifact": "c0e1228fb5821600",
+"engine": "Infectatrum",
+"kind": "credit",
+"role": "teacher",
+"sig": "c74cc02442708cad",
+"weight": 1.0
+},
+{
+"artifact": "e78a762c36b1c0e3",
+"engine": "JDICert",
+"kind": "credit",
+"role": "leader",
+"sig": "75f7ef938bfac9b1",
+"weight": 2.0
+},
+{
+"artifact": "9bc07dc772335a23",
+"engine": "JDICert",
+"kind": "credit",
+"role": "leader",
+"sig": "481b340ab76d6bfc",
+"weight": 1.0
+},
+{
+"artifact": "b89c2f93f4a91b4b",
+"engine": "JDICert",
+"kind": "credit",
+"role": "leader",
+"sig": "d304bc612c6d0b63",
+"weight": 1.0
+},
+{
+"artifact": "924561eea022f7b4",
+"engine": "JDICert",
+"kind": "credit",
+"role": "leader",
+"sig": "aba20086f758420d",
+"weight": 1.0
+},
+{
+"artifact": "46737bae9abe122f",
+"engine": "Infectatrum",
+"kind": "credit",
+"role": "teacher",
+"sig": "42245a115fe7ae6e",
+"weight": 1.0
+},
+{
+"artifact": "e0f1d307f5f60f23",
+"engine": "JDICert",
+"kind": "credit",
+"role": "leader",
+"sig": "7147f390b0f20bc7",
+"weight": 2.0
+}
+],
+"ownerships": [
+{
+"artifact_id": "e54899d79047af5b",
+"engine": "JDICert",
+"role": "leader",
+"signature": "4a295ea9c6f32680",
+"weight": 1.0
+},
+{
+"artifact_id": "bc9658f7039b128d",
+"engine": "JDICert",
+"role": "leader",
+"signature": "06b0eafb5d343929",
+"weight": 1.0
+},
+{
+"artifact_id": "effa680f862f2490",
+"engine": "JDICert",
+"role": "leader",
+"signature": "a716e70d31a97735",
+"weight": 1.0
+},
+{
+"artifact_id": "6564cc4030299eb8",
+"engine": "JDICert",
+"role": "leader",
+"signature": "544dc44ca7b2ce64",
+"weight": 2.0
+},
+{
+"artifact_id": "bac46c31d627e920",
+"engine": "JDICert",
+"role": "leader",
+"signature": "16c522464e67440a",
+"weight": 1.0
+},
+{
+"artifact_id": "844f9914d3af3976",
+"engine": "JDICert",
+"role": "leader",
+"signature": "876c99f3d53e6696",
+"weight": 1.0
+},
+{
+"artifact_id": "24a2779be039eeab",
+"engine": "JDICert",
+"role": "leader",
+"signature": "d94aee1817a0c712",
+"weight": 1.0
+},
+{
+"artifact_id": "3f8ceaa3138df438",
+"engine": "Infectatrum",
+"role": "teacher",
+"signature": "1558c773c43b6e67",
+"weight": 1.0
+},
+{
+"artifact_id": "383a5a4d11a34452",
+"engine": "JDICert",
+"role": "leader",
+"signature": "65e8579e19bedfd6",
+"weight": 2.0
+},
+{
+"artifact_id": "76b306a9ec4a5cbe",
+"engine": "JDICert",
+"role": "leader",
+"signature": "06cdc36717456ef3",
+"weight": 1.0
+},
+{
+"artifact_id": "ff90ca9bd11563c6",
+"engine": "JDICert",
+"role": "leader",
+"signature": "2156386de3da783e",
+"weight": 1.0
+},
+{
+"artifact_id": "195a748b4b953bb0",
+"engine": "JDICert",
+"role": "leader",
+"signature": "3a9d6b05adda7f11",
+"weight": 1.0
+},
+{
+"artifact_id": "b14d37bff597312f",
+"engine": "Infectatrum",
+"role": "teacher",
+"signature": "26347f4667fe1e37",
+"weight": 1.0
+},
+{
+"artifact_id": "447400c95753db8f",
+"engine": "JDICert",
+"role": "leader",
+"signature": "33e84d92af54c428",
+"weight": 2.0
+},
+{
+"artifact_id": "01e203978a5a6fb7",
+"engine": "JDICert",
+"role": "leader",
+"signature": "e3e7b392770553bc",
+"weight": 1.0
+},
+{
+"artifact_id": "4e527f33f67acbb2",
+"engine": "JDICert",
+"role": "leader",
+"signature": "b2f4ab0d431cf06d",
+"weight": 1.0
+},
+{
+"artifact_id": "76f7bee9bfa90404",
+"engine": "JDICert",
+"role": "leader",
+"signature": "4c118a4f544251a8",
+"weight": 1.0
+},
+{
+"artifact_id": "7c216cab2f8eb17a",
+"engine": "Infectatrum",
+"role": "teacher",
+"signature": "9d2e932b750708e4",
+"weight": 1.0
+},
+{
+"artifact_id": "c9787265ea8845ae",
+"engine": "JDICert",
+"role": "leader",
+"signature": "7e1912b9b5f5989f",
+"weight": 2.0
+},
+{
+"artifact_id": "90efad0da539033a",
+"engine": "JDICert",
+"role": "leader",
+"signature": "2f38283bd2d242a1",
+"weight": 1.0
+},
+{
+"artifact_id": "96123d6b8291d964",
+"engine": "JDICert",
+"role": "leader",
+"signature": "657960327725f2f4",
+"weight": 1.0
+},
+{
+"artifact_id": "2fe2409b5892ec02",
+"engine": "JDICert",
+"role": "leader",
+"signature": "386f351e3271aadb",
+"weight": 1.0
+},
+{
+"artifact_id": "4f7decefdf502f0e",
+"engine": "Infectatrum",
+"role": "teacher",
+"signature": "8e34a950b48f7bfe",
+"weight": 1.0
+},
+{
+"artifact_id": "ae0a62d4c9d434ba",
+"engine": "JDICert",
+"role": "leader",
+"signature": "e70636aa88fc3f87",
+"weight": 2.0
+},
+{
+"artifact_id": "ac8e0f12a46210b6",
+"engine": "JDICert",
+"role": "leader",
+"signature": "1372acdc8e468708",
+"weight": 1.0
+},
+{
+"artifact_id": "ef9cbe632726974d",
+"engine": "JDICert",
+"role": "leader",
+"signature": "f49eb0d750c4fd92",
+"weight": 1.0
+},
+{
+"artifact_id": "b7df4cd7f9127323",
+"engine": "JDICert",
+"role": "leader",
+"signature": "6dce55367e6b4489",
+"weight": 1.0
+},
+{
+"artifact_id": "ba3519cd93c20746",
+"engine": "Infectatrum",
+"role": "teacher",
+"signature": "5e6a818fd0fcd349",
+"weight": 1.0
+},
+{
+"artifact_id": "c7676d4421ea5317",
+"engine": "JDICert",
+"role": "leader",
+"signature": "a79ab7f838fb4950",
+"weight": 2.0
+},
+{
+"artifact_id": "f80e490d9234073b",
+"engine": "JDICert",
+"role": "leader",
+"signature": "a7daf52acd053429",
+"weight": 1.0
+},
+{
+"artifact_id": "7faab055810b0081",
+"engine": "JDICert",
+"role": "leader",
+"signature": "4b6255124d86fc2e",
+"weight": 1.0
+},
+{
+"artifact_id": "8447a2b9cd0e379a",
+"engine": "JDICert",
+"role": "leader",
+"signature": "3278275350b912f3",
+"weight": 1.0
+},
+{
+"artifact_id": "62a63382cce3f740",
+"engine": "Infectatrum",
+"role": "teacher",
+"signature": "7805b88f95c67b2f",
+"weight": 1.0
+},
+{
+"artifact_id": "e3b653bdd87da4c0",
+"engine": "JDICert",
+"role": "leader",
+"signature": "f34b83f0d4bfbec8",
+"weight": 2.0
+},
+{
+"artifact_id": "f1cf6ffcfa3cb8ad",
+"engine": "JDICert",
+"role": "leader",
+"signature": "a0e66ff86048ed43",
+"weight": 1.0
+},
+{
+"artifact_id": "5111f169830c88a1",
+"engine": "JDICert",
+"role": "leader",
+"signature": "a211111e8fc0a11f",
+"weight": 1.0
+},
+{
+"artifact_id": "72b9fcaa3c4613ec",
+"engine": "JDICert",
+"role": "leader",
+"signature": "a51d960ff3e02857",
+"weight": 1.0
+},
+{
+"artifact_id": "366730a11f7ec143",
+"engine": "Infectatrum",
+"role": "teacher",
+"signature": "5c1bee3be116b912",
+"weight": 1.0
+},
+{
+"artifact_id": "4fc469f3529e7eba",
+"engine": "JDICert",
+"role": "leader",
+"signature": "760e925e917017d1",
+"weight": 2.0
+},
+{
+"artifact_id": "54112501105702be",
+"engine": "JDICert",
+"role": "leader",
+"signature": "2d54236435fe39de",
+"weight": 1.0
+},
+{
+"artifact_id": "f756c112504021c6",
+"engine": "JDICert",
+"role": "leader",
+"signature": "6c5965796c085e66",
+"weight": 1.0
+},
+{
+"artifact_id": "1e438afe929a990b",
+"engine": "JDICert",
+"role": "leader",
+"signature": "01e980da675c460e",
+"weight": 1.0
+},
+{
+"artifact_id": "2f10f80940a2ddca",
+"engine": "Infectatrum",
+"role": "teacher",
+"signature": "168a97015cc12edf",
+"weight": 1.0
+},
+{
+"artifact_id": "8bbe30017cabb57b",
+"engine": "JDICert",
+"role": "leader",
+"signature": "3bb40c86ad76a1a2",
+"weight": 2.0
+},
+{
+"artifact_id": "bba812e7a916921f",
+"engine": "JDICert",
+"role": "leader",
+"signature": "6c900e9f41021d97",
+"weight": 1.0
+},
+{
+"artifact_id": "164e6504179fa478",
+"engine": "JDICert",
+"role": "leader",
+"signature": "34d1210867b33c23",
+"weight": 1.0
+},
+{
+"artifact_id": "77292a1b2bb8e5ce",
+"engine": "JDICert",
+"role": "leader",
+"signature": "8a64d6d938de1bf6",
+"weight": 1.0
+},
+{
+"artifact_id": "2442b1912dbe8f5b",
+"engine": "Infectatrum",
+"role": "teacher",
+"signature": "230167378c2bcee9",
+"weight": 1.0
+},
+{
+"artifact_id": "d049a525a764e47b",
+"engine": "JDICert",
+"role": "leader",
+"signature": "0773b9e877a5c823",
+"weight": 2.0
+},
+{
+"artifact_id": "c53b1445c202844f",
+"engine": "JDICert",
+"role": "leader",
+"signature": "2331648213fe281d",
+"weight": 1.0
+},
+{
+"artifact_id": "1f3b5a264371f445",
+"engine": "JDICert",
+"role": "leader",
+"signature": "024402f4e5935c97",
+"weight": 1.0
+},
+{
+"artifact_id": "05e5b5b8eeb17513",
+"engine": "JDICert",
+"role": "leader",
+"signature": "593eb250aba6ce7b",
+"weight": 1.0
+},
+{
+"artifact_id": "cdf1e9c2b5d3646a",
+"engine": "Infectatrum",
+"role": "teacher",
+"signature": "96f06013569dbf9e",
+"weight": 1.0
+},
+{
+"artifact_id": "7f7d12ee5890c984",
+"engine": "JDICert",
+"role": "leader",
+"signature": "74dba618615dcc2e",
+"weight": 2.0
+},
+{
+"artifact_id": "5de7f69ccbc5e037",
+"engine": "JDICert",
+"role": "leader",
+"signature": "02e1416a56103ada",
+"weight": 1.0
+},
+{
+"artifact_id": "297fb5e02d27f07b",
+"engine": "JDICert",
+"role": "leader",
+"signature": "020ef56f988175d3",
+"weight": 1.0
+},
+{
+"artifact_id": "c85c52dbbdc45d88",
+"engine": "JDICert",
+"role": "leader",
+"signature": "5f5b59e304cb472e",
+"weight": 1.0
+},
+{
+"artifact_id": "b4a383a68e77ae32",
+"engine": "Infectatrum",
+"role": "teacher",
+"signature": "5ff50b528fc28936",
+"weight": 1.0
+},
+{
+"artifact_id": "423dfdb68d82d329",
+"engine": "JDICert",
+"role": "leader",
+"signature": "068ce06f82cca3e1",
+"weight": 2.0
+},
+{
+"artifact_id": "9c49c35b47841eb9",
+"engine": "JDICert",
+"role": "leader",
+"signature": "be4bca8f32f31629",
+"weight": 1.0
+},
+{
+"artifact_id": "508096e51b7d19c0",
+"engine": "JDICert",
+"role": "leader",
+"signature": "419bbbdfe9a2328e",
+"weight": 1.0
+},
+{
+"artifact_id": "d0fcb35221f76980",
+"engine": "JDICert",
+"role": "leader",
+"signature": "5587303f38c5ed42",
+"weight": 1.0
+},
+{
+"artifact_id": "b145cbcb98612a21",
+"engine": "Infectatrum",
+"role": "teacher",
+"signature": "c9bc89f58ee89fc1",
+"weight": 1.0
+},
+{
+"artifact_id": "5f87561bb35b940c",
+"engine": "JDICert",
+"role": "leader",
+"signature": "226f6810ef9f0d0a",
+"weight": 2.0
+},
+{
+"artifact_id": "fbe207ce3ccc4a09",
+"engine": "JDICert",
+"role": "leader",
+"signature": "778624722e505484",
+"weight": 1.0
+},
+{
+"artifact_id": "190be0a41e94637f",
+"engine": "JDICert",
+"role": "leader",
+"signature": "dc8bb3ac22ad97f8",
+"weight": 1.0
+},
+{
+"artifact_id": "1dd6b37461f408a9",
+"engine": "JDICert",
+"role": "leader",
+"signature": "f5626861d2090c93",
+"weight": 1.0
+},
+{
+"artifact_id": "51c98c4a816be735",
+"engine": "Infectatrum",
+"role": "teacher",
+"signature": "053b1bd3f4574f8c",
+"weight": 1.0
+},
+{
+"artifact_id": "02ee5f02f60c1b24",
+"engine": "JDICert",
+"role": "leader",
+"signature": "311e5b08ff18cb9e",
+"weight": 2.0
+},
+{
+"artifact_id": "064a42efc4933351",
+"engine": "Infectatrum",
+"role": "leader",
+"signature": "e0ae1422dc981346",
+"weight": 1.0
+},
+{
+"artifact_id": "c0d953154679e58b",
+"engine": "Infectatrum",
+"role": "leader",
+"signature": "0e2951d5d5271b42",
+"weight": 1.0
+},
+{
+"artifact_id": "abcb5e4c69865724",
+"engine": "JDICert",
+"role": "enforcer",
+"signature": "162fb86002c2dfe3",
+"weight": 1.0
+},
+{
+"artifact_id": "064a42efc4933351",
+"engine": "Infectatrum",
+"role": "leader",
+"signature": "e0ae1422dc981346",
+"weight": 1.0
+},
+{
+"artifact_id": "c0d953154679e58b",
+"engine": "Infectatrum",
+"role": "leader",
+"signature": "0e2951d5d5271b42",
+"weight": 1.0
+},
+{
+"artifact_id": "abcb5e4c69865724",
+"engine": "JDICert",
+"role": "enforcer",
+"signature": "162fb86002c2dfe3",
+"weight": 1.0
+},
+{
+"artifact_id": "064a42efc4933351",
+"engine": "Infectatrum",
+"role": "leader",
+"signature": "e0ae1422dc981346",
+"weight": 1.0
+},
+{
+"artifact_id": "c0d953154679e58b",
+"engine": "Infectatrum",
+"role": "leader",
+"signature": "0e2951d5d5271b42",
+"weight": 1.0
+},
+{
+"artifact_id": "abcb5e4c69865724",
+"engine": "JDICert",
+"role": "enforcer",
+"signature": "162fb86002c2dfe3",
+"weight": 1.0
+},
+{
+"artifact_id": "064a42efc4933351",
+"engine": "Infectatrum",
+"role": "leader",
+"signature": "e0ae1422dc981346",
+"weight": 1.0
+},
+{
+"artifact_id": "c0d953154679e58b",
+"engine": "Infectatrum",
+"role": "leader",
+"signature": "0e2951d5d5271b42",
+"weight": 1.0
+},
+{
+"artifact_id": "abcb5e4c69865724",
+"engine": "JDICert",
+"role": "enforcer",
+"signature": "162fb86002c2dfe3",
+"weight": 1.0
+},
+{
+"artifact_id": "064a42efc4933351",
+"engine": "Infectatrum",
+"role": "leader",
+"signature": "e0ae1422dc981346",
+"weight": 1.0
+},
+{
+"artifact_id": "c0d953154679e58b",
+"engine": "Infectatrum",
+"role": "leader",
+"signature": "0e2951d5d5271b42",
+"weight": 1.0
+},
+{
+"artifact_id": "abcb5e4c69865724",
+"engine": "JDICert",
+"role": "enforcer",
+"signature": "162fb86002c2dfe3",
+"weight": 1.0
+},
+{
+"artifact_id": "064a42efc4933351",
+"engine": "Infectatrum",
+"role": "leader",
+"signature": "e0ae1422dc981346",
+"weight": 1.0
+},
+{
+"artifact_id": "c0d953154679e58b",
+"engine": "Infectatrum",
+"role": "leader",
+"signature": "0e2951d5d5271b42",
+"weight": 1.0
+},
+{
+"artifact_id": "abcb5e4c69865724",
+"engine": "JDICert",
+"role": "enforcer",
+"signature": "162fb86002c2dfe3",
+"weight": 1.0
+},
+{
+"artifact_id": "064a42efc4933351",
+"engine": "Infectatrum",
+"role": "leader",
+"signature": "e0ae1422dc981346",
+"weight": 1.0
+},
+{
+"artifact_id": "c0d953154679e58b",
+"engine": "Infectatrum",
+"role": "leader",
+"signature": "0e2951d5d5271b42",
+"weight": 1.0
+},
+{
+"artifact_id": "abcb5e4c69865724",
+"engine": "JDICert",
+"role": "enforcer",
+"signature": "162fb86002c2dfe3",
+"weight": 1.0
+},
+{
+"artifact_id": "064a42efc4933351",
+"engine": "Infectatrum",
+"role": "leader",
+"signature": "e0ae1422dc981346",
+"weight": 1.0
+},
+{
+"artifact_id": "c0d953154679e58b",
+"engine": "Infectatrum",
+"role": "leader",
+"signature": "0e2951d5d5271b42",
+"weight": 1.0
+},
+{
+"artifact_id": "abcb5e4c69865724",
+"engine": "JDICert",
+"role": "enforcer",
+"signature": "162fb86002c2dfe3",
+"weight": 1.0
+},
+{
+"artifact_id": "064a42efc4933351",
+"engine": "Infectatrum",
+"role": "leader",
+"signature": "e0ae1422dc981346",
+"weight": 1.0
+},
+{
+"artifact_id": "c0d953154679e58b",
+"engine": "Infectatrum",
+"role": "leader",
+"signature": "0e2951d5d5271b42",
+"weight": 1.0
+},
+{
+"artifact_id": "abcb5e4c69865724",
+"engine": "JDICert",
+"role": "enforcer",
+"signature": "162fb86002c2dfe3",
+"weight": 1.0
+},
+{
+"artifact_id": "064a42efc4933351",
+"engine": "Infectatrum",
+"role": "leader",
+"signature": "e0ae1422dc981346",
+"weight": 1.0
+},
+{
+"artifact_id": "c0d953154679e58b",
+"engine": "Infectatrum",
+"role": "leader",
+"signature": "0e2951d5d5271b42",
+"weight": 1.0
+},
+{
+"artifact_id": "abcb5e4c69865724",
+"engine": "JDICert",
+"role": "enforcer",
+"signature": "162fb86002c2dfe3",
+"weight": 1.0
+},
+{
+"artifact_id": "41c7faeb4cc691a4",
+"engine": "JDICert",
+"role": "leader",
+"signature": "8d449a4806db7d73",
+"weight": 2.0
+},
+{
+"artifact_id": "af74ffbec664d97e",
+"engine": "Infectatrum",
+"role": "leader",
+"signature": "ddf906eef1822910",
+"weight": 1.0
+},
+{
+"artifact_id": "3a0a041763c24c24",
+"engine": "Infectatrum",
+"role": "leader",
+"signature": "ff2705535660b066",
+"weight": 1.0
+},
+{
+"artifact_id": "3817a0aaedb7237a",
+"engine": "JDICert",
+"role": "enforcer",
+"signature": "e93ee6fb39cf5479",
+"weight": 1.0
+},
+{
+"artifact_id": "af74ffbec664d97e",
+"engine": "Infectatrum",
+"role": "leader",
+"signature": "ddf906eef1822910",
+"weight": 1.0
+},
+{
+"artifact_id": "3a0a041763c24c24",
+"engine": "Infectatrum",
+"role": "leader",
+"signature": "ff2705535660b066",
+"weight": 1.0
+},
+{
+"artifact_id": "3817a0aaedb7237a",
+"engine": "JDICert",
+"role": "enforcer",
+"signature": "e93ee6fb39cf5479",
+"weight": 1.0
+},
+{
+"artifact_id": "af74ffbec664d97e",
+"engine": "Infectatrum",
+"role": "leader",
+"signature": "ddf906eef1822910",
+"weight": 1.0
+},
+{
+"artifact_id": "3a0a041763c24c24",
+"engine": "Infectatrum",
+"role": "leader",
+"signature": "ff2705535660b066",
+"weight": 1.0
+},
+{
+"artifact_id": "3817a0aaedb7237a",
+"engine": "JDICert",
+"role": "enforcer",
+"signature": "e93ee6fb39cf5479",
+"weight": 1.0
+},
+{
+"artifact_id": "af74ffbec664d97e",
+"engine": "Infectatrum",
+"role": "leader",
+"signature": "ddf906eef1822910",
+"weight": 1.0
+},
+{
+"artifact_id": "3a0a041763c24c24",
+"engine": "Infectatrum",
+"role": "leader",
+"signature": "ff2705535660b066",
+"weight": 1.0
+},
+{
+"artifact_id": "3817a0aaedb7237a",
+"engine": "JDICert",
+"role": "enforcer",
+"signature": "e93ee6fb39cf5479",
+"weight": 1.0
+},
+{
+"artifact_id": "af74ffbec664d97e",
+"engine": "Infectatrum",
+"role": "leader",
+"signature": "ddf906eef1822910",
+"weight": 1.0
+},
+{
+"artifact_id": "3a0a041763c24c24",
+"engine": "Infectatrum",
+"role": "leader",
+"signature": "ff2705535660b066",
+"weight": 1.0
+},
+{
+"artifact_id": "3817a0aaedb7237a",
+"engine": "JDICert",
+"role": "enforcer",
+"signature": "e93ee6fb39cf5479",
+"weight": 1.0
+},
+{
+"artifact_id": "af74ffbec664d97e",
+"engine": "Infectatrum",
+"role": "leader",
+"signature": "ddf906eef1822910",
+"weight": 1.0
+},
+{
+"artifact_id": "3a0a041763c24c24",
+"engine": "Infectatrum",
+"role": "leader",
+"signature": "ff2705535660b066",
+"weight": 1.0
+},
+{
+"artifact_id": "3817a0aaedb7237a",
+"engine": "JDICert",
+"role": "enforcer",
+"signature": "e93ee6fb39cf5479",
+"weight": 1.0
+},
+{
+"artifact_id": "af74ffbec664d97e",
+"engine": "Infectatrum",
+"role": "leader",
+"signature": "ddf906eef1822910",
+"weight": 1.0
+},
+{
+"artifact_id": "3a0a041763c24c24",
+"engine": "Infectatrum",
+"role": "leader",
+"signature": "ff2705535660b066",
+"weight": 1.0
+},
+{
+"artifact_id": "3817a0aaedb7237a",
+"engine": "JDICert",
+"role": "enforcer",
+"signature": "e93ee6fb39cf5479",
+"weight": 1.0
+},
+{
+"artifact_id": "af74ffbec664d97e",
+"engine": "Infectatrum",
+"role": "leader",
+"signature": "ddf906eef1822910",
+"weight": 1.0
+},
+{
+"artifact_id": "3a0a041763c24c24",
+"engine": "Infectatrum",
+"role": "leader",
+"signature": "ff2705535660b066",
+"weight": 1.0
+},
+{
+"artifact_id": "3817a0aaedb7237a",
+"engine": "JDICert",
+"role": "enforcer",
+"signature": "e93ee6fb39cf5479",
+"weight": 1.0
+},
+{
+"artifact_id": "af74ffbec664d97e",
+"engine": "Infectatrum",
+"role": "leader",
+"signature": "ddf906eef1822910",
+"weight": 1.0
+},
+{
+"artifact_id": "3a0a041763c24c24",
+"engine": "Infectatrum",
+"role": "leader",
+"signature": "ff2705535660b066",
+"weight": 1.0
+},
+{
+"artifact_id": "3817a0aaedb7237a",
+"engine": "JDICert",
+"role": "enforcer",
+"signature": "e93ee6fb39cf5479",
+"weight": 1.0
+},
+{
+"artifact_id": "af74ffbec664d97e",
+"engine": "Infectatrum",
+"role": "leader",
+"signature": "ddf906eef1822910",
+"weight": 1.0
+},
+{
+"artifact_id": "3a0a041763c24c24",
+"engine": "Infectatrum",
+"role": "leader",
+"signature": "ff2705535660b066",
+"weight": 1.0
+},
+{
+"artifact_id": "3817a0aaedb7237a",
+"engine": "JDICert",
+"role": "enforcer",
+"signature": "e93ee6fb39cf5479",
+"weight": 1.0
+},
+{
+"artifact_id": "ba4508ee9cb56ba5",
+"engine": "JDICert",
+"role": "leader",
+"signature": "ec938832d1f42128",
+"weight": 2.0
+},
+{
+"artifact_id": "efc59433606d2d53",
+"engine": "JDICert",
+"role": "leader",
+"signature": "b2d45bdba7e37a1b",
+"weight": 1.0
+},
+{
+"artifact_id": "74b6df2dd7dabd6e",
+"engine": "JDICert",
+"role": "leader",
+"signature": "cdc8772bd74d6b5a",
+"weight": 1.0
+},
+{
+"artifact_id": "7f7b1789746b0578",
+"engine": "JDICert",
+"role": "leader",
+"signature": "2874645872979608",
+"weight": 1.0
+},
+{
+"artifact_id": "a2d13a6cf199e2fc",
+"engine": "Infectatrum",
+"role": "teacher",
+"signature": "dafec85a2b9ab884",
+"weight": 1.0
+},
+{
+"artifact_id": "8f5ccefa8a5f2505",
+"engine": "JDICert",
+"role": "leader",
+"signature": "5be465936587f1b2",
+"weight": 2.0
+},
+{
+"artifact_id": "d512295ff3b0344e",
+"engine": "JDICert",
+"role": "leader",
+"signature": "9ec1ab5cec5d1241",
+"weight": 1.0
+},
+{
+"artifact_id": "124dd339d3d410a9",
+"engine": "JDICert",
+"role": "leader",
+"signature": "f485b3cbd523757e",
+"weight": 1.0
+},
+{
+"artifact_id": "1dcb9cff6d6b51c8",
+"engine": "JDICert",
+"role": "leader",
+"signature": "b1fa75cc3b2a4da4",
+"weight": 1.0
+},
+{
+"artifact_id": "c0e1228fb5821600",
+"engine": "Infectatrum",
+"role": "teacher",
+"signature": "c74cc02442708cad",
+"weight": 1.0
+},
+{
+"artifact_id": "e78a762c36b1c0e3",
+"engine": "JDICert",
+"role": "leader",
+"signature": "75f7ef938bfac9b1",
+"weight": 2.0
+},
+{
+"artifact_id": "9bc07dc772335a23",
+"engine": "JDICert",
+"role": "leader",
+"signature": "481b340ab76d6bfc",
+"weight": 1.0
+},
+{
+"artifact_id": "b89c2f93f4a91b4b",
+"engine": "JDICert",
+"role": "leader",
+"signature": "d304bc612c6d0b63",
+"weight": 1.0
+},
+{
+"artifact_id": "924561eea022f7b4",
+"engine": "JDICert",
+"role": "leader",
+"signature": "aba20086f758420d",
+"weight": 1.0
+},
+{
+"artifact_id": "46737bae9abe122f",
+"engine": "Infectatrum",
+"role": "teacher",
+"signature": "42245a115fe7ae6e",
+"weight": 1.0
+},
+{
+"artifact_id": "e0f1d307f5f60f23",
+"engine": "JDICert",
+"role": "leader",
+"signature": "7147f390b0f20bc7",
+"weight": 2.0
+}
+]
 },
 "concepts": {},
 "crystal": {
-"basis": {},
-"cells": {},
+"basis": {
+"0caa64e6a9511efe": {
+"H:0": 0.3333333333333333,
+"negspace": 0.3333333333333333,
+"tax:A4-orthogonal": 0.3333333333333333
+},
+"66b8c48c3274c4b8": {
+"H:0": 0.3333333333333333,
+"ductus:sequential": 0.3333333333333333,
+"negspace": 0.0,
+"tax:A0-unambiguous": 0.3333333333333333
+},
+"domain:law": {
+"H:0": 0.3333333333333333,
+"ductus:sequential": 0.2982456140350877,
+"negspace": 0.03508771929824561,
+"tax:A0-unambiguous": 0.2982456140350877,
+"tax:A4-orthogonal": 0.03508771929824561
+}
+},
+"cells": {
+"0caa64e6a9511efe": [
+[
+"064a42efc4933351",
+"92f1059c27156e93"
+],
+[
+"c0d953154679e58b",
+"4e054173c75a0ac8"
+],
+[
+"abcb5e4c69865724",
+"098505bd92a5ab97"
+],
+[
+"af74ffbec664d97e",
+"92f1059c27156e93"
+],
+[
+"3a0a041763c24c24",
+"4e054173c75a0ac8"
+],
+[
+"3817a0aaedb7237a",
+"fe5a979cbb8a14b5"
+]
+],
+"66b8c48c3274c4b8": [
+[
+"e54899d79047af5b",
+"418e621b96f49053"
+],
+[
+"bc9658f7039b128d",
+"ac181ae9b25ac0b0"
+],
+[
+"effa680f862f2490",
+"9bcc039ed95405db"
+],
+[
+"bac46c31d627e920",
+"e5cbada4ad59c439"
+],
+[
+"844f9914d3af3976",
+"2b7ce3226c065c06"
+],
+[
+"24a2779be039eeab",
+"9bcc039ed95405db"
+],
+[
+"3f8ceaa3138df438",
+"b3fcafe85f4b0500"
+],
+[
+"76b306a9ec4a5cbe",
+"0a806e8a15823533"
+],
+[
+"ff90ca9bd11563c6",
+"ddef5dd9fadb86ce"
+],
+[
+"195a748b4b953bb0",
+"9bcc039ed95405db"
+],
+[
+"b14d37bff597312f",
+"b3fcafe85f4b0500"
+],
+[
+"01e203978a5a6fb7",
+"5a98b728ea8639e3"
+],
+[
+"4e527f33f67acbb2",
+"aa08894927a91dc2"
+],
+[
+"76f7bee9bfa90404",
+"9bcc039ed95405db"
+],
+[
+"7c216cab2f8eb17a",
+"b3fcafe85f4b0500"
+],
+[
+"90efad0da539033a",
+"69a8655efd82c85e"
+],
+[
+"96123d6b8291d964",
+"2fdc36990cb77a06"
+],
+[
+"2fe2409b5892ec02",
+"9bcc039ed95405db"
+],
+[
+"4f7decefdf502f0e",
+"b3fcafe85f4b0500"
+],
+[
+"ac8e0f12a46210b6",
+"1bd9004470aaf1ba"
+],
+[
+"ef9cbe632726974d",
+"150d01b908c1e2ef"
+],
+[
+"b7df4cd7f9127323",
+"9bcc039ed95405db"
+],
+[
+"ba3519cd93c20746",
+"b3fcafe85f4b0500"
+],
+[
+"f80e490d9234073b",
+"0a806e8a15823533"
+],
+[
+"7faab055810b0081",
+"a50c0d7fa140bc8b"
+],
+[
+"8447a2b9cd0e379a",
+"9bcc039ed95405db"
+],
+[
+"62a63382cce3f740",
+"b3fcafe85f4b0500"
+],
+[
+"f1cf6ffcfa3cb8ad",
+"edbeffd8907c6add"
+],
+[
+"5111f169830c88a1",
+"c1aed0baba535818"
+],
+[
+"72b9fcaa3c4613ec",
+"9bcc039ed95405db"
+],
+[
+"366730a11f7ec143",
+"b3fcafe85f4b0500"
+],
+[
+"54112501105702be",
+"f3093c2ba6cfcf8a"
+],
+[
+"f756c112504021c6",
+"370057021a40ce75"
+],
+[
+"1e438afe929a990b",
+"9bcc039ed95405db"
+],
+[
+"2f10f80940a2ddca",
+"b3fcafe85f4b0500"
+],
+[
+"bba812e7a916921f",
+"79b6b32926a780bc"
+],
+[
+"164e6504179fa478",
+"c87824aa42dc2128"
+],
+[
+"77292a1b2bb8e5ce",
+"9bcc039ed95405db"
+],
+[
+"2442b1912dbe8f5b",
+"b3fcafe85f4b0500"
+],
+[
+"c53b1445c202844f",
+"bb91588dec050bb1"
+],
+[
+"1f3b5a264371f445",
+"cc540ae12f150d82"
+],
+[
+"05e5b5b8eeb17513",
+"9bcc039ed95405db"
+],
+[
+"cdf1e9c2b5d3646a",
+"b3fcafe85f4b0500"
+],
+[
+"5de7f69ccbc5e037",
+"1b4b8b8073574aed"
+],
+[
+"297fb5e02d27f07b",
+"74f4331929a2ce16"
+],
+[
+"c85c52dbbdc45d88",
+"9bcc039ed95405db"
+],
+[
+"b4a383a68e77ae32",
+"b3fcafe85f4b0500"
+],
+[
+"9c49c35b47841eb9",
+"0a806e8a15823533"
+],
+[
+"508096e51b7d19c0",
+"6e6e755f6e796fb4"
+],
+[
+"d0fcb35221f76980",
+"9bcc039ed95405db"
+],
+[
+"b145cbcb98612a21",
+"b3fcafe85f4b0500"
+],
+[
+"fbe207ce3ccc4a09",
+"62f94e548ca8d3f7"
+],
+[
+"190be0a41e94637f",
+"f23e931adf7c8bb0"
+],
+[
+"1dd6b37461f408a9",
+"9bcc039ed95405db"
+],
+[
+"51c98c4a816be735",
+"b3fcafe85f4b0500"
+],
+[
+"efc59433606d2d53",
+"e4bef0c70fefd220"
+],
+[
+"74b6df2dd7dabd6e",
+"91f7acaed2bd8e67"
+],
+[
+"7f7b1789746b0578",
+"9bcc039ed95405db"
+],
+[
+"a2d13a6cf199e2fc",
+"985919d51cacec6c"
+],
+[
+"d512295ff3b0344e",
+"ab5229bfc97aa463"
+],
+[
+"124dd339d3d410a9",
+"38c06a785788c835"
+],
+[
+"1dcb9cff6d6b51c8",
+"9bcc039ed95405db"
+],
+[
+"c0e1228fb5821600",
+"368764efbd500aed"
+],
+[
+"9bc07dc772335a23",
+"1196360f5c3a8e6b"
+],
+[
+"b89c2f93f4a91b4b",
+"cfbdc92f917a0de2"
+],
+[
+"924561eea022f7b4",
+"9bcc039ed95405db"
+],
+[
+"46737bae9abe122f",
+"c5da87f9d17c4245"
+]
+],
+"domain:law": [
+[
+"88d442a0045631e8",
+"17a57588fc423453"
+],
+[
+"88d442a0045631e8",
+"36b847a35a9174de"
+],
+[
+"88d442a0045631e8",
+"be638a4829107441"
+],
+[
+"88d442a0045631e8",
+"22c153ff0aac5bd1"
+],
+[
+"88d442a0045631e8",
+"7e06fde8e5a9049e"
+],
+[
+"88d442a0045631e8",
+"4466f619fdf6132b"
+]
+]
+},
 "generation": 0
 },
-"domains_summary": {},
+"domains_summary": {
+"law": {
+"charts": [
+"balanced-delims",
+"latin-hexameter"
+],
+"exemplars": 19
+}
+},
 "format": "chiron-congress",
 "growth": {
 "cross_domain": 0,
-"general": 0,
-"history": [],
+"general": 19,
+"history": [
+{
+"cross_domain": 0,
+"domains": 1,
+"general": 1,
+"generators": 0,
+"integral": 0,
+"reuse": 0,
+"t": 1
+},
+{
+"cross_domain": 0,
+"domains": 1,
+"general": 2,
+"generators": 0,
+"integral": 0,
+"reuse": 0,
+"t": 2
+},
+{
+"cross_domain": 0,
+"domains": 1,
+"general": 3,
+"generators": 0,
+"integral": 0,
+"reuse": 0,
+"t": 3
+},
+{
+"cross_domain": 0,
+"domains": 1,
+"general": 4,
+"generators": 0,
+"integral": 0,
+"reuse": 0,
+"t": 4
+},
+{
+"cross_domain": 0,
+"domains": 1,
+"general": 5,
+"generators": 0,
+"integral": 0,
+"reuse": 0,
+"t": 5
+},
+{
+"cross_domain": 0,
+"domains": 1,
+"general": 6,
+"generators": 0,
+"integral": 0,
+"reuse": 0,
+"t": 6
+},
+{
+"cross_domain": 0,
+"domains": 1,
+"general": 7,
+"generators": 0,
+"integral": 0,
+"reuse": 0,
+"t": 7
+},
+{
+"cross_domain": 0,
+"domains": 1,
+"general": 8,
+"generators": 0,
+"integral": 0,
+"reuse": 0,
+"t": 8
+},
+{
+"cross_domain": 0,
+"domains": 1,
+"general": 9,
+"generators": 0,
+"integral": 0,
+"reuse": 0,
+"t": 9
+},
+{
+"cross_domain": 0,
+"domains": 1,
+"general": 10,
+"generators": 0,
+"integral": 0,
+"reuse": 0,
+"t": 10
+},
+{
+"cross_domain": 0,
+"domains": 1,
+"general": 11,
+"generators": 0,
+"integral": 0,
+"reuse": 0,
+"t": 11
+},
+{
+"cross_domain": 0,
+"domains": 1,
+"general": 12,
+"generators": 0,
+"integral": 0,
+"reuse": 0,
+"t": 12
+},
+{
+"cross_domain": 0,
+"domains": 1,
+"general": 13,
+"generators": 0,
+"integral": 0,
+"reuse": 0,
+"t": 13
+},
+{
+"cross_domain": 0,
+"domains": 1,
+"general": 14,
+"generators": 0,
+"integral": 0,
+"reuse": 0,
+"t": 14
+},
+{
+"cross_domain": 0,
+"domains": 1,
+"general": 15,
+"generators": 0,
+"integral": 0,
+"reuse": 0,
+"t": 15
+},
+{
+"cross_domain": 0,
+"domains": 1,
+"general": 16,
+"generators": 0,
+"integral": 0,
+"reuse": 0,
+"t": 16
+},
+{
+"cross_domain": 0,
+"domains": 1,
+"general": 17,
+"generators": 0,
+"integral": 0,
+"reuse": 0,
+"t": 17
+},
+{
+"cross_domain": 0,
+"domains": 1,
+"general": 18,
+"generators": 0,
+"integral": 0,
+"reuse": 0,
+"t": 18
+},
+{
+"cross_domain": 0,
+"domains": 1,
+"general": 19,
+"generators": 0,
+"integral": 0,
+"reuse": 0,
+"t": 19
+}
+],
 "integral": 0,
 "laws": [],
 "reuse": 0
@@ -25,19 +2744,2237 @@
 "growth_fam_domain_sets": {},
 "growth_fam_domains": {},
 "growth_gen_seen": [],
-"ingested_sources": [],
+"ingested_sources": [
+"wikipedia:Brandolini's law",
+"wikipedia:Jim Crow laws",
+"wikipedia:Muphry's law",
+"wikipedia:Sturgeon's law",
+"wikipedia:Brooks's law",
+"wikipedia:Law and Order",
+"wikipedia:Finagle's law",
+"wikipedia:Civil law (common law)",
+"wikipedia:Coulomb's law",
+"wikipedia:Godwin's law",
+"wikipedia:Acie Law",
+"wikipedia:An unjust law is no law at all",
+"wikipedia:Ugly law",
+"wikipedia:Criminal law",
+"wikipedia:De facto",
+"wikipedia:Stokes's law",
+"wikipedia:Sod's law",
+"wikipedia:Beer–Lambert law",
+"wikipedia:Danzig law"
+],
 "library": {},
 "license": "LICENSE: Proprietary and strictly restricted. Unauthorized use, alteration, or distribution is computationally verifiable.",
-"manifest_entries": [],
+"manifest_entries": [
+[
+"org_detect:balanced-delims",
+"464c984a5b72be01"
+],
+[
+"org_detect:balanced-delims",
+"464c984a5b72be01"
+],
+[
+"report:balanced-delims",
+"fdb975481bece33c"
+],
+[
+"org_detect:balanced-delims",
+"464c984a5b72be01"
+],
+[
+"vault:418e621b96f49053",
+"24d614892c6b6f9d"
+],
+[
+"vault:ac181ae9b25ac0b0",
+"210b2a415da3e271"
+],
+[
+"vault:9bcc039ed95405db",
+"456385970419d1d9"
+],
+[
+"vault:cdc2cc38b6fc0bb8",
+"3414647dfeba834f"
+],
+[
+"vault:17a57588fc423453",
+"61faf0596e9c52cc"
+],
+[
+"org_detect:balanced-delims",
+"160fb500cd5d9403"
+],
+[
+"org_detect:balanced-delims",
+"160fb500cd5d9403"
+],
+[
+"report:balanced-delims",
+"eade4bd1fe9e91ef"
+],
+[
+"org_detect:balanced-delims",
+"160fb500cd5d9403"
+],
+[
+"vault:e5cbada4ad59c439",
+"0e1f1aa0b1695801"
+],
+[
+"vault:2b7ce3226c065c06",
+"69129818b0deea57"
+],
+[
+"vault:b3fcafe85f4b0500",
+"19d4382a77091d05"
+],
+[
+"vault:6772ab061975aa87",
+"ec0f8607221fba9a"
+],
+[
+"org_detect:balanced-delims",
+"1dfd035be4690ac6"
+],
+[
+"org_detect:balanced-delims",
+"1dfd035be4690ac6"
+],
+[
+"report:balanced-delims",
+"4f332d4d851c7227"
+],
+[
+"org_detect:balanced-delims",
+"1dfd035be4690ac6"
+],
+[
+"vault:0a806e8a15823533",
+"dc9174ac20187f97"
+],
+[
+"vault:ddef5dd9fadb86ce",
+"d0b8a078e693b546"
+],
+[
+"vault:4232541353a62cf8",
+"4a4ad917ec85c10e"
+],
+[
+"org_detect:balanced-delims",
+"d7c7841add313e41"
+],
+[
+"org_detect:balanced-delims",
+"d7c7841add313e41"
+],
+[
+"report:balanced-delims",
+"b35078c84a925a9b"
+],
+[
+"org_detect:balanced-delims",
+"d7c7841add313e41"
+],
+[
+"vault:5a98b728ea8639e3",
+"739b4c8a22a06365"
+],
+[
+"vault:aa08894927a91dc2",
+"7156fb5c6e555bef"
+],
+[
+"vault:a6d25afed3ab98ff",
+"29cbe135a395a8b9"
+],
+[
+"org_detect:balanced-delims",
+"f7e475be3003e02f"
+],
+[
+"org_detect:balanced-delims",
+"f7e475be3003e02f"
+],
+[
+"report:balanced-delims",
+"a5f19be7a7e02748"
+],
+[
+"org_detect:balanced-delims",
+"f7e475be3003e02f"
+],
+[
+"vault:69a8655efd82c85e",
+"d8e1d95c808c6100"
+],
+[
+"vault:2fdc36990cb77a06",
+"9b4f0412eab53b07"
+],
+[
+"vault:6c78691ef63d8177",
+"9c52b3cd00b8e1de"
+],
+[
+"org_detect:balanced-delims",
+"b8bf28107f4331c5"
+],
+[
+"org_detect:balanced-delims",
+"b8bf28107f4331c5"
+],
+[
+"report:balanced-delims",
+"d9865de29e9bab89"
+],
+[
+"org_detect:balanced-delims",
+"b8bf28107f4331c5"
+],
+[
+"vault:1bd9004470aaf1ba",
+"0c0405ffd8bc1012"
+],
+[
+"vault:150d01b908c1e2ef",
+"bbd596cbe6c5c928"
+],
+[
+"vault:4d8629c9055a5f4d",
+"b8b79712d457e285"
+],
+[
+"org_detect:balanced-delims",
+"c8f6de533cba5cb9"
+],
+[
+"org_detect:balanced-delims",
+"c8f6de533cba5cb9"
+],
+[
+"report:balanced-delims",
+"e6492772289d208a"
+],
+[
+"org_detect:balanced-delims",
+"c8f6de533cba5cb9"
+],
+[
+"vault:a50c0d7fa140bc8b",
+"b8bbef41bf4fc5f1"
+],
+[
+"org_detect:balanced-delims",
+"a8c5d2e5dde70f48"
+],
+[
+"org_detect:balanced-delims",
+"a8c5d2e5dde70f48"
+],
+[
+"report:balanced-delims",
+"a89c15b9df5e8b54"
+],
+[
+"org_detect:balanced-delims",
+"a8c5d2e5dde70f48"
+],
+[
+"vault:edbeffd8907c6add",
+"76d985769e061e54"
+],
+[
+"vault:c1aed0baba535818",
+"a76ac3a5d55c7aa0"
+],
+[
+"vault:1eec48d81565e52a",
+"04e002e555ab67ff"
+],
+[
+"org_detect:balanced-delims",
+"e8eea1eb02c2bd8f"
+],
+[
+"org_detect:balanced-delims",
+"e8eea1eb02c2bd8f"
+],
+[
+"report:balanced-delims",
+"f2cfe8611925914d"
+],
+[
+"org_detect:balanced-delims",
+"e8eea1eb02c2bd8f"
+],
+[
+"vault:f3093c2ba6cfcf8a",
+"77789b52fc2e64c5"
+],
+[
+"vault:370057021a40ce75",
+"f18bb39219012b03"
+],
+[
+"vault:405bb3545135cd1f",
+"ebe30a0e1bad5147"
+],
+[
+"org_detect:balanced-delims",
+"9d23aa3634263853"
+],
+[
+"org_detect:balanced-delims",
+"9d23aa3634263853"
+],
+[
+"report:balanced-delims",
+"60c84432c97e4c29"
+],
+[
+"org_detect:balanced-delims",
+"9d23aa3634263853"
+],
+[
+"vault:79b6b32926a780bc",
+"e2f511572b7f1642"
+],
+[
+"vault:c87824aa42dc2128",
+"7985455ff7576d32"
+],
+[
+"vault:86fe24a6ff38b007",
+"07435ea142a9fddd"
+],
+[
+"org_detect:balanced-delims",
+"6113d318ba2e628e"
+],
+[
+"org_detect:balanced-delims",
+"6113d318ba2e628e"
+],
+[
+"report:balanced-delims",
+"9571bed3a4dfca55"
+],
+[
+"org_detect:balanced-delims",
+"6113d318ba2e628e"
+],
+[
+"vault:bb91588dec050bb1",
+"de6dbb9dac3fa1df"
+],
+[
+"vault:cc540ae12f150d82",
+"085ecfb415f27d06"
+],
+[
+"vault:4886476258b92045",
+"1435c0139f843d9b"
+],
+[
+"org_detect:balanced-delims",
+"5b81f03dfd353cd7"
+],
+[
+"org_detect:balanced-delims",
+"5b81f03dfd353cd7"
+],
+[
+"report:balanced-delims",
+"8cfa08c72ac78d5c"
+],
+[
+"org_detect:balanced-delims",
+"5b81f03dfd353cd7"
+],
+[
+"vault:1b4b8b8073574aed",
+"c609bdea7978fcbb"
+],
+[
+"vault:74f4331929a2ce16",
+"314e0bc72b31b69f"
+],
+[
+"vault:9fc2973f80342bdc",
+"b1f5144fce54cb52"
+],
+[
+"org_detect:balanced-delims",
+"c4dc23ee3001e9f4"
+],
+[
+"org_detect:balanced-delims",
+"c4dc23ee3001e9f4"
+],
+[
+"report:balanced-delims",
+"33f4580d0c7f5ee7"
+],
+[
+"org_detect:balanced-delims",
+"c4dc23ee3001e9f4"
+],
+[
+"vault:6e6e755f6e796fb4",
+"46e5ea87187e4ed2"
+],
+[
+"org_detect:balanced-delims",
+"e45fd11e12997b82"
+],
+[
+"org_detect:balanced-delims",
+"e45fd11e12997b82"
+],
+[
+"report:balanced-delims",
+"b55c1d8c9bd19e70"
+],
+[
+"org_detect:balanced-delims",
+"e45fd11e12997b82"
+],
+[
+"vault:62f94e548ca8d3f7",
+"a4c5fd84c33eba2d"
+],
+[
+"vault:f23e931adf7c8bb0",
+"6e0c7fe92a952784"
+],
+[
+"vault:d8e4af58a111adef",
+"0bb43d9146f3752d"
+],
+[
+"org_detect:latin-hexameter",
+"d0b83f6f7e0ce4af"
+],
+[
+"org_detect:latin-hexameter",
+"d0b83f6f7e0ce4af"
+],
+[
+"vault:92f1059c27156e93",
+"ec6410194100a06b"
+],
+[
+"vault:4e054173c75a0ac8",
+"df67f01e7b8a7125"
+],
+[
+"vault:098505bd92a5ab97",
+"6dac38990a7195d8"
+],
+[
+"org_detect:latin-hexameter",
+"d0b83f6f7e0ce4af"
+],
+[
+"org_detect:latin-hexameter",
+"d0b83f6f7e0ce4af"
+],
+[
+"org_detect:latin-hexameter",
+"d0b83f6f7e0ce4af"
+],
+[
+"vault:a5c9a3198448b296",
+"4ab36ae63f0525d6"
+],
+[
+"vault:36b847a35a9174de",
+"dfd3cce4fe4b0471"
+],
+[
+"org_detect:latin-hexameter",
+"d0b83f6f7e0ce4af"
+],
+[
+"org_detect:latin-hexameter",
+"d0b83f6f7e0ce4af"
+],
+[
+"vault:fe5a979cbb8a14b5",
+"04a06fc5bab4ec7e"
+],
+[
+"org_detect:latin-hexameter",
+"d0b83f6f7e0ce4af"
+],
+[
+"org_detect:latin-hexameter",
+"d0b83f6f7e0ce4af"
+],
+[
+"org_detect:latin-hexameter",
+"d0b83f6f7e0ce4af"
+],
+[
+"vault:84035218cb3115db",
+"ad2e7600f8927557"
+],
+[
+"vault:be638a4829107441",
+"bfb688d72c889026"
+],
+[
+"org_detect:balanced-delims",
+"4ecda0d4c1b19398"
+],
+[
+"org_detect:balanced-delims",
+"4ecda0d4c1b19398"
+],
+[
+"report:balanced-delims",
+"acdd7fb8ba4ee2f6"
+],
+[
+"org_detect:balanced-delims",
+"4ecda0d4c1b19398"
+],
+[
+"vault:e4bef0c70fefd220",
+"fa8633f1a2c0e985"
+],
+[
+"vault:91f7acaed2bd8e67",
+"85a4214733cf1c6a"
+],
+[
+"vault:985919d51cacec6c",
+"8b9d72b66efb620f"
+],
+[
+"vault:fe91d864d033f6a4",
+"96a5016bc9ec6d7b"
+],
+[
+"vault:22c153ff0aac5bd1",
+"5d16c2c7259eba7c"
+],
+[
+"org_detect:balanced-delims",
+"48c44390a8dded85"
+],
+[
+"org_detect:balanced-delims",
+"48c44390a8dded85"
+],
+[
+"report:balanced-delims",
+"17a4efc03a7b8db3"
+],
+[
+"org_detect:balanced-delims",
+"48c44390a8dded85"
+],
+[
+"vault:ab5229bfc97aa463",
+"7ff1bcb2350c6e5b"
+],
+[
+"vault:38c06a785788c835",
+"94df4702c6f94469"
+],
+[
+"vault:368764efbd500aed",
+"131f7dfca60013df"
+],
+[
+"vault:8ca070566c5297fc",
+"cec9eecfdac5b49f"
+],
+[
+"vault:7e06fde8e5a9049e",
+"f55dfcbfdb984817"
+],
+[
+"org_detect:balanced-delims",
+"ff4096b6a458217e"
+],
+[
+"org_detect:balanced-delims",
+"ff4096b6a458217e"
+],
+[
+"report:balanced-delims",
+"95886d741847d187"
+],
+[
+"org_detect:balanced-delims",
+"ff4096b6a458217e"
+],
+[
+"vault:1196360f5c3a8e6b",
+"291cf03ab13b5d78"
+],
+[
+"vault:cfbdc92f917a0de2",
+"e24c89349b94bc23"
+],
+[
+"vault:c5da87f9d17c4245",
+"fff2e8837d04518c"
+],
+[
+"vault:59c61a43d499d516",
+"e2176d1c15985d5b"
+],
+[
+"vault:4466f619fdf6132b",
+"b9ae6e92a013bd22"
+]
+],
 "manifest_rooms": {
-"bank": "d3acf052626f213b",
-"crystal": "89192aac104b5cab",
+"bank": "2e1fd9d2699ff684",
+"crystal": "73180d825c68df50",
 "library": "89192aac104b5cab",
-"vault": "89192aac104b5cab"
+"vault": "1c13af8c266cdc13"
 },
 "membranes": {},
-"root": "63389a2bdf7df11795e4d33bdee6bc8327e418bc898d05ce3daa155d1a8fe7da",
+"root": "0d45b08f011c7ca40b64bf8e804677d3d3f64510c869a300f350a87b19ee1100",
 "tombstones": [],
-"vault": {},
+"vault": {
+"098505bd92a5ab97": {
+"adversarial": {
+"entropy_saturation": 0.0,
+"neg_space_starvation": 0.0,
+"p_adversarial": 0.0,
+"uniformity": 0.0
+},
+"escalate": true,
+"partition_sizes": {
+"K": 0,
+"Omega": 28,
+"U": 0
+},
+"reasons": [
+"28 orthogonal/unknowable nodes"
+]
+},
+"0a806e8a15823533": {
+"adversarial": {
+"entropy_saturation": 0.0,
+"neg_space_starvation": 0.0,
+"p_adversarial": 0.0,
+"uniformity": 0.0
+},
+"escalate": false,
+"partition_sizes": {
+"K": 28,
+"Omega": 0,
+"U": 0
+},
+"reasons": []
+},
+"1196360f5c3a8e6b": {
+"adversarial": {
+"entropy_saturation": 0.0,
+"neg_space_starvation": 0.0,
+"p_adversarial": 0.0,
+"uniformity": 0.0
+},
+"escalate": false,
+"partition_sizes": {
+"K": 31,
+"Omega": 0,
+"U": 0
+},
+"reasons": []
+},
+"150d01b908c1e2ef": {
+"cardinality": 1,
+"classification": {
+"policy": "pass",
+"topology": {
+"distinct_readings": 1,
+"ductus_profile": {
+"sequential": 1
+},
+"entropy_bits": -0.0,
+"excluded": 0
+},
+"type": "A0-unambiguous"
+},
+"confidence": "med",
+"contradiction_nodes": [],
+"entropy_bits": -0.0,
+"flags": [],
+"language": "balanced-delims",
+"negative_space": [],
+"orthogonal_nodes": [],
+"provenance": "d9865de29e9bab89",
+"scansion": {
+"Law and Order may refer to:== In politics ==the preservation": false
+},
+"spectrum": [
+"Law and Order may refer to:== In politics ==the preservation of the rule of lawthe keeping of the peace (law)Law and order (politics), a term common in political debate and discussion, generally indicating support of a strict criminal justice systemLaw and Order Offensive Party, a former minor German political partyOperation Law and Order, an Israeli military operation against a Hezbollah base in LebanonLaw and Order, previous name of Platform 21 a minor right-wing Latvian political party== In entertainment and media ===== In film ===Law and Order (1932 film), westernLaw and Order (1940 film), westernLaw and Order (1942 film), Billy the Kid westernLaw and Order (1953 film), westernLaw and Order (1969 film), documentaryExiled: A Law & Order Movie (1998 film), drama=== In television ===Law & Order (franchise) (1990–present), a number of related police and legal dramas created by Dick Wolf for NBC televisionLaw & Order (1990–2010, 2022–present), the first series in the franchiseLaw & Order: Special Victims Unit (1999–present), the second series in the franchiseLaw & Order: Criminal Intent (2001–2011), the third series in the franchiseLaw & Order: Trial by Jury (2005–2006), the fourth series in the franchiseLaw & Order: UK (2009–2014), a British adaptation of the original seriesLaw & Order: LA (2010–2011), the fifth (American) series in the franchiseLaw & Order True Crime (2017), the sixth American series in the franchiseLaw & Order: Organized Crime (2021–present), the seventh American series in the franchiseLaw & Order Toronto: Criminal Intent (2024–present), a Canadian show based on Law & Order: Criminal IntentLaw & Order (British TV series), 1978 series of four police and legal television plays\"Law and Order\", an episode of the 1975 TV series Survivors=== In music ===Law and Order (album), by Lindsey Buckingham\"Law & Order\" (song), a song by the Tom Robinson Band on the 1979 album TRB Two\"Law & Order\", the theme to the Law & Order franchise, a song by Mike Post from the 1994 album Inventions from the Blue Line=== In video games ===Law & Order: Dead on the MoneyLaw & Order: Double or NothingLaw & Order: Justice Is ServedLaw & Order: Criminal Intent (video game)Law & Order: Legacies=== In other uses ===Law & Order (G.I. Joe), a fictional K-9 team in the G.I. Joe universeLaw and Order, 1973 NYC police novel by Dorothy Uhnak which became a TV-movie starring Darren McGavin== See also ==Law and Order Party (disambiguation)Crime and Punishment (disambiguation)"
+]
+},
+"17a57588fc423453": {
+"H:0": 0.3333333333333333,
+"ductus:sequential": 0.3333333333333333,
+"negspace": 0.0,
+"tax:A0-unambiguous": 0.3333333333333333
+},
+"1b4b8b8073574aed": {
+"adversarial": {
+"entropy_saturation": 0.0,
+"neg_space_starvation": 0.0,
+"p_adversarial": 0.0,
+"uniformity": 0.0
+},
+"escalate": false,
+"partition_sizes": {
+"K": 27,
+"Omega": 0,
+"U": 0
+},
+"reasons": []
+},
+"1bd9004470aaf1ba": {
+"adversarial": {
+"entropy_saturation": 0.0,
+"neg_space_starvation": 0.0,
+"p_adversarial": 0.0,
+"uniformity": 0.0
+},
+"escalate": false,
+"partition_sizes": {
+"K": 45,
+"Omega": 0,
+"U": 0
+},
+"reasons": []
+},
+"1eec48d81565e52a": {
+"chart": "balanced-delims",
+"domain": "law",
+"nodes": [
+"L0",
+"L1",
+"L2",
+"L3",
+"L4",
+"L5",
+"L6",
+"L7",
+"L8",
+"L9",
+"L10",
+"L11",
+"L12",
+"L13",
+"L14",
+"L15",
+"L16"
+]
+},
+"22c153ff0aac5bd1": {
+"H:0": 0.3333333333333333,
+"ductus:sequential": 0.29411764705882354,
+"negspace": 0.0392156862745098,
+"tax:A0-unambiguous": 0.29411764705882354,
+"tax:A4-orthogonal": 0.0392156862745098
+},
+"2b7ce3226c065c06": {
+"cardinality": 1,
+"classification": {
+"policy": "pass",
+"topology": {
+"distinct_readings": 1,
+"ductus_profile": {
+"sequential": 1
+},
+"entropy_bits": -0.0,
+"excluded": 0
+},
+"type": "A0-unambiguous"
+},
+"confidence": "med",
+"contradiction_nodes": [],
+"entropy_bits": -0.0,
+"flags": [],
+"language": "balanced-delims",
+"negative_space": [],
+"orthogonal_nodes": [],
+"provenance": "eade4bd1fe9e91ef",
+"scansion": {
+"The Jim Crow laws were state and local laws introduced in th": false
+},
+"spectrum": [
+"The Jim Crow laws were state and local laws introduced in the Southern United States from the late 19th century to the mid-20th century that enforced racial segregation. The origin of the term Jim Crow is obscure, but probably refers to a minstrel show song called \"Jump Jim Crow\". Formal and informal racial segregation policies were present in other areas of the United States as well, even as several states outside the South had banned discrimination in public accommodations and voting. Southern laws were enacted by white-dominated state legislatures (Redeemers) to disenfranchise and remove political and economic gains made by African Americans during the Reconstruction era. Such continuing racial segregation was also supported by the successful Lily-white movement.In practice, Jim Crow laws mandated racial segregation in all public facilities in the South, beginning in the 1870s. Jim Crow laws were upheld in 1896 in the case of Plessy v. Ferguson, in which the Supreme Court laid out its \"separate but equal\" legal doctrine concerning facilities for African Americans. Public education had essentially been segregated since it began during the Reconstruction era after 1863. Companion laws excluded most African Americans from the vote in the South.Although in theory the \"equal\" segregation doctrine governed public facilities and transportation, facilities for African Americans were consistently inferior and underfunded compared to facilities for white Americans; sometimes, there were no facilities for the black community at all. Far from equality, as a body of law, Jim Crow institutionalized economic, educational, political and social disadvantages and second-class citizenship for most African Americans living in the United States. After the NAACP (National Association for the Advancement of Colored People) was founded in 1909, it became involved in a sustained public protest and campaigns against the Jim Crow laws, and the so-called \"separate but equal\" doctrine.In 1954, segregation of public schools (state-sponsored) was declared unconstitutional by the U.S. Supreme Court in the landmark case Brown v. Board of Education of Topeka. In some states, it took many years to implement this decision, while the Warren Court continued to rule against Jim Crow legislation in other cases such as Heart of Atlanta Motel, Inc. v. United States (1964). Most remaining Jim Crow laws were overturned by the Civil Rights Act of 1964 and the Voting Rights Act of 1965, and Southern states' anti-miscegenation laws were overturned in the 1967 case of Loving v. Virginia.== Etymology ==The origin of the term \"Jim Crow\" is obscure, but probably refers to slave singing that incorporated an African dance called \"Jump Jim Crow\". \"Jump Jim Crow\" became a minstrel show dance performed by white actor Thomas D. Rice in blackface, first performed in 1828. Many other white minstrel dancers in blackface copied it for white audiences. According to The Jim Crow Encyclopedia:The routine was immensely popular during the antebellum period, and the figure of Jim Crow became a recognizable and enduring icon in American popular culture. In the 1840s, abolitionists used the phrase Jim Crow to describe segregated railroad cars. By the end of the 19th century, the term came to signify the social separation of the races.The earliest known use of the phrase \"Jim Crow law\" can be dated to 1884 in a newspaper article summarizing congressional debate. The term appears in 1892, in the title of a New York Times article about Louisiana requiring segregated railroad cars.== Origins ==In January 1865, an amendment to the Constitution abolishing slavery in the United States was proposed by Congress and ratified as the Thirteenth Amendment on December 18, 1865. During the Reconstruction era of 1865–1877, federal laws provided civil rights protections in the U.S. South for freedmen, African Americans who were former slaves, and the minority of black people who had been free before the war. In the 1870s, Democrats gradually regained power in the Southern legislatures as violent insurgent paramilitary groups, such as the Ku Klux Klan, White League, and Red Shirts disrupted Republican organizing, ran Republican officeholders out of town, and lynched black voters as an intimidation tactic to suppress the black vote. Extensive voter fraud was also used. In one instance, an outright coup or insurrection in coastal North Carolina led to the violent removal of democratically elected Republican party executive and representative officials, who were either hunted down or hounded out. Gubernatorial elections were close and had been disputed in Louisiana for years, with increasing violence against black Americans during campaigns from 1868 onward.The Compromise of 1877 to gain Southern support in the presidential election resulted in the government withdrawing the last of the federal troops from the South. White Democrats had regained political power in every Southern state. These Southern, white, \"Redeemer\" governments legislated Jim Crow laws, officially segregating the country's population. Jim Crow laws were a manifestation of authoritarian rule specifically directed at one racial group.Black people were still elected to local offices throughout the 1880s in local areas with large black populations, but their voting was suppressed for state and national elections. States passed laws to make voter registration and electoral rules more restrictive, with the result that political participation by most black people and many poor white people began to decrease. Between 1890 and 1910, ten of the eleven former Confederate states, beginning with Mississippi, passed new constitutions or amendments that effectively disenfranchised most black people and tens of thousands of poor white people through a combination of poll taxes, literacy and comprehension tests, and residency and record-keeping requirements. Grandfather clauses temporarily permitted some illiterate white people to vote but gave no relief to most black people.Voter turnout dropped dramatically through the South as a result of these measures. In Louisiana, by 1900, black voters were reduced to 5,320 on the rolls, although they comprised the majority of the state's population. By 1910, only 730 black people were registered, less than 0.5% of eligible black men. \"In 27 of the state's 60 parishes, not a single black voter was registered any longer; in 9 more parishes, only one black voter was.\" The cumulative effect in North Carolina meant that black voters were eliminated from voter rolls during the period from 1896 to 1904. The growth of their thriving middle class was slowed. In North Carolina and other Southern states, black people suffered from being made invisible in the political system: \"[W]ithin a decade of disfranchisement, the white supremacy campaign had erased the image of the black middle class from the minds of white North Carolinians.\" In Alabama, tens of thousands of poor whites were also disenfranchised, although initially legislators had promised them they would not be affected adversely by the new restrictions.Those who could not vote were not eligible to serve on juries and could not run for local offices. They effectively disappeared from political life, as they could not influence the state legislatures, and their interests were overlooked. While public schools had been established by Reconstruction legislatures for the first time in most Southern states, those for black children were consistently underfunded compared to schools for white children, even when considered within the strained finances of the postwar South where the decreasing price of cotton kept the agricultural economy at a low.Like schools, public libraries for black people were underfunded, if they existed at all, and they were often stocked with secondhand books and other resources. These facilities were not introduced for African Americans in the South until t"
+]
+},
+"2fdc36990cb77a06": {
+"cardinality": 1,
+"classification": {
+"policy": "pass",
+"topology": {
+"distinct_readings": 1,
+"ductus_profile": {
+"sequential": 1
+},
+"entropy_bits": -0.0,
+"excluded": 0
+},
+"type": "A0-unambiguous"
+},
+"confidence": "med",
+"contradiction_nodes": [],
+"entropy_bits": -0.0,
+"flags": [],
+"language": "balanced-delims",
+"negative_space": [],
+"orthogonal_nodes": [],
+"provenance": "a5f19be7a7e02748",
+"scansion": {
+"Brooks's law is an observation about software project manage": false
+},
+"spectrum": [
+"Brooks's law is an observation about software project management that \"Adding manpower to a late software project makes it later.\" It was coined by Fred Brooks in his 1975 book The Mythical Man-Month. According to Brooks, under certain conditions, an incremental person when added to a project makes it take more, not less time.== Explanations ==According to Brooks himself, the law is an \"outrageous oversimplification\", but it captures the general rule. Brooks points to the main factors that explain why it works this way:It takes some time for the people added to a project to become productive. Brooks calls this the \"ramp up\" time. Software projects are complex engineering endeavors, and new workers on the project must first become educated about the work that has preceded them; this education requires diverting resources already working on the project, temporarily diminishing their productivity while the new workers are not yet contributing meaningfully. Each new worker also needs to integrate with a team composed of several engineers who must educate the new worker in their area of expertise in the code base, day by day. In addition to reducing the contribution of experienced workers (because of the need to train), new workers may even make negative contributions, for example, if they introduce bugs that move the project further from completion.Communication overhead increases as the number of people increases. Due to combinatorial explosion, the number of different communication channels increases rapidly with the number of people. Everyone working on the same task needs to keep in sync, so as more people are added they spend more time trying to find out what everyone else is doing.Adding more people to a highly divisible task, such as cleaning rooms in a hotel, decreases the overall task duration (up to the point where additional workers get in each other's way). However, other tasks including many specialties in software projects are less divisible; Brooks points out this limited divisibility with another example: while it takes one woman nine months to make one baby, \"nine women can't make a baby in one month\".== Exceptions and possible solutions ==There are some key points in Brooks's law that allow exceptions and open the door for possible solutions.The first point is to note that Brooks's law only applies to projects that are already late. Projects can be brought back into (or kept in) control if people are added earlier in the process. It is also important to determine if the project is really late, or if the schedule was originally overly optimistic. Scheduling mistakes account for a large number of late projects. Correcting the schedule is the best way to have a meaningful and reliable time frame for the project's completion.The quantity, quality and role of the people added to the project also must be taken into consideration. One simple way to circumvent the law on an overrun project is to add more people than needed, in such a way that the extra capacity compensates the training and communication overhead. Good programmers or specialists can be added with less overhead for training. People can be added to do other tasks related with the project, for example, quality assurance or documentation; given that the task is clear, ramp up time is minimized.Good modularity helps by minimizing the communication overhead between team members. Smaller sub-problems are solved by a smaller team, and a top-level team is responsible for systems integration. For this method to work, the segmentation of the problem must be done correctly in the first place; if done incorrectly, this can make the problem worse, not better, by impeding communication between programmers working on parts of the problem which are actually closely coupled, even when the project plan has decreed that they are not.An example of segmentation are design patterns that simplify the distribution of work, because the entire team can do its part within the framework provided by that pattern. The design pattern defines the rules that the programmers follow, simplifies communication through the use of a standard language, and provides consistency and scalability.The Bermuda plan, where most developers on a project are removed (\"sent to Bermuda\") and the remaining are left to complete the software, has been suggested as a way of circumventing Brooks's law.== See also ==Death march (project management)Anti-patternLinus's lawList of eponymous lawsList of software development philosophies== Notes ==== References =="
+]
+},
+"368764efbd500aed": {
+"resonant_cells": [
+[
+"66b8c48c3274c4b8",
+0.0
+],
+[
+"domain:law",
+0.040985
+],
+[
+"0caa64e6a9511efe",
+0.666667
+]
+]
+},
+"36b847a35a9174de": {
+"H:0": 0.3333333333333333,
+"ductus:sequential": 0.3111111111111111,
+"negspace": 0.022222222222222223,
+"tax:A0-unambiguous": 0.3111111111111111,
+"tax:A4-orthogonal": 0.022222222222222223
+},
+"370057021a40ce75": {
+"cardinality": 1,
+"classification": {
+"policy": "pass",
+"topology": {
+"distinct_readings": 1,
+"ductus_profile": {
+"sequential": 1
+},
+"entropy_bits": -0.0,
+"excluded": 0
+},
+"type": "A0-unambiguous"
+},
+"confidence": "med",
+"contradiction_nodes": [],
+"entropy_bits": -0.0,
+"flags": [],
+"language": "balanced-delims",
+"negative_space": [],
+"orthogonal_nodes": [],
+"provenance": "f2cfe8611925914d",
+"scansion": {
+"Coulomb's inverse-square law, or simply Coulomb's law, is a ": false
+},
+"spectrum": [
+"Coulomb's inverse-square law, or simply Coulomb's law, is a scientific law of physics that describes the amount of force between two electrically charged particles at rest. This electric force is conventionally called the electrostatic force or Coulomb force. Although the law was known earlier, it was first published in 1785 by French physicist Charles-Augustin de Coulomb. Coulomb's law was essential to the development of the theory of electromagnetism and may even be its starting point, as it allowed meaningful discussions of the amount of electric charge in a particle.The law states that the magnitude, or absolute value, of the attractive or repulsive electrostatic force between two point charges is directly proportional to the product of the magnitudes of their charges and inversely proportional to the square of the distance between them. Coulomb discovered that bodies with like electrical charges repel:It follows therefore from these three tests, that the repulsive force that the two balls – [that were] electrified with the same kind of electricity – exert on each other, follows the inverse proportion of the square of the distance.Coulomb also showed that oppositely charged bodies attract according to an inverse-square law:|F|=ke|q1||q2|r2{\\displaystyle |F|=k_{\\text{e}}{\\frac {|q_{1}||q_{2}|}{r^{2}}}}Here, ke is the Coulomb constant, q1 and q2 are the quantities of each charge, and the scalar r is the distance between the charges.The force is along the straight line joining the two bodies. If the charges have the same sign, the electrostatic force between them makes them repel; if they have different signs, the force between them makes them attract.Being an inverse-square law, the law is similar to Isaac Newton's inverse-square law of universal gravitation, but gravitational forces always make things attract, while electrostatic forces make charges attract or repel. Also, gravitational forces are much weaker than electrostatic forces. Coulomb's law can be used to derive Gauss's law, and vice versa. In the case of a single point charge at rest, the two laws are equivalent, expressing the same physical law in different ways. The law has been tested extensively, and observations have upheld the law on the scale from 10−16 m to 108 m.The time-dependent generalization of Coulomb's law is given by Jefimenko's equations, which describe the electric field and magnetic fields generated by time-dependent distributions of electric charge and current.== History ==Ancient cultures around the Mediterranean knew that certain objects, such as rods of amber, could be rubbed with cat's fur to attract light objects like feathers and pieces of paper. Thales of Miletus made the first recorded description of static electricity around 600 BC, when he noticed that friction could make a piece of amber attract small objects.In 1600, English scientist William Gilbert made a careful study of electricity and magnetism, distinguishing the lodestone effect from static electricity produced by rubbing amber. He coined the Neo-Latin word electricus (\"of amber\" or \"like amber\", from ἤλεκτρον [elektron], the Greek word for \"amber\") to refer to the property of attracting small objects after being rubbed. This association gave rise to the English words \"electric\" and \"electricity\", which made their first appearance in print in Thomas Browne's Pseudodoxia Epidemica of 1646.Early investigators of the 18th century who suspected that the electrical force diminished with distance as the force of gravity did (i.e., as the inverse square of the distance) included Daniel Bernoulli and Alessandro Volta, both of whom measured the force between plates of a capacitor, and Franz Aepinus who supposed the inverse-square law in 1758.Based on experiments with electrically charged spheres, Joseph Priestley of England was among the first to propose that electrical force followed an inverse-square law, similar to Newton's law of universal gravitation. However, he did not generalize or elaborate on this. In 1767, he conjectured that the force between charges varied as the inverse square of the distance.In 1769, Scottish physicist John Robison announced that, according to his measurements, the force of repulsion between two spheres with charges of the same sign varied as x−2.06.In the early 1770s, the dependence of the force between charged bodies upon both distance and charge had already been discovered, but not published, by Henry Cavendish of England. In his notes, Cavendish wrote, \"We may therefore conclude that the electric attraction and repulsion must be inversely as some power of the distance between that of the 2 + ⁠1/50⁠th and that of the 2 − ⁠1/50⁠th, and there is no reason to think that it differs at all from the inverse duplicate ratio\".Finally, in 1785, the French physicist Charles-Augustin de Coulomb published his first three reports of electricity and magnetism where he stated his law. This publication was essential to the development of the theory of electromagnetism. He used a torsion balance to study the repulsion and attraction forces of charged particles, and determined that the magnitude of the electric force between two point charges is directly proportional to the product of the charges and inversely proportional to the square of the distance between them.The torsion balance consists of a bar suspended from its middle by a thin fiber. The fiber acts as a very weak torsion spring. In Coulomb's experiment, the torsion balance was an insulating rod with a metal-coated ball attached to one end, suspended by a silk thread. The ball was charged with a known charge of static electricity, and a second charged ball of the same polarity was brought near it. The two charged balls repelled one another, twisting the fiber through a certain angle, which could be read from a scale on the instrument. By knowing how much force it took to twist the fiber through a given angle, Coulomb was able to calculate the force between the balls and derive his inverse-square proportionality law.== Mathematical form ==Coulomb's law states that the electrostatic forceF1{\\textstyle \\mathbf {F} _{1}}experienced by a charge,q1{\\displaystyle q_{1}}at positionr1{\\displaystyle \\mathbf {r} _{1}}, in the vicinity of another charge,q2{\\displaystyle q_{2}}at positionr2{\\displaystyle \\mathbf {r} _{2}}, in a vacuum is equal toF1=q1q"
+]
+},
+"38c06a785788c835": {
+"cardinality": 1,
+"classification": {
+"policy": "pass",
+"topology": {
+"distinct_readings": 1,
+"ductus_profile": {
+"sequential": 1
+},
+"entropy_bits": -0.0,
+"excluded": 0
+},
+"type": "A0-unambiguous"
+},
+"confidence": "med",
+"contradiction_nodes": [],
+"entropy_bits": -0.0,
+"flags": [],
+"language": "balanced-delims",
+"negative_space": [],
+"orthogonal_nodes": [],
+"provenance": "17a4efc03a7b8db3",
+"scansion": {
+"The Beer–Lambert law (also known as Beer’s law) is used to d": false
+},
+"spectrum": [
+"The Beer–Lambert law (also known as Beer’s law) is used to determine the concentration of substances in a solution. It describes how the amount of light that a solution absorbs is directly proportional to the solution's concentration. This relationship is commonly expressed asA=εcl{\\displaystyle A=\\varepsilon cl}whereA is the absorbanceε is the absorption coefficientc is the concentration of the absorbing substancel is the path lengthIt is named after August Beer and Johann Heinrich Lambert. Forms of the law date back to the mid-eighteenth century, but it only took its modern form during the early twentieth.== History ==The first work towards the law began with astronomical observations Pierre Bouguer performed in the early eighteenth century and published in 1729.  Bouguer needed to compensate for the refraction of light by the earth's atmosphere, and found it necessary to measure the local height of the atmosphere.  The latter, he sought to obtain through variations in the observed intensity of known stars.  When calibrating this effect, Bouguer discovered that light intensity had an exponential dependence on length traveled through the atmosphere (in Bouguer's terms, a geometric progression).Bouguer's work was then popularized in Johann Heinrich Lambert's Photometria in 1760. Lambert expressed the law, which states that the loss of light intensity when it propagates in a medium is directly proportional to intensity and path length, in a mathematical form quite similar to that used in modern physics.  Lambert began by assuming that the intensity I of light traveling into an absorbing body would be given by the differential equation−dI=μIdx,{\\displaystyle -\\mathrm {d} I=\\mu I\\mathrm {d} x,}which is compatible with Bouguer's observations. The constant of proportionality μ was often termed the \"optical density\" of the body.  As long as μ is constant along a distance d, the exponential attenuation law,I=I0e−μd{\\displaystyle I=I_{0}e^{-\\mu d}}follows from integration.In 1852, August Beer noticed that colored solutions also appeared to exhibit a similar attenuation relation. In his analysis, Beer does not discuss Bouguer and Lambert's prior work, writing in his introduction that \"Concerning the absolute magnitude of the absorption that a particular ray of light suffers during its propagation through an absorbing medium, there is no information available.\"  Beer may have omitted reference to Bouguer's work because there is a subtle physical difference between color absorption in solutions and astronomical contexts.  Solutions are homogeneous and do not scatter light at common analytical wavelengths (ultraviolet, visible, or infrared), except at entry and exit.  Thus light within a solution is reasonably approximated as due to absorption alone.  In Bouguer's context, atmospheric dust or other inhomogeneities could also scatter light away from the detector.  Modern texts combine the two laws because scattering and absorption have the same effect.  Thus a scattering coefficient μs and an absorption coefficient μa can be combined into a total extinction coefficient μ = μs + μa.Importantly, Beer also seems to have conceptualized his result in terms of a given thickness' opacity, writing \"If λ is the coefficient (fraction) of diminution, then this coefficient (fraction) will have the value λ2 for double this thickness.\"  Although this geometric progression is mathematically equivalent to the modern law, modern treatments instead emphasize the logarithm of λ, which clarifies that concentration and path length have equivalent effects on the absorption.  An early, possibly the first, modern formulation was given by Robert Luther and Andreas Nikolopulos in 1913.== Mathematical formulations ==There are several equivalent formulations of the law, depending on the precise choice of measured quantities.  All of them state that, provided that the physical state is held constant, the extinction process is linear in the intensity of radiation and amount of radiatively-active matter, a fact sometimes called the fundamental law of extinction.  Many of them then connect the quantity of radiatively-active matter to a length traveled ℓ and a concentration c or number density n.  For concentrations expressed as moles per volume, the latter two are related by Avogadro's number: n = NAc.A collimated beam (directed radiation) with cross-sectional area S will encounter Sℓn particles (on average) during its travel.  However, not all of these particles interact with the beam.  Propensity to interact is a material-dependent property, typically summarized in absorptivity ϵ or scattering cross-section σ.  These almost exhibit another Avogadro-type relationship: ln(10)ε = NAσ.  The factor of ln(10) appears because physicists tend to use natural logarithms and chemists decadal logarithms.Beam intensity can also be described in terms of multiple variables: the intensity I or radiant flux Φ.  In the case of a collimated beam, these are related by Φ = IS, but Φ is often used in non-collimated contexts.  The ratio of intensity (or flux) in to out is sometimes summarized as a transmittance coefficient T = I⁄I0.When considering an extinction law, dimensional analysis can verify the consistency of the variables, as logarithms (being nonlinear) must always be dimensionless.=== Formulation ===The simplest formulation of Beer's relates the optical attenuation of a physical material containing a single attenuating species of uniform concentration to the optical path length through the sample and absorptivity of the species. This expression is:log10⁡(I0/I)=A=εℓc{\\displaystyle \\log _{10}(I_{0}/I)=A=\\varepsilon \\ell c}The quantities so equated are defined to be the absorbance A, which depends on the logarithm base.   The Naperian absorbance τ is then given by τ = ln(10)A and satisfiesln⁡(I0/I)=τ=σℓn.{\\displaystyle \\ln(I_{0}/I)=\\tau =\\sigma \\ell n.}If multiple species in the material interact with the radiation, then their absorbances add.  Thus a slightly more general formulation is thatτ=ℓ∑iσini,A=ℓ∑iεic"
+]
+},
+"405bb3545135cd1f": {
+"chart": "balanced-delims",
+"domain": "law",
+"nodes": [
+"L0",
+"L1",
+"L2",
+"L3",
+"L4",
+"L5",
+"L6",
+"L7",
+"L8",
+"L9",
+"L10",
+"L11",
+"L12",
+"L13",
+"L14",
+"L15",
+"L16",
+"L17",
+"L18",
+"L19",
+"L20",
+"L21",
+"L22",
+"L23",
+"L24",
+"L25",
+"L26",
+"L27",
+"L28",
+"L29",
+"L30",
+"L31",
+"L32",
+"L33",
+"L34",
+"L35",
+"L36",
+"L37",
+"L38",
+"L39",
+"L40",
+"L41",
+"L42",
+"L43",
+"L44",
+"L45",
+"L46",
+"L47",
+"L48",
+"L49",
+"L50",
+"L51",
+"L52",
+"L53",
+"L54",
+"L55",
+"L56",
+"L57",
+"L58",
+"L59",
+"L60",
+"L61"
+]
+},
+"418e621b96f49053": {
+"adversarial": {
+"entropy_saturation": 0.0,
+"neg_space_starvation": 0.0,
+"p_adversarial": 0.0,
+"uniformity": 0.0
+},
+"escalate": false,
+"partition_sizes": {
+"K": 41,
+"Omega": 0,
+"U": 0
+},
+"reasons": []
+},
+"4232541353a62cf8": {
+"chart": "balanced-delims",
+"domain": "law",
+"nodes": [
+"L0",
+"L1",
+"L2",
+"L3",
+"L4",
+"L5",
+"L6",
+"L7",
+"L8",
+"L9",
+"L10",
+"L11",
+"L12",
+"L13",
+"L14",
+"L15",
+"L16",
+"L17",
+"L18",
+"L19",
+"L20",
+"L21",
+"L22",
+"L23",
+"L24",
+"L25",
+"L26",
+"L27"
+]
+},
+"4466f619fdf6132b": {
+"H:0": 0.3333333333333333,
+"ductus:sequential": 0.2982456140350877,
+"negspace": 0.03508771929824561,
+"tax:A0-unambiguous": 0.2982456140350877,
+"tax:A4-orthogonal": 0.03508771929824561
+},
+"4886476258b92045": {
+"chart": "balanced-delims",
+"domain": "law",
+"nodes": [
+"L0",
+"L1",
+"L2",
+"L3",
+"L4",
+"L5",
+"L6",
+"L7",
+"L8",
+"L9",
+"L10",
+"L11",
+"L12",
+"L13",
+"L14",
+"L15",
+"L16",
+"L17",
+"L18",
+"L19",
+"L20",
+"L21",
+"L22",
+"L23",
+"L24",
+"L25"
+]
+},
+"4d8629c9055a5f4d": {
+"chart": "balanced-delims",
+"domain": "law",
+"nodes": [
+"L0",
+"L1",
+"L2",
+"L3",
+"L4",
+"L5",
+"L6",
+"L7",
+"L8",
+"L9",
+"L10",
+"L11",
+"L12",
+"L13",
+"L14",
+"L15",
+"L16",
+"L17",
+"L18",
+"L19",
+"L20",
+"L21",
+"L22",
+"L23",
+"L24",
+"L25",
+"L26",
+"L27",
+"L28",
+"L29",
+"L30",
+"L31",
+"L32",
+"L33",
+"L34",
+"L35",
+"L36",
+"L37",
+"L38",
+"L39",
+"L40",
+"L41",
+"L42",
+"L43",
+"L44"
+]
+},
+"4e054173c75a0ac8": {
+"policy": "RE-BASIS (no valid reading in this chart)",
+"reason": "orthogonal — re-basis needed"
+},
+"59c61a43d499d516": {
+"chart": "balanced-delims",
+"domain": "law",
+"nodes": [
+"L0",
+"L1",
+"L2",
+"L3",
+"L4",
+"L5",
+"L6",
+"L7",
+"L8",
+"L9",
+"L10",
+"L11",
+"L12",
+"L13",
+"L14",
+"L15",
+"L16",
+"L17",
+"L18",
+"L19",
+"L20",
+"L21",
+"L22",
+"L23",
+"L24",
+"L25",
+"L26",
+"L27",
+"L28",
+"L29",
+"L30"
+]
+},
+"5a98b728ea8639e3": {
+"adversarial": {
+"entropy_saturation": 0.0,
+"neg_space_starvation": 0.0,
+"p_adversarial": 0.0,
+"uniformity": 0.0
+},
+"escalate": false,
+"partition_sizes": {
+"K": 40,
+"Omega": 0,
+"U": 0
+},
+"reasons": []
+},
+"62f94e548ca8d3f7": {
+"adversarial": {
+"entropy_saturation": 0.0,
+"neg_space_starvation": 0.0,
+"p_adversarial": 0.0,
+"uniformity": 0.0
+},
+"escalate": false,
+"partition_sizes": {
+"K": 23,
+"Omega": 0,
+"U": 0
+},
+"reasons": []
+},
+"6772ab061975aa87": {
+"chart": "balanced-delims",
+"domain": "law",
+"nodes": [
+"L0",
+"L1",
+"L2",
+"L3",
+"L4",
+"L5",
+"L6",
+"L7",
+"L8",
+"L9",
+"L10",
+"L11",
+"L12",
+"L13"
+]
+},
+"69a8655efd82c85e": {
+"adversarial": {
+"entropy_saturation": 0.0,
+"neg_space_starvation": 0.0,
+"p_adversarial": 0.0,
+"uniformity": 0.0
+},
+"escalate": false,
+"partition_sizes": {
+"K": 21,
+"Omega": 0,
+"U": 0
+},
+"reasons": []
+},
+"6c78691ef63d8177": {
+"chart": "balanced-delims",
+"domain": "law",
+"nodes": [
+"L0",
+"L1",
+"L2",
+"L3",
+"L4",
+"L5",
+"L6",
+"L7",
+"L8",
+"L9",
+"L10",
+"L11",
+"L12",
+"L13",
+"L14",
+"L15",
+"L16",
+"L17",
+"L18",
+"L19",
+"L20"
+]
+},
+"6e6e755f6e796fb4": {
+"cardinality": 1,
+"classification": {
+"policy": "pass",
+"topology": {
+"distinct_readings": 1,
+"ductus_profile": {
+"sequential": 1
+},
+"entropy_bits": -0.0,
+"excluded": 0
+},
+"type": "A0-unambiguous"
+},
+"confidence": "med",
+"contradiction_nodes": [],
+"entropy_bits": -0.0,
+"flags": [],
+"language": "balanced-delims",
+"negative_space": [],
+"orthogonal_nodes": [],
+"provenance": "33f4580d0c7f5ee7",
+"scansion": {
+"From 1867 to 1974, various cities of the United States had u": false
+},
+"spectrum": [
+"From 1867 to 1974, various cities of the United States had unsightly beggar ordinances, retroactively named ugly laws. These laws targeted poor people and disabled people. For instance, in San Francisco, a law from 1867 deemed it illegal for \"any person, who is diseased, maimed, mutilated or deformed in any way, so as to be an unsightly or disgusting object, to expose himself or herself to public view.\" Exceptions to public exposure were acceptable only if the people were subjects of demonstration, to illustrate the separation of disabled from nondisabled and their need for reformation.The Charity Organization Society suggested that the best charity relief would be to investigate and counsel the people needing assistance instead of providing them with material relief. This created conflict in people between their desire to be good Christians and good citizens when seeing people in need of assistance. It was suggested that the beggars imposed guilt upon people in this way. The educator William F. Slocum wrote in 1886 that \"Pauperism is a disease upon the community, a sore upon the body politic, and being a disease, it must be, as far as possible, removed, and the curative purpose must be behind all our thought and effort for the pauper class.\" Similarly, other authors suggested that one who gave charity to beggars without knowing what was to be done with the funds was as \"culpable as one who fires a gun into a crowd\".The term ugly laws was coined in the mid-1970s by detractors Marcia Pearce Burgdorf and Robert Burgdorf, Jr.== History ==Ugly laws in the United States arose in the late nineteenth century. During this period, urban spaces underwent an influx of new residents, which placed strain on the existing communities. The new residents were sometimes impoverished. This meant large numbers of people who were strangers to each other now occupied closer quarters than they had in small towns, where such local institutions as schools, families, and churches helped moderate social relations. As a reaction to this influx of people who were impoverished, ministers, charitable organizers, city planners, and city officials across the United States worked to create ugly laws for their community.The language of the unsightly beggar ordinances pertained to hiding the parts of the person that may appear disabled or diseased. This includes any movements that would indicate a disability or disease, like limping.The first American ordinance pertaining to preventing people with disabilities from appearing in public was passed in 1867 in San Francisco, California. This ordinance had to do with the broader topic of begging. It is noted that people who were perhaps in need of money traveled to California to \"strike it rich\" during the California Gold Rush.  When they did not find themselves wealthy, they remained in California. Letters and documents from the period just after the California Gold Rush note the large number of \"insane\" people wandering the streets. Helper (1948) even refers to the \"insane\" people as \"pitible nuisance\" and remarked that they were allowed in public with no one to care for them.New Orleans, Louisiana, had a similar law police were strictly enforcing in 1883.  A New Orleans newspaper reported on the City adopting a tough stance on begging as other cities in the United States had.Portland, Oregon enacted an ugly law in 1881.The Chicago ordinance of 1881 read as follows:Any person who is diseased, maimed, mutilated, or in any way deformed, so as to be an unsightly or disgusting object, or an improper person to be allowed in or on the streets, highways, thoroughfares, or public places in the city, shall not therein or thereon expose himself or herself to public view, under the penalty of a fine of $1 for each offense (Chicago City Code 1881)The $1 is equivalent to $33 in 2025. In most cities, punishments for violating an ugly law ranged from incarceration to fines of up to $50 for each offense.In May 1881, the unsightly beggar ordinance went into effect in Chicago, Illinois. It was created by Chicago alderman James Peevey. Peevey is quoted in the Chicago Tribune from May 19, 1881, saying of the ordinance, \"Its object is to abolish all street obstructions.\" Ugly laws identified groups of people as disturbing the flow of public life and forbid them from public spaces. Such people, deemed \"unsightly\" or \"unseemly\", were usually impoverished and often beggars. Thus ugly laws were methods by which lawmakers attempted to remove the poor from sight.Laws similar to Chicago's followed in Denver, Colorado, and Lincoln, Nebraska, in 1889. At some time from 1881 to 1890 an ugly law was enacted in Omaha, Nebraska. Additionally, ugly laws were sparked by the Panic of 1893. These included Columbus, Ohio, in 1894, and in 1891 for the entire state of Pennsylvania. Pennsylvania's was different as it contained language applying to cognitive disability as well as physical disability. An attempt was made at introducing ugly laws in New York, but it failed in 1895. Initial drafts in New York were similar to those in Pennsylvania as to include cognitive disabilities. Reno, Nevada instituted an ordinance before 1905. Los Angeles, California, attempted to pass an ordinance in 1913.In 1902, an ugly law similar to that of the United States was enacted in the City of Manila in the Philippines. This law was similar to those of the United States, being written in English and during a time when Manila was under American control, and included the common phrasing \"no person who is diseased\".  This was one of the first ordinances to be written under American control. Other ordinances dealt with hygiene reform and considered unsightly beggars part of this initiative.The last ugly laws were repealed in 1974.Omaha, Nebraska, repealed its ugly law in 1967, yet had an arrest of a person for violating the unsightly beggar ordinance documented in 1974. Columbus, Ohio, repealed its law in 1972.Chicago was the last to repeal its ugly law in 1974.== Enforcement ==People charged under the ugly laws were either charged a fine or held in jail until they could be sent to the poor house or work farm.  The wording in the San Francisco ordinance indicates violators will be sent to the almshouse. This connects with the Victorian Era poor law policy.Historian Brad Byrom noted ugly laws have been unevenly and rarely enforced, being disregarded by police.  The first recorded arrest pertaining to ugly laws was Martin Oates in San Francisco, California, in July 1867.  Oates was a former Union soldier during the American Civil War.The ugly laws did not restrict performances of people with disabilities for the purpose of entertainment or eliciting disgust, but rather restricted people with disabilities from mingling with the general public.Use of the ugly laws to control the use of public spaces by people with disabilities was still occurring after the signing of the Rehabilitation Act of 1973.Racism also played a role in the establishment and enforcement of ugly laws. In 1860s San Francisco, Chinese immigrants and their descendants were unlawfully quarantined en masse to prevent spread of disease and epidemics.The last recorded arrest related to an ugly law was in 1974, under an Omaha, Nebraska ordinance.  In this instance, the man arrested was homeless and the officer arresting him did so under the guise of the ugly law as the man had visible scars and marks on his body. The judge, Walter Cropper, and assistant prosecutor, Richard Epstein, in this case noted there was no legal definition for ugly and criminal prosecution would demand proving someone is ugly. The result was that the city prosecutor, Gary Bucchino, did not file charges. He noted that while the law was still active, this person did not meet the definition.== Criticism ==Ugly laws prevented some people with physical disabilities from going out in public at all.British scholar Stuart Murray  argues th"
+]
+},
+"74f4331929a2ce16": {
+"cardinality": 1,
+"classification": {
+"policy": "pass",
+"topology": {
+"distinct_readings": 1,
+"ductus_profile": {
+"sequential": 1
+},
+"entropy_bits": -0.0,
+"excluded": 0
+},
+"type": "A0-unambiguous"
+},
+"confidence": "med",
+"contradiction_nodes": [],
+"entropy_bits": -0.0,
+"flags": [],
+"language": "balanced-delims",
+"negative_space": [],
+"orthogonal_nodes": [],
+"provenance": "8cfa08c72ac78d5c",
+"scansion": {
+"An unjust law is no law at all (Latin: lex iniusta non est l": false
+},
+"spectrum": [
+"An unjust law is no law at all (Latin: lex iniusta non est lex) is an expression in support of natural law, acknowledging that authority is not legitimate unless it is good and right. It has become a standard legal maxim around the world.This view is strongly associated with natural law theorists, including John Finnis and Lon Fuller.== History ==Throughout history, philosophical and religious writers have often objected to unjust laws. For example, in Isaiah 10:Woe to those who make unjust laws,to those who issue oppressive decrees,to deprive the poor of their rightsand withhold justice from the oppressed of my peopleIn the fourth century AD, Augustine of Hippo said \"for I think a law that is not just, is not actually a law\" (\"nam mihi lex esse non videtur, quae justa non fuerit\"). He wrote this when discussing why evil exists; his conclusion was that it is ultimately a problem caused by people departing from good or just behavior.Thomas Aquinas exhaustively examines the legitimacy of man-made laws and whether they should be obeyed, in Summa Theologica. He asks \"do man-made laws have to be obeyed?\" His answer is no; a law only need to be obeyed if it is legitimate in three ways:The Purpose: The law must be for the common good.The Author: It must be in the scope of the authority making the law.The Form: And its burden should be equal and apply to all.Aquinas says that the disobedience should not itself cause harm or lead people into evil. He refers to Isaiah establishing that it is always lawful to avoid oppression.In Civil Disobedience, Henry David Thoreau also called into question the legitimacy of any law that was unjust. He says:“Unjust laws exist: shall we be content to obey them, or shall we endeavor to amend them, and obey them until we have succeeded, or shall we transgress them at once?”Martin Luther King Jr, in Letter from Birmingham Jail, referred to both Augustine and Aquinas, saying that Jim Crow laws were unjust and should be eschewed, in establishing his rationale for the goodness of civil disobedience.=== India ===In Indian philosophy, the idea that a rule is not a \"true law\" unless it is based on the idea of Ṛta, a possible cognate for \"right\" in English. This natural law foundation establishes rules for what is a \"law\" or \"truth\", a form of order so high that even the gods themselves must obey or be in the wrong. They do not govern Ṛta, but manifest it through their ordinances and retributions, their rewards and punishments. They don't \"govern\" it; they serve it as agents and ministers.== See also ==History of human rightsRadbruch formula – Legal theory first formulated in 1946No True Scotsman – Informal logical fallacyPages displaying short descriptions of redirect targets== References ==== Sources ==Law and Morality, Edited by Kenneth Einar Himma, Seattle Pacific University, U.S. and Brian Bix, University of Minnesota, U.S.Philosophical theory and the Universal Declaration of Human Rights, William Sweet (ed.)."
+]
+},
+"79b6b32926a780bc": {
+"adversarial": {
+"entropy_saturation": 0.0,
+"neg_space_starvation": 0.0,
+"p_adversarial": 0.0,
+"uniformity": 0.0
+},
+"escalate": false,
+"partition_sizes": {
+"K": 30,
+"Omega": 0,
+"U": 0
+},
+"reasons": []
+},
+"7e06fde8e5a9049e": {
+"H:0": 0.3333333333333333,
+"ductus:sequential": 0.2962962962962963,
+"negspace": 0.037037037037037035,
+"tax:A0-unambiguous": 0.2962962962962963,
+"tax:A4-orthogonal": 0.037037037037037035
+},
+"84035218cb3115db": {
+"chart": "latin-hexameter",
+"domain": "law",
+"nodes": [
+"L0",
+"L1",
+"L2",
+"L3",
+"L4",
+"L5",
+"L6",
+"L7",
+"L8",
+"L9",
+"L10",
+"L11",
+"L12",
+"L13",
+"L14",
+"L15",
+"L16",
+"L17",
+"L18",
+"L19",
+"L20",
+"L21",
+"L22",
+"L23",
+"L24",
+"L25",
+"L26",
+"L27",
+"L28",
+"L29",
+"L30",
+"L31",
+"L32",
+"L33",
+"L34",
+"L35",
+"L36",
+"L37",
+"L38",
+"L39",
+"L40",
+"L41",
+"L42",
+"L43",
+"L44",
+"L45",
+"L46",
+"L47",
+"L48",
+"L49",
+"L50",
+"L51",
+"L52",
+"L53",
+"L54",
+"L55",
+"L56",
+"L57",
+"L58",
+"L59",
+"L60",
+"L61",
+"L62",
+"L63",
+"L64",
+"L65",
+"L66",
+"L67",
+"L68",
+"L69",
+"L70",
+"L71",
+"L72",
+"L73",
+"L74",
+"L75",
+"L76",
+"L77",
+"L78",
+"L79",
+"L80",
+"L81",
+"L82",
+"L83",
+"L84",
+"L85",
+"L86",
+"L87",
+"L88",
+"L89",
+"L90",
+"L91",
+"L92",
+"L93",
+"L94",
+"L95",
+"L96",
+"L97",
+"L98",
+"L99",
+"L100",
+"L101",
+"L102"
+]
+},
+"86fe24a6ff38b007": {
+"chart": "balanced-delims",
+"domain": "law",
+"nodes": [
+"L0",
+"L1",
+"L2",
+"L3",
+"L4",
+"L5",
+"L6",
+"L7",
+"L8",
+"L9",
+"L10",
+"L11",
+"L12",
+"L13",
+"L14",
+"L15",
+"L16",
+"L17",
+"L18",
+"L19",
+"L20",
+"L21",
+"L22",
+"L23",
+"L24",
+"L25",
+"L26",
+"L27",
+"L28",
+"L29"
+]
+},
+"8ca070566c5297fc": {
+"chart": "balanced-delims",
+"domain": "law",
+"nodes": [
+"L0",
+"L1",
+"L2",
+"L3",
+"L4",
+"L5",
+"L6",
+"L7",
+"L8",
+"L9",
+"L10",
+"L11",
+"L12",
+"L13",
+"L14",
+"L15",
+"L16",
+"L17",
+"L18",
+"L19",
+"L20",
+"L21",
+"L22",
+"L23",
+"L24",
+"L25",
+"L26",
+"L27",
+"L28",
+"L29",
+"L30",
+"L31",
+"L32",
+"L33",
+"L34",
+"L35",
+"L36",
+"L37",
+"L38",
+"L39",
+"L40",
+"L41",
+"L42",
+"L43",
+"L44",
+"L45",
+"L46",
+"L47",
+"L48",
+"L49",
+"L50",
+"L51",
+"L52",
+"L53",
+"L54",
+"L55",
+"L56",
+"L57",
+"L58",
+"L59",
+"L60",
+"L61",
+"L62",
+"L63",
+"L64",
+"L65",
+"L66",
+"L67",
+"L68",
+"L69",
+"L70",
+"L71",
+"L72",
+"L73",
+"L74",
+"L75",
+"L76",
+"L77",
+"L78",
+"L79",
+"L80",
+"L81",
+"L82",
+"L83",
+"L84",
+"L85",
+"L86",
+"L87",
+"L88",
+"L89",
+"L90",
+"L91",
+"L92",
+"L93",
+"L94",
+"L95",
+"L96",
+"L97"
+]
+},
+"91f7acaed2bd8e67": {
+"cardinality": 1,
+"classification": {
+"policy": "pass",
+"topology": {
+"distinct_readings": 1,
+"ductus_profile": {
+"sequential": 1
+},
+"entropy_bits": -0.0,
+"excluded": 0
+},
+"type": "A0-unambiguous"
+},
+"confidence": "med",
+"contradiction_nodes": [],
+"entropy_bits": -0.0,
+"flags": [],
+"language": "balanced-delims",
+"negative_space": [],
+"orthogonal_nodes": [],
+"provenance": "acdd7fb8ba4ee2f6",
+"scansion": {
+"Sod's law is a British culture axiom that states that \"if so": false
+},
+"spectrum": [
+"Sod's law is a British culture axiom that states that \"if something can go wrong, it will\". The law sometimes has a corollary: that the misfortune will happen at \"the worst possible time\" (Finagle's law). The term is commonly used in the United Kingdom (while in many parts of North America the phrase \"Murphy's law\" is more popular).The phrase seems to derive, at least in part, from the colloquialism an \"unlucky sod\"; a term for someone who has had some bad (unlucky) experience, and is usually used as a sympathetic reference to the person.A slightly different form of Sod's law states that \"the degree of failure is in direct proportion to the effort expended and to the need for success.\"An alternative expression, again in British culture, is \"hope for the best, expect the worst\".== Comparison with Murphy's law ==Sod's law is a more extreme version of Murphy's law.  While Murphy's law says that anything that can go wrong, will go wrong (eventually), Sod's law requires that it will always go wrong with the worst possible outcome or at the worst time. Belief in Sod's law can be viewed as a combination of the law of truly large numbers and the psychological effect of the law of selection. The former says we should expect things to go wrong now and then, and the latter says the exceptional events where something went wrong stand out in memory, but the great number of mundane events where nothing exceptional happened fall into obscurity. Sod’s law is also explained as a form of the natural human negativity bias, the survival trait of being extra alert to negative events.== Examples ==Some examples are traffic lights turning red when a driver is in a hurry, or email software crashing at the exact moment the user attempts to send an important message. Sod's law has also been applied to individuals, such as the composer Beethoven losing his hearing or Def Leppard drummer Rick Allen losing an arm in a car crash.Other examples are dropped bread always landing butter side down, or it raining just after one has washed the car and on the weekend one goes to the beach.A discrediting example is a coin toss resulting in tails the more strongly that one wishes the result to be heads. Richard Dawkins said that this shows the idea of Sod's law is \"nonsense\", as the coin is unaware of the person's wish and has no desire to thwart it.== See also ==Finagle's lawButtered toast phenomenon== References ==== External links ==Scannel, Michael (August 2002). \"The basic laws (Murphy's and Sod's)\". michael-scannell.com. Gives an explanation of the difference between them."
+]
+},
+"92f1059c27156e93": {
+"cardinality": 0,
+"classification": {
+"policy": "RE-BASIS (no valid reading in this chart)",
+"topology": {
+"distinct_readings": 0,
+"ductus_profile": {},
+"entropy_bits": 0.0,
+"excluded": 1
+},
+"type": "A4-orthogonal"
+},
+"entropy_bits": 0.0,
+"spectrum": []
+},
+"985919d51cacec6c": {
+"resonant_cells": [
+[
+"66b8c48c3274c4b8",
+0.0
+],
+[
+"domain:law",
+0.043672
+],
+[
+"0caa64e6a9511efe",
+0.666667
+]
+]
+},
+"9bcc039ed95405db": {
+"ask": "organizational/group-choice design for current spectrum",
+"from": "OrgInfecticon"
+},
+"9fc2973f80342bdc": {
+"chart": "balanced-delims",
+"domain": "law",
+"nodes": [
+"L0",
+"L1",
+"L2",
+"L3",
+"L4",
+"L5",
+"L6",
+"L7",
+"L8",
+"L9",
+"L10",
+"L11",
+"L12",
+"L13",
+"L14",
+"L15",
+"L16",
+"L17",
+"L18",
+"L19",
+"L20",
+"L21",
+"L22",
+"L23",
+"L24",
+"L25",
+"L26"
+]
+},
+"a50c0d7fa140bc8b": {
+"cardinality": 1,
+"classification": {
+"policy": "pass",
+"topology": {
+"distinct_readings": 1,
+"ductus_profile": {
+"sequential": 1
+},
+"entropy_bits": -0.0,
+"excluded": 0
+},
+"type": "A0-unambiguous"
+},
+"confidence": "med",
+"contradiction_nodes": [],
+"entropy_bits": -0.0,
+"flags": [],
+"language": "balanced-delims",
+"negative_space": [],
+"orthogonal_nodes": [],
+"provenance": "e6492772289d208a",
+"scansion": {
+"Finagle's law of dynamic negatives (also known as Melody's l": false
+},
+"spectrum": [
+"Finagle's law of dynamic negatives (also known as Melody's law, Sod's Law or Finagle's corollary to Murphy's law) is usually rendered as \"Anything that can go wrong, will—at the worst possible moment.\"The term \"Finagle's law\" is often associated with John W. Campbell Jr., the influential editor of Astounding Science Fiction (later Analog).== Variants ==One variant (known as O'Toole's corollary of Finagle's law) favored among hackers is a takeoff on the second law of thermodynamics (related to the augmentation of entropy):The perversity of the Universe tends towards a maximum.In the Star Trek episode \"Amok Time\" (written by Theodore Sturgeon in 1967), Captain Kirk tells Spock, \"As one of Finagle's laws puts it: 'Any home port the ship makes will be somebody else's, not mine.'\"The term \"Finagle's law\" was popularized by science fiction author Larry Niven in several stories (for example, Protector [Ballantine Books paperback edition, 4th printing, p. 23]), depicting a frontier culture of asteroid miners; this \"Belter\" culture professed a religion or running joke involving the worship of the dread god Finagle and his mad prophet Murphy.\"Finagle's law\" can also be the related belief \"Inanimate objects are out to get us\", also known as Resistentialism.Similar to Finagle's law is the verbless phrase of the German novelist Friedrich Theodor Vischer: \"die Tücke des Objekts\" (the perfidy of inanimate objects).A related concept, the \"Finagle factor\", is an ad hoc multiplicative or additive term in an equation, which can be justified only by the fact that it gives more correct results.  Also known as Finagle's variable constant, it is sometimes defined as the correct answer divided by your answer.One of the first records of the term is probably a December 1962 article titled \"Finagle Factors\" in The Michigan Technic, credited to John W. Campbell, but bylined \"I. Finaglin\".The term is also used in a 1960 wildlife management article.Arthur Bloch, in his book \"Murphy's Law and Other Reasons Why Things Go Wrong\" (1977) stated variations on this:Finagle's First Law: \"If an experiment works, something has gone wrong.\"Finagle's Second Law: \"No matter what the anticipated result, there will always be someone eager to (a) misinterpret it, (b) fake it, (c) believe it happened to his own pet theory.\"Finagle's Third Law: \"In any collection of data, the figure most obviously correct, beyond all need of checking, is the mistake.Corollaries: 1. No one whom you ask for help will see it. 2. Everyone who stops by with unsought advice will see it immediately.\"Finagle's Fourth Law: \"Once a job is fouled up, anything done to improve it only makes it worse.\"== See also ==Hanlon's razorHofstadter's lawList of eponymous lawsMurphy's lawResistentialismSod's lawSturgeon's law== References ==== External links =="
+]
+},
+"a5c9a3198448b296": {
+"chart": "latin-hexameter",
+"domain": "law",
+"nodes": [
+"L0",
+"L1",
+"L2",
+"L3",
+"L4",
+"L5",
+"L6",
+"L7",
+"L8",
+"L9",
+"L10",
+"L11",
+"L12",
+"L13",
+"L14",
+"L15",
+"L16",
+"L17",
+"L18",
+"L19",
+"L20",
+"L21",
+"L22",
+"L23",
+"L24",
+"L25",
+"L26",
+"L27"
+]
+},
+"a6d25afed3ab98ff": {
+"chart": "balanced-delims",
+"domain": "law",
+"nodes": [
+"L0",
+"L1",
+"L2",
+"L3",
+"L4",
+"L5",
+"L6",
+"L7",
+"L8",
+"L9",
+"L10",
+"L11",
+"L12",
+"L13",
+"L14",
+"L15",
+"L16",
+"L17",
+"L18",
+"L19",
+"L20",
+"L21",
+"L22",
+"L23",
+"L24",
+"L25",
+"L26",
+"L27",
+"L28",
+"L29",
+"L30",
+"L31",
+"L32",
+"L33",
+"L34",
+"L35",
+"L36",
+"L37",
+"L38",
+"L39"
+]
+},
+"aa08894927a91dc2": {
+"cardinality": 1,
+"classification": {
+"policy": "pass",
+"topology": {
+"distinct_readings": 1,
+"ductus_profile": {
+"sequential": 1
+},
+"entropy_bits": -0.0,
+"excluded": 0
+},
+"type": "A0-unambiguous"
+},
+"confidence": "med",
+"contradiction_nodes": [],
+"entropy_bits": -0.0,
+"flags": [],
+"language": "balanced-delims",
+"negative_space": [],
+"orthogonal_nodes": [],
+"provenance": "b35078c84a925a9b",
+"scansion": {
+"Sturgeon's law states, \"Ninety percent of everything is crap": false
+},
+"spectrum": [
+"Sturgeon's law states, \"Ninety percent of everything is crap\". The adage was coined by American science fiction author and critic Theodore Sturgeon while defending the merits of the genre. Sturgeon observed that most works in any field were low quality. Therefore, science fiction was not uniquely inferior.== History ==Theodore Sturgeon first posited a version of his law during a 1951 or 1952 lecture at New York University attended by William Tenn. On Labor Day weekend in 1953, Sturgeon repeated the concept during a talk at the World Science Fiction Convention in Philadelphia. James Gunn attended the event and recalled Sturgeon's remarks decades later in The New York Review of Science Fiction:\"When people talk about the mystery novel...they mention The Maltese Falcon and The Big Sleep. When they talk about the western, they say there's The Way West and Shane. But when they talk about science fiction, they call it 'that Buck Rogers stuff,' and they say 'ninety percent of science fiction is crud.' Well, they're right. Ninety percent of science fiction is crud. But then ninety percent of everything is crud, and it's the ten percent that isn't crud that is important. and the ten percent of science fiction that isn't crud is as good as or better than anything being written anywhere.\"In the September 1957 issue of Venture Science Fiction, Sturgeon first wrote about the law in his book column. He drafted it as a preamble to a positive review of Philip K. Dick's 1955 novel Eye in the Sky. Sturgeon bemoaned his twenty-year defense of science fiction against \"lay critics\" who argue that the genre is \"ninety-percent crud\":\"And on that hangs Sturgeon's revelation. It came to him that s f is indeed ninety-percent crud, but that also – Eureka! – ninety-percent of everything is crud. All things – cars, books, cheeses, hairstyles, people, and pins are, to the expert and discerning eye, crud, except for the acceptable tithe which we each happen to like.\"In the March 1958 issue of Venture, Sturgeon abandoned his usual book review in order to request story submissions for a science fiction anthology that he would edit. He pleaded, \"Let us make a book, you and I, to refute for all time, and for all of Time, the great permeating assumption that this field cannot produce work of lasting artistic and literary merit.\" As he rehearsed the common critiques of the genre, Sturgeon expanded upon his revelation with two corollaries:\"...I repeat Sturgeon's Revelation, which was wrung out of me after twenty years of wearying defense of science fiction against attacks of people who used the worst examples of the field for ammunition, and whose conclusion was that ninety percent of s f is crud.The Revelation:Ninety percent of everything is crud.Corollary 1: The existence of immense quantities of trash in science fiction is admitted and it is regrettable; but it is no more unnatural than the existence of trash anywhere.Corollary 2: The best science fiction is as good as the best fiction in any field.\"In his July 1957 book column, Sturgeon actually formulated a different law. He claimed to have \"reduced the cosmos to Sturgeon's Law: Nothing Is Always Absolutely So\". This adage previously appeared as a mantra that inspired scientific inquiry in his story \"The Claustrophile\" (Galaxy, August 1956).By 1974, Sturgeon acknowledged that his revelation had become known as \"Sturgeon's Law\". In an essay for a Reginald Bretnor anthology, Sturgeon wrote about science fiction magazines and their contributors:\"The assumption is that the magazines themselves, and therefore all of their authors' products, are trash and junk, poorly conceived and poorly written, and concern bolts, nuts, nuclei, zap-guns, and bug-eyed monsters; and anyway, ninety percent of it in concept and execution is trash.\"Conceded, but then (and this has come to be known as Sturgeon's Law) ninety percent of everything is trash. The best of science fiction is as good as the best of any modern literature—articulate, poetic, philosophical, provocative, searching, courageous, insightful, and virtually anything else you expect of the best. Science fiction alone among the labels is consistently tarred with its own bad examples; the very same reader who knows the difference between Hopalong Cassidy and Shane, or between Mickey Spillane and Graham Greene, utterly fails to discriminate between the good and the bad in science fiction; utterly fails even to try, and says (in the words of Kingsley Amis), 'This is science fiction—it can't be good,' or, 'This is good—it can't be science fiction'!\"== Text ==Sturgeon's written formulations of the law use the word \"crud\" and \"trash\". The most common iteration of Sturgeon's Law holds that \"90 per cent of everything is crap\". The aphorism has been catalogued by the Oxford English Dictionary.== Precedents and proponents ==In Benjamin Disraeli's 1870 novel Lothair, Mr. Phoebus opines:\"Nine-tenths of existing books are nonsense, and the clever books are the refutation of that nonsense.\"A similar adage appears in Rudyard Kipling's 1891 novel The Light That Failed, when Dick is discussing painting with Maisie:\"Four-fifths of everybody's work must be bad. But the remnant is worth the trouble for its own sake.\"In his 1946 essay \"Confessions of a Book Reviewer\", George Orwell reveals:\"In much more than nine cases out of ten the only objectively truthful criticism would be 'This book is worthless'...\"PC World applied Sturgeon's law to the internet in 1996.Philosopher Daniel Dennett has repeatedly cited Sturgeon's law. In a 2004 review of a John Dupré book, Dennett invoked James Gunn's formulation of the law. Dennett expounded on Sturgeon's law in a 2013 book and championed it as a critical thinking tool:\"Ninety percent of everything is crap. Ninety percent of experiments in molecular biology, 90 percent of poetry, 90 percent of philosophy books, 90 percent of peer-reviewed articles in mathematics—and so forth—is crap. Is that true? Well, maybe it's an exaggeration, but let's agree that there is a lot of mediocre work done in every field...A good moral to draw from this observation is that when you want to criticize a field, a genre, a discipline, an art form,...don't waste your time and ours hooting at the crap! Go after the good stuff, or leave it alone.\"Edward M. Lerner joked in 2006,\"Sturgeon's law posits that ninety percent of everything is crap. Either Sturgeon was a cockeyed optimist, or he knew nothing about software.\"In 2026, Mac Barnett invoked Sturgeon's law in his book Make Believe: On Telling Stories to Children and proposed an addendum:\"So I now offer Barnett’s Addendum to Sturgeon's Law: Maybe more like 94.7 percent of kids' books are crud.\"== See also ==Hanlon's razorList of eponymous lawsNot even wrongPareto distributionPareto principle== References ==== Further reading ==Theodore Sturgeon's 1972 interview with David G. Hartwell, The New York Review of Science Fiction #7 March 1989; #8 April 1989"
+]
+},
+"ab5229bfc97aa463": {
+"adversarial": {
+"entropy_saturation": 0.0,
+"neg_space_starvation": 0.0,
+"p_adversarial": 0.0,
+"uniformity": 0.0
+},
+"escalate": false,
+"partition_sizes": {
+"K": 98,
+"Omega": 0,
+"U": 0
+},
+"reasons": []
+},
+"ac181ae9b25ac0b0": {
+"cardinality": 1,
+"classification": {
+"policy": "pass",
+"topology": {
+"distinct_readings": 1,
+"ductus_profile": {
+"sequential": 1
+},
+"entropy_bits": -0.0,
+"excluded": 0
+},
+"type": "A0-unambiguous"
+},
+"confidence": "med",
+"contradiction_nodes": [],
+"entropy_bits": -0.0,
+"flags": [],
+"language": "balanced-delims",
+"negative_space": [],
+"orthogonal_nodes": [],
+"provenance": "fdb975481bece33c",
+"scansion": {
+"Brandolini's law (or the bullshit asymmetry principle) is an": false
+},
+"spectrum": [
+"Brandolini's law (or the bullshit asymmetry principle) is an Internet adage coined in 2013 by Italian programmer Alberto Brandolini. It compares the considerable effort of debunking misinformation to the relative ease of creating it in the first place. The adage states:The amount of energy needed to refute bullshit is an order of magnitude bigger than that needed to produce it.The challenge of refuting bullshit does not come just from its time-consuming nature, but also from the challenge of defying and confronting one's community.== Origins ==The adage was publicly formulated in January 2013 by Alberto Brandolini, an Italian programmer. Brandolini stated that he was inspired by reading Daniel Kahneman's Thinking, Fast and Slow, right before watching an Italian political talk show involving former Prime Minister Silvio Berlusconi and journalist Marco Travaglio.== Examples ==The persistent false claim that vaccines cause autism is sometimes cited as an example of Brandolini's law. In 1998, British anti-vaccine activist Andrew Wakefield wrote a fraudulent research paper which claimed to find a relationship between the MMR vaccine and autism. The article was retracted, and Wakefield's medical license was revoked. Despite extensive investigation showing no such relationship, the false assertion has had a disastrous effect on public health, contributing to vaccine hesitancy. Decades of research, and attempts to educate the public, have failed to eradicate the misinformation.In 2013, shortly after the Boston Marathon bombing, the claim that a student who had survived the Sandy Hook Elementary School shooting had been killed by the bombing began to spread across social media. Despite many attempts to debunk the rumor, including an investigation by Snopes, the false story was shared by more than 92,000 people and was covered by major news agencies.Due to the rapid dissemination of information on social media, people are much more susceptible to becoming victims of pseudo-scientific trends, such as Mehmet Oz's weight loss supplements and Joseph Mercola's tanning beds that were meant to reduce one's risk of developing cancer. Although government agencies were able to prevent further sales of those products, millions of dollars had already been spent by consumers and fans.Another example dates to 2016, when Iceland's football team eliminated England from the UEFA European Championship. Nine months after the victory, the Icelandic doctor Ásgeir Pétur Thorvaldsson jokingly tweeted that a baby boom in Iceland had occurred due to the victory. Wide media coverage repeated this claim, but statistical analysis proved it false.=== COVID-19 pandemic ===In an example of Brandolini's law during the COVID-19 pandemic, Jeff Yates, a disinformation journalist at Radio-Canada, described the experience of debunking a popular YouTube video spreading COVID-19 medical misinformation presented by a pineapple importer: \"He makes all kinds of different claims. I had to check every single one of them. I had to call relevant experts and talk to them. I had to transcribe those interviews. I had to write a text that is legible and interesting to read. It's madness. It took this guy 15 minutes to make his video and it took me three days to fact-check.\"Analyzing disinformation about the use of hydroxychloroquine for COVID-19 prevention, scientists Jevin West and Carl Bergstrom noted that, even though a promising early clinical trial had since been prominently refuted, the claim that hydroxychloroquine could effectively treat COVID-19 continued to spread rapidly due to a combination of widespread social media coverage, high anxiety, and high uncertainty.== Further applications ==In 2020, researchers studied the sensitivity to bullshit and found that, \"people are more receptive to bullshit, and less sensitive to detecting bullshit, under conditions in which they possess relatively few self-regulatory resources\".Within the context of scientific analysis, Brandolini's law can be applied to the bullshit being presented and bring the bullshitter under scrutiny as well. When it is revealed that a source repeatedly lied throughout a stretch of scientific research, the bullshitter becomes more obvious than the bullshit itself. Because the bullshitter loses credibility, the ensuing bullshit is easier to identify.== Mitigation ==Environmental researcher Phil Williamson of University of East Anglia implored other scientists in 2016 to get online and refute falsehoods to their work whenever possible, despite the difficulty of doing so as described by Brandolini's law. He wrote that, \"The scientific process doesn't stop when results are published in a peer-reviewed journal. Wider communication is also involved, and that includes ensuring not only that information (including uncertainties) is understood, but also that misinformation and errors are corrected where necessary.\" Combating the spreading of misinformation requires scientists to establish the validity and quality of research, stories, and claims with a rating system.Carl T. Bergstrom and Jevin West, researchers on the topic of bullshit, study how to refute the bullshit that takes a large amount of energy to discover. This complicated process depends on the audience the bullshit is intended to influence, the time and energy a person is willing to invest in this process, and the medium used to do the refuting. In order to refute misinformation, one needs to do the following:Be correct by including all necessary information and double checking that the facts are accurate.Be charitable by acknowledging the possibility of your own confusion, not attributing malice, and not assigning stupidity.Be clear and coherent about the argument you are making.Admit mistakes and faults.Other techniques for increasing the effectiveness of retracting misinformation include: pre-exposure warnings, repeated retractions, and providing an alternative narrative.== Similar concepts ==Adages about the rapid spread of misinformation or disinformation have existed since antiquity. An early example comes from Jonathan Swift's 1710 article in The Examiner:Falsehood flies, and truth comes limping after it; so that when men come to be undeceived, it is too late, the jest is over, and the tale has had its effect: like a man who has thought of a good repartee, when the discourse is changed, or the company parted; or, like a physician, who has found out an infallible medicine, after the patient is dead.Variations on the adage, \"A lie can travel halfway around the world before the truth can get its boots on\" appeared in publication as early as 1820, when an article in the Portland Gazette stated that, \"Falsehood will fly from Maine to Georgia, while truth is pulling her boots on.\"In 1845, economist Frédéric Bastiat articulated the principle that underlies Brandolini's law:We must confess that our adversaries have a marked advantage over us in the discussion. In very few words they can announce a half-truth; and in order to demonstrate that it is incomplete, we are obliged to have recourse to long and dry dissertations.Prior to Brandolini's definition, Italian blogger Uriel Fanelli and researcher Jonathan Koomey, creator of Koomey's law, shared a related principle in their book Calling Bullshit: The Art of Skepticism in a Data-Driven World: \"An idiot can create more bullshit than you could ever hope to refute.\" In an article on the environmental impacts of cryptocurrency, Koomey states that, \"In fast-changing fields, like information technology, refutations lag nonsense production to a greater degree than in fields with less rapid change.\"== See also ==Big lieBurden of proofFirehose of falsehoodGish gallopHitchens's razorLiar's dividendList of eponymous lawsPoe's law== References =="
+]
+},
+"b3fcafe85f4b0500": {
+"resonant_cells": [
+[
+"66b8c48c3274c4b8",
+0.0
+],
+[
+"domain:law",
+0.0
+]
+]
+},
+"bb91588dec050bb1": {
+"adversarial": {
+"entropy_saturation": 0.0,
+"neg_space_starvation": 0.0,
+"p_adversarial": 0.0,
+"uniformity": 0.0
+},
+"escalate": false,
+"partition_sizes": {
+"K": 26,
+"Omega": 0,
+"U": 0
+},
+"reasons": []
+},
+"be638a4829107441": {
+"H:0": 0.3333333333333333,
+"ductus:sequential": 0.2916666666666667,
+"negspace": 0.041666666666666664,
+"tax:A0-unambiguous": 0.2916666666666667,
+"tax:A4-orthogonal": 0.041666666666666664
+},
+"c1aed0baba535818": {
+"cardinality": 1,
+"classification": {
+"policy": "pass",
+"topology": {
+"distinct_readings": 1,
+"ductus_profile": {
+"sequential": 1
+},
+"entropy_bits": -0.0,
+"excluded": 0
+},
+"type": "A0-unambiguous"
+},
+"confidence": "med",
+"contradiction_nodes": [],
+"entropy_bits": -0.0,
+"flags": [],
+"language": "balanced-delims",
+"negative_space": [],
+"orthogonal_nodes": [],
+"provenance": "a89c15b9df5e8b54",
+"scansion": {
+"Civil law is a major \"branch of the law\", in common law lega": false
+},
+"spectrum": [
+"Civil law is a major \"branch of the law\", in common law legal systems including those in England and Wales and in the United States, where it stands in contrast to criminal law. Private law, which relates to civil wrongs and quasi-contracts, is part of civil law, as is contract law and law of property (excluding property-related crimes, such as theft or vandalism).== Analysis ==Civil law may, like criminal law, be divided into substantive law and procedural law. Substantive law refers to the determination of how the law applies to facts, and procedural law refers to regulations on how the substantive law is administered. The rights and duties of persons (natural persons and legal persons) amongst themselves are the primary concern of civil law. The common law is today as fertile a source for theoretical inquiry as it has ever been.Around the English-speaking world, many scholars of law, philosophy, politics, and history study the theoretical foundations and applications of the common law. When used in the context of a common law legal system, the term civil law means that branch of the law not including criminal law.The common law system, which originated in medieval England, is often contrasted with the civil law legal system originating in France and Italy.  Whereas the civil law takes the form of legal codes such as the Napoleonic Code, the common law comes from uncodified case law that arises as a result of judicial decisions, recognising prior court decisions as legally binding precedent.Civil litigation refers to legal proceedings undertaken to resolve a dispute regarding an alleged civil wrong and seeking redress or payment of damages. It includes the process of one party notifying the other that they have a cause for action. It is often suggested that civil litigation proceedings are undertaken for the purpose of obtaining compensation for injury, and may thus be distinguished from criminal proceedings, whose purpose is to inflict punishment. However, exemplary damages or punitive damages may be awarded in civil proceedings. It was also formerly possible for common informers to sue for a penalty in civil proceedings.Because some courts have both a civil and criminal jurisdiction, civil proceedings cannot be defined as those taken in civil courts. In the United States, the expression \"civil courts\" is used as a shorthand for \"trial courts in civil cases\".In England and other common-law countries, the burden of proof in civil proceedings is, in general—with a number of exceptions such as committal proceedings for civil contempt—proof on a balance of probabilities. In civil cases in the law of the Maldives, the burden of proof requires the plaintiff to convince the court of the plaintiff's entitlement to the relief sought. This means that the plaintiff must prove each element of the claim, or cause of action in order to recover.The cost of pursuing civil litigation has sometimes been highlighted as excessive relative to the scale of the issue to be resolved. Where costs are too high, they can restrict access to justice.== See also ==Outline of civil law (common law)Civil codeAdministrative lawFederal lawFederal Rules of Civil ProcedureNatural law== References =="
+]
+},
+"c5da87f9d17c4245": {
+"resonant_cells": [
+[
+"66b8c48c3274c4b8",
+0.0
+],
+[
+"domain:law",
+0.03861
+],
+[
+"0caa64e6a9511efe",
+0.666667
+]
+]
+},
+"c87824aa42dc2128": {
+"cardinality": 1,
+"classification": {
+"policy": "pass",
+"topology": {
+"distinct_readings": 1,
+"ductus_profile": {
+"sequential": 1
+},
+"entropy_bits": -0.0,
+"excluded": 0
+},
+"type": "A0-unambiguous"
+},
+"confidence": "med",
+"contradiction_nodes": [],
+"entropy_bits": -0.0,
+"flags": [],
+"language": "balanced-delims",
+"negative_space": [],
+"orthogonal_nodes": [],
+"provenance": "60c84432c97e4c29",
+"scansion": {
+"Godwin's law (or Godwin's rule), short for Godwin's law of N": false
+},
+"spectrum": [
+"Godwin's law (or Godwin's rule), short for Godwin's law of Nazi analogies, is an Internet proverb asserting: \"As an online discussion grows longer, the probability of a comparison involving Nazis or Hitler approaches one.\" The law's creator, Mike Godwin, maintains these comparisons often trivialize the Holocaust. It is an example of the reductio ad Hitlerum fallacy.In 2021, Harvard researchers published an article showing that the Nazi-comparison phenomenon does not occur with statistically meaningful frequency in Reddit discussions.== History ==Promulgated by American attorney and author Mike Godwin in 1990, Godwin's law originally referred specifically to Usenet newsgroup discussions. He stated that he introduced Godwin's law in 1990 as an experiment in memetics, specifically to address the ubiquity of such comparisons which he believes regrettably trivialize the Holocaust. Later, it was applied to any threaded online discussion, such as Internet forums, chat rooms, and social-media comment threads, as well as to speeches, articles, and other rhetoric where reductio ad Hitlerum occurs.In 2012, Godwin's law became an entry in the third edition of the Oxford English Dictionary.== Generalization, corollaries, and usage ==Godwin's law can be applied mistakenly or abused as a distraction, a diversion, or even censorship, when miscasting an opponent's argument as hyperbole even when the comparison made by the argument is appropriate. Godwin has criticized the over-application of the adage, claiming that it does not articulate a fallacy, but rather is intended to reduce the frequency of inappropriate and hyperbolic comparisons:Although deliberately framed as if it were a law of nature or of mathematics, its purpose has always been rhetorical and pedagogical: I wanted folks who glibly compared someone else to Hitler to think a bit harder about the Holocaust.Godwin's law has many corollaries, some considered more \"canonical\" (by being adopted by Godwin himself) than others. For example, many newsgroups and other Internet discussion forums have a tradition that, when a Nazi or Hitler comparison is made, the thread is finished and whoever made the comparison loses whatever debate is in progress. This idea is itself sometimes mistakenly referred to as Godwin's law.Godwin rejects the idea that whoever invokes Godwin's law has lost the argument, and suggests that, applied appropriately, the rule \"should function less as a conversation ender and more as a conversation starter.\" In an interview with Time Magazine, Godwin said that making comparisons to Hitler would actually be appropriate under the right circumstances:I urge people to develop enough perspective to do it thoughtfully. If you think the comparison is valid, and you've given it some thought, do it. All I ask you to do is think about the human beings capable of acting very badly. We have to keep the magnitude of those events in mind, and not be glib. Our society needs to be more humane, more civilized and to grow up.In August 2017, while commenting on the Unite the Right rally in Charlottesville, Virginia, Godwin himself endorsed and encouraged social-media users to compare its alt-right participants to Nazis.Godwin has denied the need to update or amend the rule. On June 24, 2018, he wrote, in an opinion piece for the Los Angeles Times: \"It still serves us as a tool to recognize specious comparisons to Nazism – but also, by contrast, to recognize comparisons that aren't.\" Additionally, when a potential subject of Godwin's law seems \"intent on making the Hitler comparison\", the comparison with fascism may be appropriate rather than devaluing the argument; a \"MAGA\" corollary to the Law recognizes the pernicious embrace of Nazi-inspired tropes and phrases by the \"alt-right\".As an illustration, in an interview with Politico published on December 19, 2023, Godwin pointed out that Donald Trump might actually be using Hitler's rhetoric on purpose, for instance when accusing immigrants of \"poisoning the blood\" of the country or calling his political opponents \"vermin\":You could say the 'vermin' remark or the 'poisoning the blood' remark, maybe one of them would be a coincidence. But both of them pretty much make it clear that there's something thematic going on, and I can't believe it's accidental.\"In an opinion published the same day in The Washington Post, Godwin stated: \"Yes, it's okay to compare Trump to Hitler. Don't let me stop you.\" In the article, Godwin says that \"when people draw parallels between Donald Trump's 2024 candidacy and Hitler's progression from fringe figure to Great Dictator, we aren't joking. Those of us who hope to preserve our democratic institutions need to underscore the resemblance before we enter the twilight of American democracy.\"== See also ==Association fallacyLaw of truly large numbersList of eponymous lawsNazi analogiesPoe's lawReductio ad HitlerumStraw manThought-terminating cliché== References ==== Further reading ==Anderson, Nate (September 1, 2011). \"No Nazi comparisons? Sounds like something Hitler would say!\". Ars Technica. Retrieved September 1, 2011.== External links ==Skirvin, Tim (September 15, 1999). \"How to post about Nazis and get away with it – The Godwin's law FAQ\". Skirv's Wiki. Archived from the original on October 11, 1999.Sietzman, Michael (December 6, 2017) [2009]. \"My Nazi Can Beat Up Your Nazi\". Huffington Post.Amira, Dan; Godwin, Mike (March 8, 2013). \"Mike Godwin on Godwin's Law, Whether Nazi Comparisons Have Gotten Worse, and Being Compared to Hitler by His Daughter\". \"Intelligencer\" department. New York."
+]
+},
+"cc540ae12f150d82": {
+"cardinality": 1,
+"classification": {
+"policy": "pass",
+"topology": {
+"distinct_readings": 1,
+"ductus_profile": {
+"sequential": 1
+},
+"entropy_bits": -0.0,
+"excluded": 0
+},
+"type": "A0-unambiguous"
+},
+"confidence": "med",
+"contradiction_nodes": [],
+"entropy_bits": -0.0,
+"flags": [],
+"language": "balanced-delims",
+"negative_space": [],
+"orthogonal_nodes": [],
+"provenance": "9571bed3a4dfca55",
+"scansion": {
+"Acie Law IV (born January 25, 1985) is an American former pr": false
+},
+"spectrum": [
+"Acie Law IV (born January 25, 1985) is an American former professional basketball player and the Chicago Bulls vice president of player personnel. In his four seasons at Texas A&M University, Law scored 1,653 points and was credited with 540 assists. Nicknamed \"Captain Clutch\" for his ability to take over the game late, Law is well known among Texas A&M Aggie basketball fans for \"The Shot,\" his buzzer-beating 3-pointer to beat the arch-rival Texas Longhorns at Reed Arena on March 1, 2006, as well as for his play in the Aggies' 69–66 upset win against Kansas on February 3, 2007. Due to his contributions to Texas A&M, the Texas A&M athletic department hung Law's No. 1 jersey on the rafters in Reed Arena. He became the first Aggie in any sport to have the honor.After his time at Texas A&M, Law was selected by the Atlanta Hawks in the first round of the 2007 NBA draft. He spent time with several National Basketball Association (NBA) teams between 2007 and 2010. Following his NBA period, he had a very successful career in Europe between 2011 and 2014, winning the EuroLeague twice in 2012 and  2013 with Olympiacos.== Early years ==Acie Law IV was born in Dallas to Acie and Dolores Law. He was named for his great-grandfather (Acie Law Sr.), whom he never met; his grandfather (Acie Law Jr.), who died in 1997 after suffering a heart attack from the excitement of watching a boxing match with young Acie IV; and his father, Acie III, who played point guard at Xavier University. Law has an older brother and two younger sisters. Law is the great-nephew of Chicago Cubs great Ernie Banks. Law has a tattoo on his right arm that reads \"Lord's Favorite Lawman,\" and one on his left arm that is from Psalms 91 and 93.Law was recruited by the University of Oklahoma, Oklahoma State University, University of Connecticut, University of Texas at Austin and Georgia Tech. In order to stay close to home, and because he wanted to have an immediate impact, Law chose to play for Texas A&M under Coach Melvin Watkins.== High school and college career ===== Kimball High School ===As a junior at Kimball High School in Dallas, Law led his team to a 29–7 record and the state Class 5A championship game, averaging 17.8 points per game and 6.0 assists. Law's team lost the state championship game when the other team's point guard, Chris Ross of San Antonio John Jay High School, made a shot from half-court at the buzzer as time expired. Law's performance was enough to earn him all-state honors, as well as district Most Valuable Player. Law also had the distinction of being the only junior to be named to The Dallas Morning News All-Area Team.Despite a broken wrist that caused Law to miss the first part of his senior season, his performance in the sixteen remaining games in the school's season earned him first-team Class 5A all-state honors. In those sixteen games, Law averaged 16.6 points per game (19.5 ppg in district play) and 6.5 assists per game. In the Texas State High School All-Star Game Law scored 35 points, leading his team to victory.=== Texas A&M University ======= First year ====Although the Aggies were an undeveloped team during Law's first year and failed to win a single conference game, Law's performance stacked up well against his fellow conference players. As a freshman, Law started 12 of the team's 27 games, including 10 of the last 11. With an assist-to-turnover ratio of 2.00, Law ranked fourth in the Big 12 Conference, and was the leading freshman in the conference. His average 3.9 assists per game ranked eighth in the conference.Law averaged 7.5 points and 2.1 rebounds per game, and by the final ten games of the season Law was averaging double-digit points. In his two best games of the year, Law scored a then-career-high 19 points against Tennessee and put up 18 points against Grambling.==== Second year ====Following the 2003–2004 season, Coach Melvin Watkins was replaced by UTEP coach Billy Gillispie, who came to the school insisting that the Aggies could win in basketball. Gillispie's intense coaching style was very different from that of Watkins, and after an initial two-week boot camp Law seriously considered transferring to a different school. After seeing a video of UTEP's NCAA trip the year before Law decided that he wanted to experience that feeling too, and committed to staying at A&M.Law's commitment paid off, as under Gillispie the team improved from 7–21 to 21–10, winning half of their conference games and earning an invitation to the NIT. Law started in 30 games, earning a spot on the Big 12's All-Improved Team as well as honorable-mention All-Big 12 honors. He completed 49.3% of his shots from the field, 38.4% of three's (28 of 73) and converted 71.6% of his free-throw shots. With a team best 153 assists, Law ranked third in the Big 12.Law scored in double figures in 20 games, including four games where he earned over twenty points. With the help of his 24 points and six assists, the team beat then Number 9 Texas. In his best game of the season, against Houston, Law earned nine assists and scored 25 points, making all twelve of his free throw shots. Against Missouri, Law scored 11 points and a then-career-high 14 assists, one shy of the school record. Law also cemented the team's victory against Penn State, making the winning free throws with 11 seconds left in a 62–60 win.==== Junior year ====As a junior, Law became one of only four players in A&M history to reach 1000 career points with 300 assists and 100 steals. He led the team in scoring, averaging 16.1 overall and 17.3 points in Big 12 play, with 3.4 rebounds and 4.0 assists. In games that Law had at least 5 assists, the team was 10–2.Law also set an A&M record in Big 12 play, scoring 35 points and earning seven steals in a game against Oklahoma State. After making the game-winning three-pointer at the buzzer to beat the Texas Longhorns 46–43, Law was named Big 12 Player of the Week. With his ranking among the top 10 players in the Big 12 in scoring, assists, steals, and field goal percentage, several newspapers named Law to their first-team All-Big 12 teams.With Law's help, the Aggies earned a spot in the NCAA Tournament for the first time since 1987. In their first round match-up against Syracuse, the Aggies won, with Law contributing 23 points. The Aggies appeared poised to reach the Sweet 16 when, with 18 seconds left in their second-round game against LSU, Law hit a jumper, giving the Aggies a 57–55 lead. The dream was dashed fifteen seconds later, however, when Darrel Mitchell made a three-point shot to win the game for LSU.==== Senior year ====Shortly after beginning play in the 2006–2007 season, the Aggies reached Number 6 in the rankings, the highest rank the school had ever achieved. The team had their best start since opening 16–2 in the 1959–1960 season, as well as their best conference opening since the inception of the Big 12.On February 1, 2007, Law was named one of the seventeen finalists for the Bob Cousy Award, presented annually to the nation's top collegiate point guard. He went on to win the award.In a historic moment on February 3, 2007, Law's Aggies became the first Big 12 South team (in 32 attempts) to ever beat the then-Number 6 Kansas Jayhawks at Allen Fieldhouse. Kansas led for much of the game, but Law scored 10 of A&M's final 13 points to ensure the victory for the Aggies, and Big 12 Player of the Week honors for himself. Two days later the team beat then-Number 25 Texas, their twenty-first straight home win, making them the sole leader of the Big 12. Although forced to leave the game for three minutes after hitting the floor hard and injuring his leg, Law earned 21 points and a school-record 15 assists in the 100–82 victory over their archrivals. Following the team's win over Texas, Law was named the Sports Illustrated Player of the Week.Law again proved his ability to make plays that matter in the Aggies' second game against Texas"
+]
+},
+"cdc2cc38b6fc0bb8": {
+"chart": "balanced-delims",
+"domain": "law",
+"nodes": [
+"L0",
+"L1",
+"L2",
+"L3",
+"L4",
+"L5",
+"L6",
+"L7",
+"L8",
+"L9",
+"L10",
+"L11",
+"L12",
+"L13",
+"L14",
+"L15",
+"L16",
+"L17",
+"L18",
+"L19",
+"L20",
+"L21",
+"L22",
+"L23",
+"L24",
+"L25",
+"L26",
+"L27",
+"L28",
+"L29",
+"L30",
+"L31",
+"L32",
+"L33",
+"L34",
+"L35",
+"L36",
+"L37",
+"L38",
+"L39",
+"L40"
+]
+},
+"cfbdc92f917a0de2": {
+"cardinality": 1,
+"classification": {
+"policy": "pass",
+"topology": {
+"distinct_readings": 1,
+"ductus_profile": {
+"sequential": 1
+},
+"entropy_bits": -0.0,
+"excluded": 0
+},
+"type": "A0-unambiguous"
+},
+"confidence": "med",
+"contradiction_nodes": [],
+"entropy_bits": -0.0,
+"flags": [],
+"language": "balanced-delims",
+"negative_space": [],
+"orthogonal_nodes": [],
+"provenance": "95886d741847d187",
+"scansion": {
+"Danzig law (German: Danziger Willkür; in Polish: Gdański Wil": false
+},
+"spectrum": [
+"Danzig law (German: Danziger Willkür; in Polish: Gdański Wilkierz ) was the official set of records of the self chosen laws of the city of Danzig (Gdańsk). In German, Willkür literally means creation by free will, thus self made laws and self chosen rulers unlike those that were Pflicht, a duty imposed by outside powers. For example it included the right to elect a mayor, or mayors, as initially there were separate Rechtstadt, Altstadt, Jungstadt settlements, literally law town, old town, young town. In effect since the 1300s to various degrees, it was codified in 1455 for recognition by the King of Poland, and remained until 1853, decades after Danzig became part of the Kingdom of Prussia.== History ==The models for the Danzig Law were the statute books of the Holy Roman Empire and of other Hanseatic League cities, especially Lübeck. The merchant city received Lübeck law in 1226.After the State of the Teutonic Order existed for about two centuries, it imposed high taxes after the Peace of Thorn (1411), and the Prussian Confederation was founded to oppose the policy of the Teutonic Order, eventually triggering the Thirteen Years' War and a split of Prussian lands into a still Teutonic, later Ducal and Eastern part, and a somewhat autonomous part that, in order to secure autonomy, allied with the Polish king, called Royal, or Western. During that time, Danzig continued with its own set of law system, with its self-government. The recognition of this law, and other Danzig's privileges, by the King of Poland was a prerequisite for allying with him resp. subjecting as Royal Prussia to his overlordship. The Second Peace of Thorn of 1466 confirmed the rights. When they were in danger in the 1570s, it led to the Danzig rebellion and the Siege of Danzig (1577) after which the new Polish king re-confirmed the city's special status and its Danzig law privileges.In the First Partition of Poland in 1772, the Kingdom of Prussia took over Royal Prussia (but not yet Danzig and Thorn (Toruń)) and called it West Prussia. The Latin names Prussia Orientalis and Prussia Occidentalis were for centuries prior used for both parts (East and West) of Prussia. Danzig continued its self-government for two decades to come, then in 1793 was annexed by the Kingdom of Prussia, was Free City of Danzig (Napoleonic) (1807–1814), until its Prussian Danzig Law codes were supplanted by standardized Prussian Westpreußisches Provinzialrecht  in 1853. The town was Free City of Danzig again from 1920 to 1939.=== Danziger Willkür ===There were several incarnations of the laws that mainly covered internal government:1435–1448 (draft)1455 first known written form1479–15001574 during succession dispute leading to the Siege of Danzig (1577)1597 Der See- und Handelstadt Dantzig Rechte oder Willkür (\"The Laws of the Sea and Trade City of Danzig\")1678 (draft)1732 re-print of the 1597 Danzig Laws, by Seelmann, Danzig1761=== Danziger privilege ===The privileges of Danzig confirmed rights of Danzig in external relations, like trading, coinage, and since 1454, with the Polish Crown.Danzig had a special status, due to its large population (in 1772 47,600 inside the city walls, 35,000 to 40,000 outside), its harbour and wealth. Some of its politicians maintained that it was loyal only to the King of Poland, claiming that its status was similar to an Imperial Free City. This position was never accepted by the Sejm. Modern German author compare it to status of Marseille in 16th and 17th century towards the French King.=== Historians ===Already in the 17th century, local historians studied the history of Danzig law, such as Elias Constantius von Treuen-Schroeder (1625–1680) and Johann Ernst von der Linde (1651–1721). They did not publish, but Gottfried Lengnich acknowledged their work in the foreword to his Ius publicum civitatis Gedanensis oder der Stadt Danzig Verfassung und Rechte (Public law of the city of Danzig, or the city's constitution and rights, 1769).Lengnich wanted to find out whether \"us Prussians ... are the Poles equal brothers or their servants\"and encouraged others to study local history, too. Among others Michael Christoph Hanow, Georg Daniel Seyler and David Braun studied the history of their home towns.== See also ==History of GdańskFree City of Danzig (Napoleonic)Free City of Danzig, and its laws [5]== References ==== Literature ==Des Syndicus der Stadt Danzig Gottfried Lengnich ius publicum civitatis Gedanensis oder der Stadt Danzig Verfassung und Rechte, 1769, published by Otto Günther, Danzig 1900 (initially only intended for internal use within city administration) [6]Paul Simson: Geschichte der Danziger Willkür. Quellen und Darstellungen zur Geschichte Westpreußens Nr. 3. Danzig 1904 [7]. Reprint: Nicolaus-Copernicus-Verlag, Münster 2006, ISBN 978-3-924238-36-0. [8]Hans-Jürgen Bömelburg, Zwischen polnischer Ständegesellschaft und preussischem Obrigkeitsstaat: Vom Königlichen Preußen zu Westpreußen (1756–1806) 1995, Oldenbourg Wissenschaftsverlag Prussia (Germany), ISBN 3-486-56127-8 [9]"
+]
+},
+"d8e4af58a111adef": {
+"chart": "balanced-delims",
+"domain": "law",
+"nodes": [
+"L0",
+"L1",
+"L2",
+"L3",
+"L4",
+"L5",
+"L6",
+"L7",
+"L8",
+"L9",
+"L10",
+"L11",
+"L12",
+"L13",
+"L14",
+"L15",
+"L16",
+"L17",
+"L18",
+"L19",
+"L20",
+"L21",
+"L22"
+]
+},
+"ddef5dd9fadb86ce": {
+"cardinality": 1,
+"classification": {
+"policy": "pass",
+"topology": {
+"distinct_readings": 1,
+"ductus_profile": {
+"sequential": 1
+},
+"entropy_bits": -0.0,
+"excluded": 0
+},
+"type": "A0-unambiguous"
+},
+"confidence": "med",
+"contradiction_nodes": [],
+"entropy_bits": -0.0,
+"flags": [],
+"language": "balanced-delims",
+"negative_space": [],
+"orthogonal_nodes": [],
+"provenance": "4f332d4d851c7227",
+"scansion": {
+"Muphry's law is an adage that states: \"If you write anything": false
+},
+"spectrum": [
+"Muphry's law is an adage that states: \"If you write anything criticizing editing or proofreading, there will be a fault of some kind in what you have written.\"   The name is a deliberate misspelling of \"Murphy's law\".== History ==John Bangsund of the Society of Editors (Victoria) in Australia identified Muphry's law as \"the editorial application of the better-known Murphy's law\", and set it down in March 1992 in the Society of Editors Newsletter in his column \"John Bangsund's Threepenny Planet\".The law, as set out by Bangsund, states that:(a) if you write anything criticizing editing or proofreading, there will be a fault of some kind in what you have written; (b) if an author thanks you in a book for your editing or proofreading, there will be mistakes in the book; (c) the stronger the sentiment expressed in (a) and (b), the greater the fault; (d) any book devoted to editing or style will be internally inconsistent.In November 2003, the Canberra Editor added the following elaboration:Muphry's Law also dictates that, if a mistake is as plain as the nose on your face, everyone can see it but you. Your readers will always notice errors in a title, in headings, in the first paragraph of anything, and in the top lines of a new page. These are the very places where authors, editors and proofreaders are most likely to make mistakes.Bangsund's formulation was not the first to express the general sentiment that editorial criticism or advice usually contains writing errors of its own.  In 1989, Paul Dickson credited editor Joseph A. Umhoefer with the adage, \"Articles on writing are themselves badly written\", and quoted a correspondent who observed that Umhoefer \"was probably the first to phrase it so publicly; however, many others must have thought of it long ago.\"  An even earlier reference to the idea, though not phrased as an adage, appears in a 1909 book on writing by Ambrose Bierce:In neither taste nor precision is any man's practice a court of last appeal, for writers all, both great and small, are habitual sinners against the light; and their accuser is cheerfully aware that his own work will supply (as in making this book it has supplied) many 'awful examples'—his later work less abundantly, he hopes, than his earlier. He nevertheless believes that this does not disqualify him for showing by other instances than his own how not to write. The infallible teacher is still in the forest primeval, throwing seeds to the white blackbirds.== Examples ==Stephen J. Dubner described learning of the existence of Muphry's law in the \"Freakonomics\" section of The New York Times in July 2008. He had accused The Economist of a typo in referring to Cornish pasties being on sale in Mexico, assuming that pastries had been intended and being familiar only with the word pasties with the meaning of nipple coverings. A reader had alerted him to the existence of the law, and The Economist had responded by sending Dubner a Cornish pasty.In 2009, then-British Prime Minister Gordon Brown hand-wrote a letter of condolence to a mother whose son had died in Afghanistan, in which he misspelled the man's surname. The Sun (a tabloid newspaper) published an article criticising his lack of care. However, in the article, the paper also misspelled the same name and was forced to publish an apology of its own.== Variations ==Names for variations on the principle have also been coined, usually in the context of online communication, including:Umhoefer's or Umhöfer's rule: \"Articles on writing are themselves badly written.\" Named after editor Joseph A. Umhoefer.Skitt's law: \"Any post correcting an error in another post will contain at least one error itself.\" Named after Skitt, a contributor to alt.usage.english on Usenet.Hartman's law of prescriptivist retaliation: \"Any article or statement about correct grammar, punctuation, or spelling is bound to contain at least one eror [sic].\" Named after editor and writer Jed Hartman.The iron law of nitpicking: \"You are never more likely to make a grammatical error than when correcting someone else's grammar.\" Coined by blogger Zeno.McKean's law: \"Any correction of the speech or writing of others will contain at least one grammatical, spelling, or typographical error.\" Named after editor Erin McKean.Bell's first law of Usenet: \"Flames of spelling and/or grammar will have spelling and/or grammatical errors.\" Named after Andrew Bell, a contributor to alt.sex on Usenet.Further variations state that flaws in a printed (\"Clark's document law\") or published work (\"Barker's proof\") will only be discovered after it is printed and not during proofreading, and flaws such as spelling errors in a sent email will be discovered by the sender only during rereading from the \"Sent\" box.== See also ==Fumblerules – Rule of language or linguistic style that breaks the rule\"Hoist with his own petard\" – Quote from Hamlet indicating an ironic reversal== References ==== External links ==Breaking Muphry's Law, by Mark Nichol. Daily Writing TipsNow presenting… Muphry's Law, by Ben Zimmer. Language Log"
+]
+},
+"e4bef0c70fefd220": {
+"adversarial": {
+"entropy_saturation": 0.0,
+"neg_space_starvation": 0.0,
+"p_adversarial": 0.0,
+"uniformity": 0.0
+},
+"escalate": false,
+"partition_sizes": {
+"K": 16,
+"Omega": 0,
+"U": 0
+},
+"reasons": []
+},
+"e5cbada4ad59c439": {
+"adversarial": {
+"entropy_saturation": 0.0,
+"neg_space_starvation": 0.0,
+"p_adversarial": 0.0,
+"uniformity": 0.0
+},
+"escalate": false,
+"partition_sizes": {
+"K": 14,
+"Omega": 0,
+"U": 0
+},
+"reasons": []
+},
+"edbeffd8907c6add": {
+"adversarial": {
+"entropy_saturation": 0.0,
+"neg_space_starvation": 0.0,
+"p_adversarial": 0.0,
+"uniformity": 0.0
+},
+"escalate": false,
+"partition_sizes": {
+"K": 17,
+"Omega": 0,
+"U": 0
+},
+"reasons": []
+},
+"f23e931adf7c8bb0": {
+"cardinality": 1,
+"classification": {
+"policy": "pass",
+"topology": {
+"distinct_readings": 1,
+"ductus_profile": {
+"sequential": 1
+},
+"entropy_bits": -0.0,
+"excluded": 0
+},
+"type": "A0-unambiguous"
+},
+"confidence": "med",
+"contradiction_nodes": [],
+"entropy_bits": -0.0,
+"flags": [],
+"language": "balanced-delims",
+"negative_space": [],
+"orthogonal_nodes": [],
+"provenance": "b55c1d8c9bd19e70",
+"scansion": {
+"Criminal law is the body of law that relates to crime. It pr": false
+},
+"spectrum": [
+"Criminal law is the body of law that relates to crime. It proscribes conduct perceived as threatening, harmful, or otherwise endangering to the property, health, safety, and welfare of people, including oneself. Most criminal law is established by statute, which is to say that the laws are enacted by a legislature. Criminal law includes the punishment and rehabilitation of persons who violate such laws.Criminal law varies according to jurisdiction, and differs from civil law, where emphasis is more on dispute resolutions or victim compensation, rather than on punishment or rehabilitation.Criminal procedure is a formalized official activity that authenticates the fact of commission of a crime and authorizes punitive or rehabilitative treatment of the offender.== History ==The first civilizations generally did not distinguish between civil law and criminal law. The first written codes of law were designed by the Sumerians. Around 2100–2050 BC Ur-Nammu, the Neo-Sumerian king of Ur, enacted written legal code whose text has been discovered: the Code of Ur-Nammu although an earlier code of Urukagina of Lagash (2380–2360 BC) is also known to have existed. Another important early code was the Code of Hammurabi, which formed the core of Babylonian law. Only fragments of the early criminal laws of Ancient Greece have survived, e.g. those of Solon and Draco.In Roman law, Gaius's Commentaries on the Twelve Tables also conflated the civil and criminal aspects, treating theft (furtum) as a tort. Assault and violent robbery were analogized to trespass as to property.  Breach of such laws created an obligation of law or vinculum juris discharged by payment of monetary compensation or damages. The criminal law of imperial Rome is collected in Books 47–48 of the Digest. After the revival of Roman law in the 12th century, sixth-century Roman classifications and jurisprudence provided the foundations of the distinction between criminal and civil law in European law from then until the present time.The first signs of the modern distinction between crimes and civil matters emerged during the Norman Invasion of England.  The special notion of criminal penalty, at least concerning Europe, arose in Spanish Late Scholasticism (see Alfonso de Castro), when the theological notion of God's penalty (poena aeterna) that was inflicted solely for a guilty mind, became transfused into canon law first and, finally, to secular criminal law. Codifiers and architects of Early Modern criminal law were the German jurist Benedikt Carpzov (1595–1666),  professor of law in Leipzig, and two Italians, the Roman judge and lawyer Prospero Farinacci (1544–1618) and the Piedmontese lawyer and statesman Giulio Claro (1525–1575).The development of the state dispensing justice in a court clearly emerged in the eighteenth century when European countries began maintaining police services. From this point, criminal law formalized the mechanisms for enforcement, which allowed for its development as a discernible entity.== Objectives of criminal law ==Criminal law is distinctive for the uniquely serious, potential consequences or sanctions for failure to abide by its rules. Every crime is composed of criminal elements. Capital punishment may be imposed in some jurisdictions for the most serious crimes. Physical or corporal punishment may be imposed such as whipping or caning, although these punishments are prohibited in much of the world. Individuals may be incarcerated in prison or jail in a variety of conditions depending on the jurisdiction. Confinement may be solitary. Length of incarceration may vary from a day to life depending on the crime, criminal history, jurisdiction, court decision, and other factors. Government supervision may be imposed, including house arrest, and convicts may be required to conform to particularized guidelines as part of a parole or probation regimen. Fines also may be imposed, seizing money or property from a person convicted of a crime.Five objectives are widely accepted for enforcement of the criminal law by punishments: retribution, deterrence, incapacitation, rehabilitation and restoration. Jurisdictions differ on the value to be placed on each.Retribution – Criminals ought to be punished in some way. This is the most widely seen goal. Criminals have taken improper advantage, or inflicted unfair detriment, upon others and consequently, the criminal law will put criminals at some unpleasant disadvantage to \"balance the scales.\" People submit to the law to receive the right not to be murdered and if people contravene these laws, they surrender the rights granted to them by the law. Thus, one who murders may be executed himself. A related theory includes the idea of \"righting the balance.\"Deterrence – Individual deterrence is aimed toward the specific offender. The aim is to impose a sufficient penalty to discourage the offender from criminal behavior. General deterrence aims at society at large. By imposing a penalty on those who commit offenses, other individuals are discouraged from committing those offenses.Incapacitation – The concept of keeping criminals away from society so that the public is protected from their misconduct. This is often achieved through prison sentences today, and sometimes the dissolution of companies.Rehabilitation – Aims at transforming an offender into a valuable member of society. Its primary goal is to prevent further offense by convincing the offender that his conduct was wrong.Restoration – This is a victim-oriented theory of punishment. The goal is to repair, through state authority, any injury inflicted upon the victim by the offender. For example, an embezzler will be required to repay the amount improperly acquired. Restoration is commonly combined with other main goals of criminal justice and is closely related to concepts in the civil law, i.e., returning the victim to their original position before the injury.== Selected criminal laws ==Many laws are enforced by threat of criminal punishment, and the range of the punishment varies with the jurisdiction. The scope of criminal law is too vast to catalog intelligently. Nevertheless, the following are some of the more typical aspects of criminal law.=== Elements ===The criminal law generally prohibits undesirable acts. Thus, proof of a crime requires proof of some act. Scholars label this the requirement of an actus reus or guilty act. Due to potentially severe consequences of criminal conviction, judges at common law also sought proof of an intent to do some bad thing, the mens rea or guilty mind. Some crimes – particularly modern regulatory offenses like safety crime – do not require mens rea, and they are known as strict liability offenses (E.g. Under the Road traffic Act 1988 it is a strict liability offence to drive a vehicle with an alcohol concentration above the prescribed limit). As to crimes of which both actus reus and mens rea are requirements, judges have concluded that the elements must be present at precisely the same moment and it is not enough that they occurred sequentially at different times.=== Actus reus ===Actus reus is Latin for \"guilty act\" and is the physical element of committing a crime. It may be accomplished by an action, by threat of action, or exceptionally, by an omission to act, which is a legal duty to act. For example, the act of A striking B might suffice, or a parent's failure to give food to a young child also may provide the actus reus for a crime.Where the actus reus is a failure to act, there must be a duty of care. A duty can arise through contract, a voluntary undertaking, a blood relation with whom one lives, and occasionally through one's official position. Duty also can arise from one's own creation of a dangerous situation. On the other hand, it was held in the U.K. that switching off the life support of someone in a persistent vegetative state is an omission to act and not criminal. Since discontinua"
+]
+},
+"f3093c2ba6cfcf8a": {
+"adversarial": {
+"entropy_saturation": 0.0,
+"neg_space_starvation": 0.0,
+"p_adversarial": 0.0,
+"uniformity": 0.0
+},
+"escalate": false,
+"partition_sizes": {
+"K": 62,
+"Omega": 0,
+"U": 0
+},
+"reasons": []
+},
+"fe5a979cbb8a14b5": {
+"adversarial": {
+"entropy_saturation": 0.0,
+"neg_space_starvation": 0.0,
+"p_adversarial": 0.0,
+"uniformity": 0.0
+},
+"escalate": true,
+"partition_sizes": {
+"K": 0,
+"Omega": 103,
+"U": 0
+},
+"reasons": [
+"103 orthogonal/unknowable nodes"
+]
+},
+"fe91d864d033f6a4": {
+"chart": "balanced-delims",
+"domain": "law",
+"nodes": [
+"L0",
+"L1",
+"L2",
+"L3",
+"L4",
+"L5",
+"L6",
+"L7",
+"L8",
+"L9",
+"L10",
+"L11",
+"L12",
+"L13",
+"L14",
+"L15"
+]
+}
+},
 "version": "1.0"
 }
